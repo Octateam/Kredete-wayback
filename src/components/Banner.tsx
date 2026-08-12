@@ -24,7 +24,7 @@ interface PreviewCardProps {
 function PreviewCard({
   imageUrl,
   showPlaceholderContent,
-  cardClassName = 'w-36',
+  cardClassName = 'w-52',
   aspectClassName = 'aspect-[9/19]',
   placeholderCounterRotateClassName = '',
 }: PreviewCardProps) {
@@ -96,7 +96,7 @@ export function Banner({ config, platformId, imageUrls = [], dropdown }: BannerP
             <PreviewCard
               imageUrl={imageUrls[0]}
               showPlaceholderContent
-              cardClassName="w-56 rotate-45"
+              cardClassName="w-80 rotate-45"
               aspectClassName="aspect-[16/10]"
               placeholderCounterRotateClassName="-rotate-45"
             />
