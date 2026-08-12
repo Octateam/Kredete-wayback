@@ -65,16 +65,11 @@ export function Banner({ config, imageUrls = [], dropdown }: BannerProps) {
           <p className="mt-4 max-w-md text-sm text-white/60 sm:text-base">{config.subheadline}</p>
         </div>
 
-        {/* 3 screens, arranged isometrically side by side */}
-        <div className="hidden shrink-0 md:block" style={{ perspective: '1400px' }}>
-          <div
-            className="flex items-end gap-3"
-            style={{ transform: 'rotateY(-24deg) rotateX(8deg) rotateZ(-4deg)', transformStyle: 'preserve-3d' }}
-          >
-            <PreviewCard imageUrl={imageUrls[0]} className="w-24 translate-y-6 opacity-90" />
-            <PreviewCard imageUrl={imageUrls[1]} className="w-24" showPlaceholderContent />
-            <PreviewCard imageUrl={imageUrls[2]} className="w-24 -translate-y-6 opacity-90" />
-          </div>
+        {/* 3 screens, arranged beside each other */}
+        <div className="hidden shrink-0 items-end gap-3 md:flex">
+          <PreviewCard imageUrl={imageUrls[0]} className="w-24" />
+          <PreviewCard imageUrl={imageUrls[1]} className="w-24" showPlaceholderContent />
+          <PreviewCard imageUrl={imageUrls[2]} className="w-24" />
         </div>
       </div>
     </div>
