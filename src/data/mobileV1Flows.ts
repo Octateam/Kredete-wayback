@@ -12,7 +12,7 @@ interface RawFlow {
  * V1 flow + screen inventory pulled from the "Mobile Design" Figma file
  * (CD4aDiaI1KPZf1W97Rmg8u) — Non-Nigerian experience at node 29294:51646,
  * Nigerian experience at node 0:1. Images are exported to
- * public/screens/<region>/<screenId>.png; ScreenCard/FlowCard fall back to a
+ * public/screens/<region>/<screenId>.png; ScreenCard falls back to a
  * placeholder if a given file hasn't been exported yet.
  */
 function flowsFromRaw(raw: RawFlow[], region: string): Flow[] {

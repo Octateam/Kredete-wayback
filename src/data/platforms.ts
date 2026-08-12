@@ -21,14 +21,14 @@ export const PLATFORMS: PlatformData[] = [
         regions: [
           {
             id: 'nigeria',
-            label: 'Nigeria',
+            label: 'Nigerian Experience',
             figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
             figmaSectionNodeId: '0:1',
             flows: MOBILE_V1_NIGERIA_FLOWS,
           },
           {
             id: 'non-nigeria',
-            label: 'Non-Nigeria',
+            label: 'Non-Nigerian Experience',
             figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
             figmaSectionNodeId: '29294:51646',
             flows: MOBILE_V1_NON_NIGERIA_FLOWS,

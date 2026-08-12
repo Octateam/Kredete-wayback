@@ -1,13 +1,18 @@
 import { useMemo, useState } from 'react'
-import { Navigate, useOutletContext, useParams } from 'react-router-dom'
+import { Navigate, Outlet, useOutletContext, useParams } from 'react-router-dom'
 import { EmptyState } from '../components/EmptyState'
-import { FlowCard } from '../components/FlowCard'
 import { FlowSidebar } from '../components/FlowSidebar'
 import { RegionTabs } from '../components/RegionTabs'
 import { getDefaultRegionId, getRegions, hasRealRegions } from '../lib/regions'
-import type { PlatformData } from '../types'
+import type { PlatformData, RegionData, VersionData } from '../types'
 
-export function PlatformVersionPage() {
+export interface VersionOutletContext {
+  platform: PlatformData
+  version: VersionData
+  region: RegionData
+}
+
+export function VersionShell() {
   const { platform } = useOutletContext<{ platform: PlatformData }>()
   const { versionId, regionId } = useParams()
   const [query, setQuery] = useState('')
@@ -54,32 +59,23 @@ export function PlatformVersionPage() {
         </div>
       </div>
 
-      <div className="flex gap-8">
-        <FlowSidebar platformId={platform.id} versionId={version.id} regionId={region.id} flows={region.flows} />
-
-        <div className="min-w-0 flex-1">
-          {region.flows.length === 0 ? (
-            <EmptyState
-              title={`No flows added for ${version.label}${hasRealRegions(version) ? ` (${region.label})` : ''} yet`}
-              description={`Point me at the ${version.label} section in Figma and I'll pull in its flow list next.`}
-            />
-          ) : filteredFlows.length === 0 ? (
-            <EmptyState title="No matching flows" description="Try a different search term." />
-          ) : (
-            <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
-              {filteredFlows.map((flow) => (
-                <FlowCard
-                  key={flow.id}
-                  platformId={platform.id}
-                  versionId={version.id}
-                  regionId={region.id}
-                  flow={flow}
-                />
-              ))}
-            </div>
-          )}
+      {region.flows.length === 0 ? (
+        <EmptyState
+          title={`No flows added for ${version.label}${hasRealRegions(version) ? ` (${region.label})` : ''} yet`}
+          description={`Point me at the ${version.label} section in Figma and I'll pull in its flow list next.`}
+        />
+      ) : (
+        <div className="flex gap-8">
+          <FlowSidebar platformId={platform.id} versionId={version.id} regionId={region.id} flows={filteredFlows} />
+          <div className="min-w-0 flex-1">
+            {filteredFlows.length === 0 ? (
+              <EmptyState title="No matching flows" description="Try a different search term." />
+            ) : (
+              <Outlet context={{ platform, version, region }} />
+            )}
+          </div>
         </div>
-      </div>
+      )}
     </main>
   )
 }
