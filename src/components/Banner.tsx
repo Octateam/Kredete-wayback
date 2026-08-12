@@ -13,19 +13,16 @@ export function Banner({ config, imageUrl, dropdown }: BannerProps) {
   const showImage = imageUrl && !imageFailed
   return (
     <div
-      className={`relative mb-8 overflow-hidden rounded-3xl bg-gradient-to-br ${config.gradient} px-6 py-10 sm:px-10 sm:py-12`}
+      style={{ backgroundColor: config.bgColor }}
+      className="relative mb-8 overflow-hidden rounded-3xl px-6 py-10 sm:px-10 sm:py-12"
     >
-      {/* Kredete brand pattern, scaled and mirrored per instance */}
+      {/* Kredete brand pattern, at native size (not scaled), just repositioned per instance */}
       <div className="pointer-events-none absolute inset-0 overflow-hidden">
+        <img src={patternUnit} alt="" className="absolute top-[10%] right-[16%] w-[480px] -rotate-6 opacity-70" />
         <img
           src={patternUnit}
           alt=""
-          className="absolute top-[10%] right-[16%] w-[52%] max-w-[560px] min-w-[280px] -rotate-6 opacity-70"
-        />
-        <img
-          src={patternUnit}
-          alt=""
-          className="absolute bottom-[8%] left-[40%] w-[30%] max-w-[340px] min-w-[160px] rotate-[155deg] opacity-35"
+          className="absolute bottom-[8%] left-[40%] w-[300px] rotate-[155deg] opacity-35"
         />
       </div>
 
