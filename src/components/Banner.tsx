@@ -68,12 +68,12 @@ export function Banner({ config, platformId, imageUrls = [], dropdown }: BannerP
   return (
     <div
       style={{ backgroundColor: config.bgColor }}
-      className="relative mb-8 overflow-hidden rounded-3xl px-6 py-10 sm:px-10 sm:py-12"
+      className="relative mb-8 h-[380px] overflow-hidden rounded-3xl sm:h-[400px]"
     >
       {/* simple, non-distracting dot-grid texture */}
       <div className="pointer-events-none absolute inset-0" style={DOT_PATTERN_STYLE} />
 
-      <div className="relative flex items-center justify-between gap-8">
+      <div className="relative flex h-full items-center gap-8 px-6 sm:px-10">
         <div className="min-w-0 max-w-xl">
           {dropdown && <div className="mb-6">{dropdown}</div>}
           <h2 className="text-2xl leading-tight font-bold text-white sm:text-3xl lg:text-4xl">{HEADLINE}</h2>
@@ -82,27 +82,26 @@ export function Banner({ config, platformId, imageUrls = [], dropdown }: BannerP
           </p>
           <p className="mt-4 max-w-md text-sm text-white/60 sm:text-base">{config.subheadline}</p>
         </div>
-
-        {isMobile ? (
-          // Mobile: 3 phone screens, same size, arranged beside each other
-          <div className="hidden shrink-0 items-end gap-4 md:flex">
-            <PreviewCard imageUrl={imageUrls[0]} />
-            <PreviewCard imageUrl={imageUrls[1]} showPlaceholderContent />
-            <PreviewCard imageUrl={imageUrls[2]} />
-          </div>
-        ) : (
-          // Web: a single screen, inclined at 45 degrees
-          <div className="hidden shrink-0 md:block">
-            <PreviewCard
-              imageUrl={imageUrls[0]}
-              showPlaceholderContent
-              cardClassName="w-80 rotate-45"
-              aspectClassName="aspect-[16/10]"
-              placeholderCounterRotateClassName="-rotate-45"
-            />
-          </div>
-        )}
       </div>
+
+      {/* images scaled up, allowed to bleed past the bottom edge (clipped by overflow-hidden) */}
+      {isMobile ? (
+        <div className="absolute top-6 right-10 hidden items-start gap-4 md:flex">
+          <PreviewCard imageUrl={imageUrls[0]} cardClassName="w-56" />
+          <PreviewCard imageUrl={imageUrls[1]} showPlaceholderContent cardClassName="w-56" />
+          <PreviewCard imageUrl={imageUrls[2]} cardClassName="w-56" />
+        </div>
+      ) : (
+        <div className="absolute right-10 -bottom-24 hidden md:block">
+          <PreviewCard
+            imageUrl={imageUrls[0]}
+            showPlaceholderContent
+            cardClassName="w-96 rotate-45"
+            aspectClassName="aspect-[16/10]"
+            placeholderCounterRotateClassName="-rotate-45"
+          />
+        </div>
+      )}
     </div>
   )
 }
