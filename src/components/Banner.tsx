@@ -1,4 +1,5 @@
 import { useState, type ReactNode } from 'react'
+import patternUnit from '../assets/kredete-pattern-unit.png'
 import { HEADLINE, type BannerConfig } from '../data/banners'
 
 interface BannerProps {
@@ -14,10 +15,18 @@ export function Banner({ config, imageUrl, dropdown }: BannerProps) {
     <div
       className={`relative mb-8 overflow-hidden rounded-3xl bg-gradient-to-br ${config.gradient} px-6 py-10 sm:px-10 sm:py-12`}
     >
-      {/* decorative abstract rings */}
+      {/* Kredete brand pattern, scaled and mirrored per instance */}
       <div className="pointer-events-none absolute inset-0 overflow-hidden">
-        <div className="absolute top-[-30%] right-[-10%] h-[420px] w-[420px] rotate-12 rounded-full border-[28px] border-white/[0.06]" />
-        <div className="absolute bottom-[-35%] left-[10%] h-[320px] w-[320px] -rotate-12 rounded-full border-[20px] border-white/[0.05]" />
+        <img
+          src={patternUnit}
+          alt=""
+          className="absolute top-[10%] right-[16%] w-[52%] max-w-[560px] min-w-[280px] -rotate-6 opacity-70"
+        />
+        <img
+          src={patternUnit}
+          alt=""
+          className="absolute bottom-[8%] left-[40%] w-[30%] max-w-[340px] min-w-[160px] rotate-[155deg] opacity-35"
+        />
       </div>
 
       <div className="relative flex items-center justify-between gap-8">
