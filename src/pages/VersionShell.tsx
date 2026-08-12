@@ -33,8 +33,9 @@ export function VersionShell() {
 
   const isRegional = hasRealRegions(version)
   const banner = getBanner(platform.id, version.id, isRegional ? region.id : undefined)
-  const previewFlow = banner.previewFlowId ? region.flows.find((f) => f.id === banner.previewFlowId) : undefined
-  const previewImageUrls = previewFlow?.screens.slice(0, 3).map((s) => s.imageUrl).filter((url): url is string => !!url)
+  const previewImageUrls = (banner.previewFlowIds ?? [])
+    .map((flowId) => region.flows.find((f) => f.id === flowId)?.screens[0]?.imageUrl)
+    .filter((url): url is string => !!url)
 
   return (
     <main className="mx-auto max-w-[1440px] px-6 py-8">

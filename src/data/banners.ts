@@ -4,8 +4,8 @@ export interface BannerConfig {
   /** Solid, calm background color (hex). */
   bgColor: string
   accentText: string
-  /** Flow to pull a hero screen from, if that flow has real screens yet. */
-  previewFlowId?: string
+  /** Flows to pull one hero screen from each (for visual variety), if they have real screens yet. */
+  previewFlowIds?: string[]
 }
 
 const HEADLINE = 'Design Documentation'
@@ -17,7 +17,7 @@ const BANNERS: Record<string, BannerConfig> = {
       "A detailed look at the flows and screens built for Kredete's Nigerian mobile experience in V1 — NGN wallets, cards, BVN verification, credit and loans.",
     bgColor: '#1E332C',
     accentText: 'text-emerald-400',
-    previewFlowId: 'onboarding-screen',
+    previewFlowIds: ['onboarding-screen', 'create-account', 'sign-in-with-pin-or-biometrics'],
   },
   'mobile/v1/non-nigeria': {
     accent: 'Mobile App · V1 · Non-Nigerian Experience',
@@ -25,7 +25,7 @@ const BANNERS: Record<string, BannerConfig> = {
       "A detailed look at the flows and screens built for Kredete's Non-Nigerian mobile experience in V1 — USD wallets, cards, transfers and settings.",
     bgColor: '#20293A',
     accentText: 'text-sky-400',
-    previewFlowId: 'onboarding-screen',
+    previewFlowIds: ['onboarding-screen', 'create-account', 'sign-in-with-pin-or-biometrics'],
   },
   'mobile/v2': {
     accent: 'Mobile App · V2',
