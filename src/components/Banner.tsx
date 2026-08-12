@@ -1,6 +1,10 @@
 import { useState, type ReactNode } from 'react'
-import patternUnit from '../assets/kredete-pattern-unit.png'
 import { HEADLINE, type BannerConfig } from '../data/banners'
+
+const DOT_PATTERN_STYLE = {
+  backgroundImage: 'radial-gradient(rgba(255,255,255,0.16) 1px, transparent 1px)',
+  backgroundSize: '18px 18px',
+}
 
 interface BannerProps {
   config: BannerConfig
@@ -16,15 +20,8 @@ export function Banner({ config, imageUrl, dropdown }: BannerProps) {
       style={{ backgroundColor: config.bgColor }}
       className="relative mb-8 overflow-hidden rounded-3xl px-6 py-10 sm:px-10 sm:py-12"
     >
-      {/* Kredete brand pattern, at native size (not scaled), just repositioned per instance */}
-      <div className="pointer-events-none absolute inset-0 overflow-hidden">
-        <img src={patternUnit} alt="" className="absolute top-[10%] right-[16%] w-[480px] -rotate-6 opacity-70" />
-        <img
-          src={patternUnit}
-          alt=""
-          className="absolute bottom-[8%] left-[40%] w-[300px] rotate-[155deg] opacity-35"
-        />
-      </div>
+      {/* simple, non-distracting dot-grid texture */}
+      <div className="pointer-events-none absolute inset-0" style={DOT_PATTERN_STYLE} />
 
       <div className="relative flex items-center justify-between gap-8">
         <div className="min-w-0 max-w-xl">
