@@ -8,45 +8,63 @@ const DOT_PATTERN_STYLE = {
 
 interface BannerProps {
   config: BannerConfig
+  platformId: string
   imageUrls?: string[]
   dropdown?: ReactNode
 }
 
 interface PreviewCardProps {
   imageUrl?: string
-  className: string
   showPlaceholderContent?: boolean
+  cardClassName?: string
+  aspectClassName?: string
+  placeholderCounterRotateClassName?: string
 }
 
-function PreviewCard({ imageUrl, className, showPlaceholderContent }: PreviewCardProps) {
+function PreviewCard({
+  imageUrl,
+  showPlaceholderContent,
+  cardClassName = 'w-36',
+  aspectClassName = 'aspect-[9/19]',
+  placeholderCounterRotateClassName = '',
+}: PreviewCardProps) {
   const [failed, setFailed] = useState(false)
   const showImage = imageUrl && !failed
 
   return (
-    <div className={`overflow-hidden rounded-2xl border-4 border-white shadow-2xl ${className}`}>
-      {showImage ? (
-        <img src={imageUrl} alt="" className="block w-full" onError={() => setFailed(true)} />
-      ) : (
-        <div className="flex aspect-[9/19] w-full flex-col items-center justify-center gap-2 bg-neutral-800 px-4 text-center">
-          {showPlaceholderContent && (
-            <>
-              <svg viewBox="0 0 20 20" fill="currentColor" className="h-6 w-6 text-white/50">
-                <path
-                  fillRule="evenodd"
-                  d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm.75-11.25a.75.75 0 0 0-1.5 0v4c0 .199.079.39.22.53l2.5 2.5a.75.75 0 1 0 1.06-1.06l-2.28-2.28V6.75Z"
-                  clipRule="evenodd"
-                />
-              </svg>
-              <span className="text-xs font-medium text-white/50">Screens coming soon</span>
-            </>
-          )}
-        </div>
-      )}
+    <div className={`overflow-hidden rounded-2xl border-4 border-white shadow-2xl ${cardClassName}`}>
+      <div className={`relative ${aspectClassName} w-full bg-neutral-800`}>
+        {showImage ? (
+          <img
+            src={imageUrl}
+            alt=""
+            className="absolute inset-0 h-full w-full object-cover object-top"
+            onError={() => setFailed(true)}
+          />
+        ) : (
+          showPlaceholderContent && (
+            <div className="absolute inset-0 flex flex-col items-center justify-center">
+              <div className={`flex flex-col items-center gap-2 px-4 text-center ${placeholderCounterRotateClassName}`}>
+                <svg viewBox="0 0 20 20" fill="currentColor" className="h-6 w-6 text-white/50">
+                  <path
+                    fillRule="evenodd"
+                    d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm.75-11.25a.75.75 0 0 0-1.5 0v4c0 .199.079.39.22.53l2.5 2.5a.75.75 0 1 0 1.06-1.06l-2.28-2.28V6.75Z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+                <span className="text-xs font-medium whitespace-nowrap text-white/50">Screens coming soon</span>
+              </div>
+            </div>
+          )
+        )}
+      </div>
     </div>
   )
 }
 
-export function Banner({ config, imageUrls = [], dropdown }: BannerProps) {
+export function Banner({ config, platformId, imageUrls = [], dropdown }: BannerProps) {
+  const isMobile = platformId === 'mobile'
+
   return (
     <div
       style={{ backgroundColor: config.bgColor }}
@@ -65,12 +83,25 @@ export function Banner({ config, imageUrls = [], dropdown }: BannerProps) {
           <p className="mt-4 max-w-md text-sm text-white/60 sm:text-base">{config.subheadline}</p>
         </div>
 
-        {/* 3 screens, arranged beside each other */}
-        <div className="hidden shrink-0 items-end gap-3 md:flex">
-          <PreviewCard imageUrl={imageUrls[0]} className="w-24" />
-          <PreviewCard imageUrl={imageUrls[1]} className="w-24" showPlaceholderContent />
-          <PreviewCard imageUrl={imageUrls[2]} className="w-24" />
-        </div>
+        {isMobile ? (
+          // Mobile: 3 phone screens, same size, arranged beside each other
+          <div className="hidden shrink-0 items-end gap-4 md:flex">
+            <PreviewCard imageUrl={imageUrls[0]} />
+            <PreviewCard imageUrl={imageUrls[1]} showPlaceholderContent />
+            <PreviewCard imageUrl={imageUrls[2]} />
+          </div>
+        ) : (
+          // Web: a single screen, inclined at 45 degrees
+          <div className="hidden shrink-0 md:block">
+            <PreviewCard
+              imageUrl={imageUrls[0]}
+              showPlaceholderContent
+              cardClassName="w-56 rotate-45"
+              aspectClassName="aspect-[16/10]"
+              placeholderCounterRotateClassName="-rotate-45"
+            />
+          </div>
+        )}
       </div>
     </div>
   )

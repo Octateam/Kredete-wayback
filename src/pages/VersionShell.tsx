@@ -41,6 +41,7 @@ export function VersionShell() {
     <main className="mx-auto max-w-[1440px] px-6 py-8">
       <Banner
         config={banner}
+        platformId={platform.id}
         imageUrls={previewImageUrls}
         dropdown={
           isRegional ? (
