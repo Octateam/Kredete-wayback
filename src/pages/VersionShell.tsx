@@ -1,8 +1,10 @@
 import { useMemo, useState } from 'react'
 import { Navigate, Outlet, useOutletContext, useParams } from 'react-router-dom'
+import { Banner } from '../components/Banner'
 import { EmptyState } from '../components/EmptyState'
 import { FlowSidebar } from '../components/FlowSidebar'
-import { RegionTabs } from '../components/RegionTabs'
+import { RegionDropdown } from '../components/RegionDropdown'
+import { getBanner } from '../data/banners'
 import { getDefaultRegionId, getRegions, hasRealRegions } from '../lib/regions'
 import type { PlatformData, RegionData, VersionData } from '../types'
 
@@ -29,39 +31,46 @@ export function VersionShell() {
   if (!version) return <Navigate to={`/${platform.id}/${platform.versions[0].id}`} replace />
   if (!region) return <Navigate to={`/${platform.id}/${version.id}/${getDefaultRegionId(version)}`} replace />
 
+  const isRegional = hasRealRegions(version)
+  const banner = getBanner(platform.id, version.id, isRegional ? region.id : undefined)
+  const previewFlow = banner.previewFlowId ? region.flows.find((f) => f.id === banner.previewFlowId) : undefined
+  const previewImageUrl = previewFlow?.screens[0]?.imageUrl
+
   return (
     <main className="mx-auto max-w-[1440px] px-6 py-8">
-      <div className="mb-6 flex items-end justify-between gap-4">
-        <div>
-          <h1 className="text-xl font-semibold text-neutral-900 dark:text-white">
-            {platform.label} &middot; {version.label}
-            {hasRealRegions(version) && (
-              <span className="text-neutral-400 dark:text-neutral-500"> &middot; {region.label}</span>
-            )}
-          </h1>
-          <p className="mt-1 text-sm text-neutral-500 dark:text-neutral-400">
-            {region.flows.length} flow{region.flows.length === 1 ? '' : 's'}
-          </p>
-        </div>
-        <div className="flex items-center gap-3">
-          {hasRealRegions(version) && (
-            <RegionTabs platformId={platform.id} versionId={version.id} regions={getRegions(version)} />
-          )}
-          {region.flows.length > 0 && (
-            <input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              type="search"
-              placeholder="Search flows..."
-              className="w-full max-w-xs rounded-lg border border-neutral-200 bg-white px-3.5 py-2 text-sm text-neutral-800 placeholder:text-neutral-400 focus:border-neutral-400 focus:outline-none dark:border-neutral-800 dark:bg-neutral-950 dark:text-neutral-200 dark:placeholder:text-neutral-600"
+      <Banner
+        config={banner}
+        imageUrl={previewImageUrl}
+        dropdown={
+          isRegional ? (
+            <RegionDropdown
+              platformId={platform.id}
+              versionId={version.id}
+              regions={getRegions(version)}
+              activeRegionId={region.id}
             />
-          )}
-        </div>
+          ) : undefined
+        }
+      />
+
+      <div className="mb-6 flex items-end justify-between gap-4">
+        <p className="text-sm text-neutral-500 dark:text-neutral-400">
+          {region.flows.length} flow{region.flows.length === 1 ? '' : 's'}
+        </p>
+        {region.flows.length > 0 && (
+          <input
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            type="search"
+            placeholder="Search flows..."
+            className="w-full max-w-xs rounded-lg border border-neutral-200 bg-white px-3.5 py-2 text-sm text-neutral-800 placeholder:text-neutral-400 focus:border-neutral-400 focus:outline-none dark:border-neutral-800 dark:bg-neutral-950 dark:text-neutral-200 dark:placeholder:text-neutral-600"
+          />
+        )}
       </div>
 
       {region.flows.length === 0 ? (
         <EmptyState
-          title={`No flows added for ${version.label}${hasRealRegions(version) ? ` (${region.label})` : ''} yet`}
+          title={`No flows added for ${version.label}${isRegional ? ` (${region.label})` : ''} yet`}
           description={`Point me at the ${version.label} section in Figma and I'll pull in its flow list next.`}
         />
       ) : (

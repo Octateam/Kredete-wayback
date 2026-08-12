@@ -9,7 +9,7 @@ interface VersionTabsProps {
 export function VersionTabs({ platform }: VersionTabsProps) {
   return (
     <div className="border-b border-neutral-200 dark:border-neutral-800">
-      <div className="mx-auto flex max-w-[1440px] items-center gap-1 overflow-x-auto px-6">
+      <div className="mx-auto flex max-w-[1440px] items-center justify-center gap-1 overflow-x-auto px-6">
         {platform.versions.map((version) => (
           <NavLink
             key={version.id}
