@@ -8,13 +8,45 @@ const DOT_PATTERN_STYLE = {
 
 interface BannerProps {
   config: BannerConfig
-  imageUrl?: string
+  imageUrls?: string[]
   dropdown?: ReactNode
 }
 
-export function Banner({ config, imageUrl, dropdown }: BannerProps) {
-  const [imageFailed, setImageFailed] = useState(false)
-  const showImage = imageUrl && !imageFailed
+interface PreviewCardProps {
+  imageUrl?: string
+  className: string
+  showPlaceholderContent?: boolean
+}
+
+function PreviewCard({ imageUrl, className, showPlaceholderContent }: PreviewCardProps) {
+  const [failed, setFailed] = useState(false)
+  const showImage = imageUrl && !failed
+
+  return (
+    <div className={`overflow-hidden rounded-2xl border-4 border-white shadow-2xl ${className}`}>
+      {showImage ? (
+        <img src={imageUrl} alt="" className="block w-full" onError={() => setFailed(true)} />
+      ) : (
+        <div className="flex aspect-[9/19] w-full flex-col items-center justify-center gap-2 bg-neutral-800 px-4 text-center">
+          {showPlaceholderContent && (
+            <>
+              <svg viewBox="0 0 20 20" fill="currentColor" className="h-6 w-6 text-white/50">
+                <path
+                  fillRule="evenodd"
+                  d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm.75-11.25a.75.75 0 0 0-1.5 0v4c0 .199.079.39.22.53l2.5 2.5a.75.75 0 1 0 1.06-1.06l-2.28-2.28V6.75Z"
+                  clipRule="evenodd"
+                />
+              </svg>
+              <span className="text-xs font-medium text-white/50">Screens coming soon</span>
+            </>
+          )}
+        </div>
+      )}
+    </div>
+  )
+}
+
+export function Banner({ config, imageUrls = [], dropdown }: BannerProps) {
   return (
     <div
       style={{ backgroundColor: config.bgColor }}
@@ -33,23 +65,21 @@ export function Banner({ config, imageUrl, dropdown }: BannerProps) {
           <p className="mt-4 max-w-md text-sm text-white/60 sm:text-base">{config.subheadline}</p>
         </div>
 
-        <div className="relative hidden h-56 w-56 shrink-0 md:block">
-          {showImage ? (
-            <div className="absolute right-0 bottom-[-2.5rem] w-48 rotate-[8deg] overflow-hidden rounded-2xl border-4 border-white shadow-2xl">
-              <img src={imageUrl} alt="" className="block w-full" onError={() => setImageFailed(true)} />
-            </div>
-          ) : (
-            <div className="absolute right-0 bottom-[-2.5rem] flex w-48 rotate-[8deg] flex-col items-center justify-center gap-2 rounded-2xl border-4 border-white/20 bg-white/10 px-4 py-16 text-center backdrop-blur-sm">
-              <svg viewBox="0 0 20 20" fill="currentColor" className="h-6 w-6 text-white/50">
-                <path
-                  fillRule="evenodd"
-                  d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm.75-11.25a.75.75 0 0 0-1.5 0v4c0 .199.079.39.22.53l2.5 2.5a.75.75 0 1 0 1.06-1.06l-2.28-2.28V6.75Z"
-                  clipRule="evenodd"
-                />
-              </svg>
-              <span className="text-xs font-medium text-white/50">Screens coming soon</span>
-            </div>
-          )}
+        {/* fan of (at least) 3 screens */}
+        <div className="relative hidden h-56 w-72 shrink-0 md:block">
+          <PreviewCard
+            imageUrl={imageUrls[2]}
+            className="absolute right-28 bottom-[-1.5rem] z-10 w-32 -rotate-[16deg] opacity-90"
+          />
+          <PreviewCard
+            imageUrl={imageUrls[1]}
+            className="absolute right-0 bottom-[-1rem] z-20 w-32 rotate-[20deg] opacity-90"
+          />
+          <PreviewCard
+            imageUrl={imageUrls[0]}
+            className="absolute right-10 bottom-[-2.5rem] z-30 w-40 rotate-[4deg]"
+            showPlaceholderContent
+          />
         </div>
       </div>
     </div>

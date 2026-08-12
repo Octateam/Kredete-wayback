@@ -34,13 +34,13 @@ export function VersionShell() {
   const isRegional = hasRealRegions(version)
   const banner = getBanner(platform.id, version.id, isRegional ? region.id : undefined)
   const previewFlow = banner.previewFlowId ? region.flows.find((f) => f.id === banner.previewFlowId) : undefined
-  const previewImageUrl = previewFlow?.screens[0]?.imageUrl
+  const previewImageUrls = previewFlow?.screens.slice(0, 3).map((s) => s.imageUrl).filter((url): url is string => !!url)
 
   return (
     <main className="mx-auto max-w-[1440px] px-6 py-8">
       <Banner
         config={banner}
-        imageUrl={previewImageUrl}
+        imageUrls={previewImageUrls}
         dropdown={
           isRegional ? (
             <RegionDropdown
