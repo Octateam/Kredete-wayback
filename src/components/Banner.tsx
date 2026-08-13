@@ -32,7 +32,7 @@ function PreviewCard({
   const showImage = imageUrl && !failed
 
   return (
-    <div className={`overflow-hidden rounded-[50px] border-4 border-white shadow-2xl ${cardClassName}`}>
+    <div className={`overflow-hidden rounded-[32px] border-4 border-white shadow-2xl ${cardClassName}`}>
       <div className={`relative ${aspectClassName} w-full bg-neutral-800`}>
         {showImage ? (
           <img

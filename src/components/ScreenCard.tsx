@@ -7,7 +7,7 @@ export function ScreenCard({ screen }: { screen: Screen }) {
 
   return (
     <div>
-      <div className="flex aspect-[9/19] items-center justify-center overflow-hidden rounded-[50px] border border-neutral-200 bg-neutral-100 dark:border-neutral-800 dark:bg-neutral-900">
+      <div className="flex aspect-[9/19] items-center justify-center overflow-hidden rounded-[32px] border border-neutral-200 bg-neutral-100 dark:border-neutral-800 dark:bg-neutral-900">
         {showImage ? (
           <img
             src={screen.imageUrl}
