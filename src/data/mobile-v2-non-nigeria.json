@@ -1,0 +1,2738 @@
+[
+  {
+    "flow": "Splash Screen",
+    "screens": [
+      {
+        "id": "33992:35674",
+        "name": "Splash Screen"
+      },
+      {
+        "id": "33992:35677",
+        "name": "Splash Screen (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Create Account",
+    "screens": [
+      {
+        "id": "37996:65746",
+        "name": "Location Permission"
+      },
+      {
+        "id": "33992:36765",
+        "name": "Create Account/Empty"
+      },
+      {
+        "id": "33992:36786",
+        "name": "Create Account/Empty (2)"
+      },
+      {
+        "id": "33992:36839",
+        "name": "Create Account/Filled"
+      },
+      {
+        "id": "33992:36898",
+        "name": "Create Account/Ftag"
+      },
+      {
+        "id": "33992:36954",
+        "name": "Create Account/tag/Filled"
+      },
+      {
+        "id": "33992:37010",
+        "name": "Create Account/Error"
+      },
+      {
+        "id": "33992:37065",
+        "name": "Create Account/Error/User already Exist"
+      },
+      {
+        "id": "33992:37249",
+        "name": "Transaction Pin/FIlled"
+      },
+      {
+        "id": "33992:37121",
+        "name": "Choose your tag/Empty"
+      },
+      {
+        "id": "33992:37144",
+        "name": "Choose your tag/Filled"
+      },
+      {
+        "id": "33992:37169",
+        "name": "Choose your tag/Filled (2)"
+      },
+      {
+        "id": "33992:37200",
+        "name": "Choose your tag/Filled (3)"
+      },
+      {
+        "id": "33992:37228",
+        "name": "Transaction Pin/Empty"
+      },
+      {
+        "id": "33992:37270",
+        "name": "Account created"
+      },
+      {
+        "id": "33992:37281",
+        "name": "Confirm Pin/Empty"
+      },
+      {
+        "id": "33992:37302",
+        "name": "Confirm Pin/ Filled"
+      },
+      {
+        "id": "33992:37323",
+        "name": "Confirm Pin/ Error"
+      }
+    ]
+  },
+  {
+    "flow": "Reset Pin",
+    "screens": [
+      {
+        "id": "33992:37346",
+        "name": "OTP verificatio"
+      },
+      {
+        "id": "33992:37372",
+        "name": "OTP verificatio/ Countdown Finished"
+      },
+      {
+        "id": "33992:37399",
+        "name": "OTP verification/ Error"
+      },
+      {
+        "id": "33992:37427",
+        "name": "Answer your Security Question"
+      },
+      {
+        "id": "33992:37449",
+        "name": "Answer your Security Question/Filled"
+      },
+      {
+        "id": "33992:37471",
+        "name": "Answer your Security Question/Error"
+      },
+      {
+        "id": "33992:37493",
+        "name": "OTP verificatio/Filled"
+      },
+      {
+        "id": "33992:37519",
+        "name": "New Transaction Pin/Empty"
+      },
+      {
+        "id": "33992:37537",
+        "name": "New Transaction Pin/FIlled"
+      },
+      {
+        "id": "33992:37555",
+        "name": "Confirm new Pin/Empty"
+      },
+      {
+        "id": "33992:37573",
+        "name": "Confirm new Pin/ Filled"
+      },
+      {
+        "id": "33992:37591",
+        "name": "Reset pin successfull"
+      },
+      {
+        "id": "33992:37602",
+        "name": "verify via"
+      }
+    ]
+  },
+  {
+    "flow": "Sign In with pin or biometrics",
+    "screens": [
+      {
+        "id": "33992:37615",
+        "name": "Welcome back,/ Face ID/ Error"
+      },
+      {
+        "id": "33992:37651",
+        "name": "Maximum attempt reached"
+      },
+      {
+        "id": "33992:37662",
+        "name": "Confirm switch account"
+      },
+      {
+        "id": "33992:37675",
+        "name": "Welcome back,/ No biometrics/ Empty"
+      },
+      {
+        "id": "33992:37699",
+        "name": "Welcome back,/ No biometrics/ Filled"
+      },
+      {
+        "id": "33992:37723",
+        "name": "Welcome back,/ Fingerprint/Not yet activated"
+      },
+      {
+        "id": "33992:37747",
+        "name": "Welcome back,/ Face ID/Not yet activated"
+      },
+      {
+        "id": "33992:37771",
+        "name": "Biometrics"
+      },
+      {
+        "id": "33992:37782",
+        "name": "Biometrics (2)"
+      },
+      {
+        "id": "33992:37793",
+        "name": "Welcome back,/ No biometrics/ Error"
+      },
+      {
+        "id": "33992:37818",
+        "name": "Welcome back,/ Fingerprint/Failed"
+      }
+    ]
+  },
+  {
+    "flow": "LogIn",
+    "screens": [
+      {
+        "id": "33992:37855",
+        "name": "Login / Email Field / Empty State"
+      },
+      {
+        "id": "33992:37880",
+        "name": "Login / Email Field / Valid State"
+      },
+      {
+        "id": "33992:37905",
+        "name": "Login / Email Field / InValid State"
+      },
+      {
+        "id": "33992:37930",
+        "name": "Login / Password Field / Active State"
+      },
+      {
+        "id": "33992:37955",
+        "name": "Login / Password Field / Visible State"
+      },
+      {
+        "id": "33992:37980",
+        "name": "Login / Password Field / Visible State (2)"
+      },
+      {
+        "id": "33992:38005",
+        "name": "Login/ Error"
+      },
+      {
+        "id": "33992:38032",
+        "name": "OTP verificatio"
+      },
+      {
+        "id": "33992:38058",
+        "name": "OTP verificatio/ Countdown Finished"
+      },
+      {
+        "id": "33992:38085",
+        "name": "OTP verification/ Error"
+      },
+      {
+        "id": "33992:38113",
+        "name": "OTP verificatio/Filled"
+      },
+      {
+        "id": "33992:38139",
+        "name": "Welcome back/ Enter Pin/Emptyl"
+      },
+      {
+        "id": "33992:38163",
+        "name": "Welcome back/ Filled"
+      },
+      {
+        "id": "33992:38187",
+        "name": "Welcome back/ Error"
+      }
+    ]
+  },
+  {
+    "flow": "Security Lock",
+    "screens": [
+      {
+        "id": "33992:38213",
+        "name": "Login / Email Field / Empty State"
+      },
+      {
+        "id": "33992:38238",
+        "name": "Login / Email Field / Valid State"
+      },
+      {
+        "id": "33992:38263",
+        "name": "Login / Email Field / InValid State"
+      },
+      {
+        "id": "33992:38288",
+        "name": "Login / Password Field / Active State"
+      },
+      {
+        "id": "33992:38313",
+        "name": "Login / Password Field / Visible State"
+      },
+      {
+        "id": "33992:38338",
+        "name": "Login / Password Field / Visible State (2)"
+      },
+      {
+        "id": "33992:38363",
+        "name": "Login/ Error"
+      },
+      {
+        "id": "33992:38390",
+        "name": "OTP verificatio"
+      },
+      {
+        "id": "33992:38416",
+        "name": "OTP verificatio/ Countdown Finished"
+      },
+      {
+        "id": "33992:38443",
+        "name": "OTP verification/ Error"
+      },
+      {
+        "id": "33992:38471",
+        "name": "OTP verificatio/Filled"
+      },
+      {
+        "id": "33992:38497",
+        "name": "Welcome back/ Enter Pin/Emptyl"
+      },
+      {
+        "id": "33992:38521",
+        "name": "Welcome back/ Filled"
+      },
+      {
+        "id": "33992:38545",
+        "name": "Welcome back/ Error"
+      },
+      {
+        "id": "33992:38570",
+        "name": "Security Lock"
+      }
+    ]
+  },
+  {
+    "flow": "Security Lock \u00b7 Account Limits",
+    "screens": [
+      {
+        "id": "33992:38657",
+        "name": "Settings/Account limits/Transfers/Tier 2 pending"
+      },
+      {
+        "id": "33992:38726",
+        "name": "Settings/Account limits/Transfers/Tier 3 pending"
+      },
+      {
+        "id": "33992:38863",
+        "name": "Settings/Account limits/Cards"
+      }
+    ]
+  },
+  {
+    "flow": "Forgot Password",
+    "screens": [
+      {
+        "id": "33992:39038",
+        "name": "Forgot Password/Empty"
+      },
+      {
+        "id": "33992:39059",
+        "name": "Forgot Password/Filled"
+      },
+      {
+        "id": "33992:39080",
+        "name": "Forgot Password/Error"
+      },
+      {
+        "id": "33992:39101",
+        "name": "Verify Account/ Empty"
+      },
+      {
+        "id": "33992:39127",
+        "name": "Verify Account/ Countdown Finished"
+      },
+      {
+        "id": "33992:39154",
+        "name": "Verify Account/ Error"
+      },
+      {
+        "id": "33992:39182",
+        "name": "Reset Password/Empty"
+      },
+      {
+        "id": "33992:39200",
+        "name": "Reset Password/Empty (2)"
+      },
+      {
+        "id": "33992:39218",
+        "name": "Reset password successful"
+      },
+      {
+        "id": "33992:39229",
+        "name": "Verify Account/Filled"
+      }
+    ]
+  },
+  {
+    "flow": "User Account Setup + Other New user tab \u00b7 User account Setup",
+    "screens": [
+      {
+        "id": "33992:39628",
+        "name": "HomePage - New User"
+      },
+      {
+        "id": "33992:39865",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "33992:39884",
+        "name": "Account SetUp/phone number/Empty"
+      },
+      {
+        "id": "33992:39914",
+        "name": "Account SetUp/phone number/Filled"
+      },
+      {
+        "id": "33992:39944",
+        "name": "Account SetUp/Email Address Verified"
+      },
+      {
+        "id": "33992:39969",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "33992:39997",
+        "name": "Account SetUp/Email Address/Filled (2)"
+      },
+      {
+        "id": "33992:40025",
+        "name": "Account SetUp/phone number/Empty/Resend countdown done"
+      },
+      {
+        "id": "33992:40057",
+        "name": "Account Setup/Phone Numper/Error"
+      },
+      {
+        "id": "33992:40089",
+        "name": "Account SetUp/ Continue"
+      },
+      {
+        "id": "33992:40108",
+        "name": "Account SetUp/Phone Number Verified"
+      },
+      {
+        "id": "33992:40129",
+        "name": "Account SetUp/Email Address/Filled (3)"
+      },
+      {
+        "id": "33992:40149",
+        "name": "Account SetUp/Email Address/Filled (4)"
+      },
+      {
+        "id": "33992:40169",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "33992:40198",
+        "name": "Account SetUp/Email Address/Empty (2)"
+      },
+      {
+        "id": "33992:40227",
+        "name": "Account SetUp/Email Address/Filled (5)"
+      },
+      {
+        "id": "33992:40257",
+        "name": "Account SetUp/Identity Verification"
+      },
+      {
+        "id": "33992:40279",
+        "name": "Date of birth Modal"
+      },
+      {
+        "id": "33992:40298",
+        "name": "Date of birth Modal (2)"
+      },
+      {
+        "id": "33992:40317",
+        "name": "Account SetUp/Data Consent"
+      },
+      {
+        "id": "33992:40479",
+        "name": "Do not support notice"
+      },
+      {
+        "id": "33992:40842",
+        "name": "Account SetUp/Identity Verification (2)"
+      },
+      {
+        "id": "33992:40865",
+        "name": "Account SetUp/Identity Verification (3)"
+      },
+      {
+        "id": "33992:40888",
+        "name": "Front of Card"
+      },
+      {
+        "id": "33992:40909",
+        "name": "Account SetUp/Identity Verification/Front Captured"
+      },
+      {
+        "id": "33992:40938",
+        "name": "Account SetUp/identity verified"
+      },
+      {
+        "id": "33992:40961",
+        "name": "Account SetUp/identity verification failed"
+      },
+      {
+        "id": "33992:40982",
+        "name": "Account SetUp/IDVerification/Take Selfie"
+      },
+      {
+        "id": "33992:41006",
+        "name": "Selfie"
+      },
+      {
+        "id": "33992:41027",
+        "name": "Account SetUp/ID Verification/Selfie Captured"
+      }
+    ]
+  },
+  {
+    "flow": "User Account Setup + Other New user tab \u00b7 Security Question",
+    "screens": [
+      {
+        "id": "33992:41050",
+        "name": "HomePage - New User"
+      },
+      {
+        "id": "33992:41272",
+        "name": "Security Questions"
+      },
+      {
+        "id": "33992:41291",
+        "name": "Security questions"
+      },
+      {
+        "id": "33992:41304",
+        "name": "Security Questions (2)"
+      },
+      {
+        "id": "33992:41324",
+        "name": "Setup security question modal"
+      },
+      {
+        "id": "33992:41370",
+        "name": "Setup security question successfully"
+      }
+    ]
+  },
+  {
+    "flow": "User Account Setup + Other New user tab \u00b7 New user home",
+    "screens": [
+      {
+        "id": "33992:41390",
+        "name": "Accounts/Dollar"
+      },
+      {
+        "id": "33992:41401",
+        "name": "Accounts/Naira"
+      },
+      {
+        "id": "33992:41411",
+        "name": "Complete Prompt"
+      },
+      {
+        "id": "33992:41510",
+        "name": "HomePage - New User"
+      },
+      {
+        "id": "33992:41479",
+        "name": "Transfer Money/USD"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Other Information",
+    "screens": [
+      {
+        "id": "33992:41752",
+        "name": "Settings/ Account/Other Information/Empty"
+      },
+      {
+        "id": "33992:41778",
+        "name": "Settings/ Account/Other Information/Typing"
+      },
+      {
+        "id": "33992:41803",
+        "name": "Settings/ Account/Other Information/Private"
+      },
+      {
+        "id": "33992:41829",
+        "name": "Settings/ Account/Other Information/Private (2)"
+      },
+      {
+        "id": "33992:41856",
+        "name": "Settings/ Account/Other Information/Self"
+      },
+      {
+        "id": "33992:41882",
+        "name": "Settings/ Account/Other Information/Self (2)"
+      },
+      {
+        "id": "33992:41909",
+        "name": "Settings/ Account/Other Information"
+      },
+      {
+        "id": "33992:41936",
+        "name": "Industry List"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Settings home + account",
+    "screens": [
+      {
+        "id": "33992:42841",
+        "name": "Settings/ Account not Verified"
+      },
+      {
+        "id": "33992:42923",
+        "name": "Settings/ Account Verified"
+      },
+      {
+        "id": "33992:43005",
+        "name": "Settings/ Account/New User/ Uneditted"
+      },
+      {
+        "id": "33992:43053",
+        "name": "Settings/ Account/New User/ editted"
+      },
+      {
+        "id": "33992:43101",
+        "name": "Settings/ Account/New User/ Editted/username available"
+      },
+      {
+        "id": "33992:43153",
+        "name": "Settings/ Account/New User/ Editted/username available (2)"
+      },
+      {
+        "id": "33992:43203",
+        "name": "Settings/ Account Verified/ Image uploaded"
+      },
+      {
+        "id": "33992:43286",
+        "name": "Settings/ Account/New User/ Editted"
+      },
+      {
+        "id": "33992:43334",
+        "name": "Settings/ Account/Verified User"
+      },
+      {
+        "id": "33992:43384",
+        "name": "Settings/ Account/Verified User (2)"
+      },
+      {
+        "id": "33992:43434",
+        "name": "Change Photo"
+      },
+      {
+        "id": "33992:43447",
+        "name": "Photo Changed Successfully"
+      },
+      {
+        "id": "33992:43458",
+        "name": "Settings/Account Security"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Delete account",
+    "screens": [
+      {
+        "id": "33992:43488",
+        "name": "Settings/Delete Account"
+      },
+      {
+        "id": "33992:43514",
+        "name": "Settings/Delete Account/General"
+      },
+      {
+        "id": "33992:43540",
+        "name": "Settings/Delete Account/Last Check"
+      },
+      {
+        "id": "33992:43563",
+        "name": "Settings/Delete Account/Verification/ Empty"
+      },
+      {
+        "id": "33992:43584",
+        "name": "Settings/Delete Account/Verification/Filled"
+      },
+      {
+        "id": "33992:43605",
+        "name": "Account deleted Successfully"
+      },
+      {
+        "id": "33992:43616",
+        "name": "Settings/Delete Account/Others"
+      },
+      {
+        "id": "33992:43643",
+        "name": "Settings/Delete Account/Others/Filled"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Account Security",
+    "screens": [
+      {
+        "id": "33992:43671",
+        "name": "Settings/Account Security"
+      },
+      {
+        "id": "33992:43703",
+        "name": "Settings/Account Security/Reset password/ Empty"
+      },
+      {
+        "id": "33992:43723",
+        "name": "Settings/Account Security/Reset password/ Empty (2)"
+      },
+      {
+        "id": "33992:43743",
+        "name": "Settings/Account Security/Reset pin/ Empty"
+      },
+      {
+        "id": "33992:43765",
+        "name": "Settings/Account Security/Reset pin/ Filled"
+      },
+      {
+        "id": "33992:43787",
+        "name": "Settings/Account Security/Reset pin/New/Empty"
+      },
+      {
+        "id": "33992:43806",
+        "name": "Settings/Account Security/Reset pin/New/Filled"
+      },
+      {
+        "id": "33992:43825",
+        "name": "Reset password successful"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Account Limits",
+    "screens": [
+      {
+        "id": "33997:98312",
+        "name": "Settings/Account limits/Transfers"
+      },
+      {
+        "id": "33997:98379",
+        "name": "Settings/Account limits/Transfers (2)"
+      },
+      {
+        "id": "33997:99242",
+        "name": "Settings/Account limits/Cards"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Referral",
+    "screens": [
+      {
+        "id": "33997:102646",
+        "name": "Settings/Referrals/Pending/Empty"
+      },
+      {
+        "id": "33997:103290",
+        "name": "Settings/Referrals/Completed/Empty"
+      },
+      {
+        "id": "33997:103940",
+        "name": "Settings/Referrals/Completed/Empty (2)"
+      },
+      {
+        "id": "33997:104445",
+        "name": "Settings/Referrals/Pending"
+      },
+      {
+        "id": "33997:104980",
+        "name": "Settings/Referrals"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Notification + Terms and Conditions + report a bug",
+    "screens": [
+      {
+        "id": "33992:47310",
+        "name": "Settings/Notifications"
+      },
+      {
+        "id": "33992:47341",
+        "name": "Settings/Privacy Policy"
+      },
+      {
+        "id": "33992:47438",
+        "name": "Settings/Terms of Service"
+      },
+      {
+        "id": "33992:47568",
+        "name": "Settings/Report a Bug/ Empty"
+      },
+      {
+        "id": "33992:47592",
+        "name": "Report sent Successfully"
+      },
+      {
+        "id": "33992:47605",
+        "name": "Settings/Report a Bug/Filled"
+      },
+      {
+        "id": "33992:47629",
+        "name": "Settings/Report a Bug/Filled/screenshot"
+      }
+    ]
+  },
+  {
+    "flow": "KYC Information",
+    "screens": [
+      {
+        "id": "33992:41973",
+        "name": "Settings/KYC/New User"
+      },
+      {
+        "id": "33992:42081",
+        "name": "Settings/KYC/New User/"
+      },
+      {
+        "id": "33992:42101",
+        "name": "Settings/KYC/New User/Continue"
+      },
+      {
+        "id": "33992:42134",
+        "name": "Settings/KYC/Verified"
+      },
+      {
+        "id": "40182:67068",
+        "name": "Settings/KYC/Verified (2)"
+      },
+      {
+        "id": "33992:42181",
+        "name": "Settings/KYC/Verified (3)"
+      },
+      {
+        "id": "33992:42228",
+        "name": "Settings/KYC/Verified (4)"
+      },
+      {
+        "id": "40183:30029",
+        "name": "Settings/KYC/Verified (5)"
+      },
+      {
+        "id": "40188:30756",
+        "name": "Settings/KYC/Verified (6)"
+      },
+      {
+        "id": "33992:42278",
+        "name": "Account SetUp/identity verification failed"
+      },
+      {
+        "id": "40183:28290",
+        "name": "Settings/KYC/Address verification"
+      },
+      {
+        "id": "40183:29059",
+        "name": "Settings/KYC/Address verification (2)"
+      },
+      {
+        "id": "40183:30179",
+        "name": "Settings/KYC/Source of Funds"
+      },
+      {
+        "id": "40188:30333",
+        "name": "Settings/KYC/Source of Funds (2)"
+      },
+      {
+        "id": "40188:30431",
+        "name": "Settings/KYC/Source of Funds (3)"
+      },
+      {
+        "id": "40188:30570",
+        "name": "Settings/KYC/Source of Funds (4)"
+      },
+      {
+        "id": "40183:28342",
+        "name": "Settings/KYC/Address verification / Successful"
+      },
+      {
+        "id": "40188:30671",
+        "name": "Settings/KYC/Address verification / Successful (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Banks & Beneficiaries \u00b7 Add Beneficiaries - Mobile Money",
+    "screens": [
+      {
+        "id": "34816:96807",
+        "name": "Select Currency"
+      },
+      {
+        "id": "34816:96841",
+        "name": "Select Currency (2)"
+      },
+      {
+        "id": "34816:96875",
+        "name": "Transfer Money/ Mobile Money / Empty"
+      },
+      {
+        "id": "34816:96910",
+        "name": "Delivery Method"
+      },
+      {
+        "id": "34816:96932",
+        "name": "Delivery Method (2)"
+      },
+      {
+        "id": "34816:96954",
+        "name": "Delivery Method (3)"
+      },
+      {
+        "id": "34816:97672",
+        "name": "Transfer Money/ Mobile Money / Filled"
+      },
+      {
+        "id": "34814:96394",
+        "name": "Bank and Cards/Bank/Manage"
+      },
+      {
+        "id": "34814:73991",
+        "name": "Add Beneficiary Account/Success"
+      },
+      {
+        "id": "34816:97831",
+        "name": "Delete Beneficiary"
+      }
+    ]
+  },
+  {
+    "flow": "Banks & Beneficiaries \u00b7 Add Beneficiaries - Bank Account",
+    "screens": [
+      {
+        "id": "34814:96049",
+        "name": "Select Currency"
+      },
+      {
+        "id": "34814:95363",
+        "name": "Select Currency (2)"
+      },
+      {
+        "id": "34814:73456",
+        "name": "Transfer Money/ Bank Account / Typed"
+      },
+      {
+        "id": "34814:73498",
+        "name": "Delivery Method"
+      },
+      {
+        "id": "34814:73519",
+        "name": "Delivery Method (2)"
+      },
+      {
+        "id": "34814:73914",
+        "name": "Transfer Money/ Bank Account / Empty"
+      },
+      {
+        "id": "34814:74039",
+        "name": "Add Beneficiary Account/Success"
+      },
+      {
+        "id": "34816:101316",
+        "name": "Bank and Cards/Bank/Manage"
+      },
+      {
+        "id": "34816:101370",
+        "name": "Delete Beneficiary"
+      },
+      {
+        "id": "34818:102027",
+        "name": "Transfer Money/ Bank Account / Error"
+      }
+    ]
+  },
+  {
+    "flow": "Banks & Beneficiaries",
+    "screens": [
+      {
+        "id": "34817:101976",
+        "name": "Add Beneficiary Account/Success"
+      },
+      {
+        "id": "34816:98578",
+        "name": "Bank and Cards/Bank/Empty"
+      },
+      {
+        "id": "34816:98715",
+        "name": "Benficiary and Card/Searching"
+      },
+      {
+        "id": "34816:98746",
+        "name": "Benficiary and Card/Searching not found"
+      },
+      {
+        "id": "34814:96510",
+        "name": "Benficiary and Card/banks"
+      },
+      {
+        "id": "34816:101394",
+        "name": "Bank and Cards/Cards"
+      },
+      {
+        "id": "34816:101458",
+        "name": "Bank and Cards/Cards/Manage"
+      },
+      {
+        "id": "34817:101884",
+        "name": "Enter Card Information"
+      },
+      {
+        "id": "34817:101909",
+        "name": "Enter Card Information (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Home - USD wallet",
+    "screens": [
+      {
+        "id": "33992:51388",
+        "name": "HomePage/ Existing User/USD"
+      },
+      {
+        "id": "33992:51556",
+        "name": "Accounts/Dollar"
+      },
+      {
+        "id": "40518:68321",
+        "name": "Add Money"
+      },
+      {
+        "id": "33992:51567",
+        "name": "Add new account"
+      },
+      {
+        "id": "40202:28677",
+        "name": "Card/Naira"
+      },
+      {
+        "id": "40202:28354",
+        "name": "Card/Naira (2)"
+      },
+      {
+        "id": "40605:68462",
+        "name": "Card/Naira (3)"
+      },
+      {
+        "id": "33992:51586",
+        "name": "Add new account (2)"
+      },
+      {
+        "id": "33992:51924",
+        "name": "Account Statement"
+      },
+      {
+        "id": "33992:51964",
+        "name": "Account Statement (2)"
+      },
+      {
+        "id": "33992:52004",
+        "name": "Account Statement/custom"
+      },
+      {
+        "id": "33992:52048",
+        "name": "Account Statement/custom/typed"
+      },
+      {
+        "id": "33992:52091",
+        "name": "Account Statemetn sent"
+      },
+      {
+        "id": "33992:52102",
+        "name": "Account Statement error"
+      },
+      {
+        "id": "33992:52512",
+        "name": "Accounts/Dollar (2)"
+      },
+      {
+        "id": "33992:52522",
+        "name": "Convert Funds/NGN"
+      },
+      {
+        "id": "33992:52583",
+        "name": "Convert Funds/NGN/Typing"
+      },
+      {
+        "id": "33992:52645",
+        "name": "Convert Funds/NGN/Typed"
+      },
+      {
+        "id": "33992:52707",
+        "name": "Convert Funds/USD"
+      },
+      {
+        "id": "33992:53014",
+        "name": "Convert Funds/USD (2)"
+      },
+      {
+        "id": "33992:53076",
+        "name": "Convert Funds/USD/Typing"
+      },
+      {
+        "id": "33992:53139",
+        "name": "Convert Funds/USD/Typed"
+      },
+      {
+        "id": "33992:53202",
+        "name": "Convert Funds/NGN/Error"
+      },
+      {
+        "id": "33992:53264",
+        "name": "Confirm Swap"
+      },
+      {
+        "id": "33992:53288",
+        "name": "Convert Funds/Success/naira"
+      },
+      {
+        "id": "33992:53322",
+        "name": "Convert Funds/Success/Dollar"
+      },
+      {
+        "id": "33992:53356",
+        "name": "Confirm Swap/dollar"
+      },
+      {
+        "id": "34193:85906",
+        "name": "Add new account (3)"
+      },
+      {
+        "id": "34193:85948",
+        "name": "Create NGN account Reminfer"
+      },
+      {
+        "id": "38013:65675",
+        "name": "Account restriction"
+      },
+      {
+        "id": "34193:86281",
+        "name": "BVN check modal"
+      },
+      {
+        "id": "40194:34129",
+        "name": "More Options"
+      },
+      {
+        "id": "40194:34154",
+        "name": "Account Detai;s"
+      },
+      {
+        "id": "40202:28896",
+        "name": "Card"
+      },
+      {
+        "id": "40202:29355",
+        "name": "Card (2)"
+      },
+      {
+        "id": "33992:52197",
+        "name": "Fund Wallet/Card/Typed"
+      },
+      {
+        "id": "33992:52230",
+        "name": "Fund Wallet/Card"
+      },
+      {
+        "id": "33992:53626",
+        "name": "Add Money/Card"
+      },
+      {
+        "id": "33992:52113",
+        "name": "Add money"
+      },
+      {
+        "id": "33992:52138",
+        "name": "Fund Wallet/Card (2)"
+      },
+      {
+        "id": "40521:68512",
+        "name": "Fund Wallet/Card (3)"
+      },
+      {
+        "id": "33992:52164",
+        "name": "Fund Wallet/Card/Typing"
+      },
+      {
+        "id": "33992:52278",
+        "name": "Add Card/Empty"
+      },
+      {
+        "id": "33992:52376",
+        "name": "Add Card/Filled"
+      },
+      {
+        "id": "33992:52463",
+        "name": "Add Card/Error"
+      },
+      {
+        "id": "33992:52425",
+        "name": "Verify card/Empty"
+      },
+      {
+        "id": "33992:52326",
+        "name": "Verify card/Filled"
+      },
+      {
+        "id": "33992:52339",
+        "name": "Add Bank Account /Failed"
+      },
+      {
+        "id": "33992:52438",
+        "name": "Fund Wallet/Card/Success"
+      },
+      {
+        "id": "33992:52769",
+        "name": "Convert Funds/USD (3)"
+      },
+      {
+        "id": "33992:53382",
+        "name": "Card Usage Modal"
+      }
+    ]
+  },
+  {
+    "flow": "BVN Flow",
+    "screens": [
+      {
+        "id": "33992:53664",
+        "name": "HomePage/ Existing User/USD"
+      },
+      {
+        "id": "33992:53832",
+        "name": "Accounts/Dollar"
+      },
+      {
+        "id": "33992:53843",
+        "name": "Add new account"
+      },
+      {
+        "id": "33992:53862",
+        "name": "Add new account (2)"
+      },
+      {
+        "id": "33992:53881",
+        "name": "Create NGN account Reminfer"
+      },
+      {
+        "id": "33992:54185",
+        "name": "BVN check modal"
+      }
+    ]
+  },
+  {
+    "flow": "BVN Flow \u00b7 BVN Enrolment Flow",
+    "screens": [
+      {
+        "id": "33992:54201",
+        "name": "BVN Enrolment/ Advantage 5"
+      },
+      {
+        "id": "33992:54341",
+        "name": "BVN Enrolment/ Advantage 6"
+      },
+      {
+        "id": "33992:54422",
+        "name": "BVN Enrolment/ Advantage 7"
+      },
+      {
+        "id": "33992:54531",
+        "name": "BVN Enrolment Requirement"
+      },
+      {
+        "id": "33992:54575",
+        "name": "BVN Enrolment/ Advantage 8"
+      },
+      {
+        "id": "33992:54624",
+        "name": "Demography Information / Page 7"
+      },
+      {
+        "id": "33992:54675",
+        "name": "Demography Information / Page 9"
+      },
+      {
+        "id": "33992:54726",
+        "name": "Demography Information / Page 11"
+      },
+      {
+        "id": "33992:54781",
+        "name": "Contact Information - Nigerian User / Default"
+      },
+      {
+        "id": "33992:54807",
+        "name": "Contact Information / Non-Nigerian User"
+      },
+      {
+        "id": "33992:54833",
+        "name": "Biometric Appointment / Default"
+      },
+      {
+        "id": "33992:54867",
+        "name": "Biometric Appointment / Filled"
+      },
+      {
+        "id": "33992:54902",
+        "name": "Biometric Appointment / Filled (2)"
+      },
+      {
+        "id": "33992:54936",
+        "name": "Booking Successful"
+      },
+      {
+        "id": "33992:54952",
+        "name": "What is a notary appointment"
+      },
+      {
+        "id": "33992:55357",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "33992:55373",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "33992:55389",
+        "name": "Add New Card"
+      },
+      {
+        "id": "33992:55438",
+        "name": "Select Card"
+      },
+      {
+        "id": "33992:55474",
+        "name": "Select Payment Method/ Default / USD Wallet"
+      },
+      {
+        "id": "33992:55504",
+        "name": "Select Payment Method/ Default / Pay with card"
+      },
+      {
+        "id": "33992:55535",
+        "name": "Add Card/Empty"
+      },
+      {
+        "id": "33992:55583",
+        "name": "Add Card/Filled"
+      },
+      {
+        "id": "33992:55632",
+        "name": "Add Card'Error"
+      },
+      {
+        "id": "33992:55681",
+        "name": "Confirm transfer money"
+      },
+      {
+        "id": "33992:55700",
+        "name": "Add Card/Success"
+      },
+      {
+        "id": "33992:55723",
+        "name": "Add Card/Success (2)"
+      },
+      {
+        "id": "35889:67325",
+        "name": "Share receipt modal/ Default"
+      },
+      {
+        "id": "35889:67241",
+        "name": "Share receipt modal/ Default (2)"
+      },
+      {
+        "id": "33992:55906",
+        "name": "Payment Receipt"
+      },
+      {
+        "id": "33992:55944",
+        "name": "HomePage - New User / BVN Processing"
+      },
+      {
+        "id": "33992:56342",
+        "name": "HomePage - New User / BVN Rejected"
+      },
+      {
+        "id": "33992:56738",
+        "name": "HomePage - New User / BVN Rejected (2)"
+      },
+      {
+        "id": "33992:57134",
+        "name": "Booking Successful (2)"
+      },
+      {
+        "id": "33992:57147",
+        "name": "Demography Information / Page 10"
+      },
+      {
+        "id": "33992:57185",
+        "name": "HomePage - New User with incomplete BVN enrolment"
+      },
+      {
+        "id": "33992:57586",
+        "name": "BVN verification complete"
+      },
+      {
+        "id": "33992:57598",
+        "name": "Enter Card Information"
+      },
+      {
+        "id": "33992:57626",
+        "name": "Account SetUp/Identity Verification"
+      },
+      {
+        "id": "33992:57649",
+        "name": "Account SetUp/Identity Verification (2)"
+      },
+      {
+        "id": "33992:57672",
+        "name": "HomePage - New User / BVN appointment Approved"
+      },
+      {
+        "id": "33992:58070",
+        "name": "HomePage - New User / BVN Pending NIBSS"
+      }
+    ]
+  },
+  {
+    "flow": "BVN Flow \u00b7 Existing BVN",
+    "screens": [
+      {
+        "id": "33992:58469",
+        "name": "Account SetUp/ BVN Verification/ Empty"
+      },
+      {
+        "id": "33992:58498",
+        "name": "Account SetUp/ BVN Verification/ Entered"
+      },
+      {
+        "id": "33992:58527",
+        "name": "Account SetUp/BVN Verification/Selfie Captured"
+      },
+      {
+        "id": "33992:58548",
+        "name": "Account SetUp/Verify BVN /Empty"
+      },
+      {
+        "id": "33992:58577",
+        "name": "Why information is needed"
+      },
+      {
+        "id": "33992:58746",
+        "name": "Account SetUp/BVN Verified"
+      },
+      {
+        "id": "33992:58769",
+        "name": "Account SetUp/ BVN Verification/ Existing"
+      },
+      {
+        "id": "33992:58796",
+        "name": "Account SetUp/Verify BVN /Filled"
+      },
+      {
+        "id": "33992:58825",
+        "name": "Account SetUp/Verify BVN /Error"
+      },
+      {
+        "id": "33992:58856",
+        "name": "Account SetUp/BVNVerification/Take Selfie"
+      },
+      {
+        "id": "33992:58880",
+        "name": "Selfie"
+      },
+      {
+        "id": "33992:58901",
+        "name": "Account SetUp/identity verified"
+      },
+      {
+        "id": "33992:58921",
+        "name": "Account SetUp/identity verification failed"
+      },
+      {
+        "id": "33992:58941",
+        "name": "BVN not found"
+      },
+      {
+        "id": "33992:58952",
+        "name": "Account SetUp/ BVN Verification/ Unsuccessfule"
+      },
+      {
+        "id": "33992:59001",
+        "name": "First name doesnt match"
+      },
+      {
+        "id": "33992:59012",
+        "name": "Last name doesnt match"
+      },
+      {
+        "id": "33992:59028",
+        "name": "Account Details/loading"
+      }
+    ]
+  },
+  {
+    "flow": "BVN Enrolment Flow",
+    "screens": [
+      {
+        "id": "37711:63333",
+        "name": "BVN Enrolment/ Advantage 9"
+      },
+      {
+        "id": "37711:63471",
+        "name": "BVN Enrolment/ Advantage 10"
+      },
+      {
+        "id": "37711:63550",
+        "name": "BVN Enrolment/ Advantage 11"
+      },
+      {
+        "id": "37711:63657",
+        "name": "BVN Enrolment Requirement"
+      },
+      {
+        "id": "37711:63699",
+        "name": "BVN Enrolment/ Advantage 12"
+      },
+      {
+        "id": "37711:63746",
+        "name": "Demography Information / Page 12"
+      },
+      {
+        "id": "37711:63795",
+        "name": "Demography Information / Page 13"
+      },
+      {
+        "id": "37711:63844",
+        "name": "Demography Information / Page 14"
+      },
+      {
+        "id": "37711:63897",
+        "name": "Contact Information - Nigerian User / Default"
+      },
+      {
+        "id": "37711:63921",
+        "name": "Contact Information / Non-Nigerian User"
+      },
+      {
+        "id": "37711:63945",
+        "name": "Biometric Appointment / Default"
+      },
+      {
+        "id": "37711:63977",
+        "name": "Biometric Appointment / Filled"
+      },
+      {
+        "id": "37711:64010",
+        "name": "Biometric Appointment / Filled (2)"
+      },
+      {
+        "id": "37721:69605",
+        "name": "Biometric Appointment / Filled (3)"
+      },
+      {
+        "id": "37711:64058",
+        "name": "What is a notary appointment"
+      },
+      {
+        "id": "37711:64463",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "37711:64479",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "37711:64495",
+        "name": "Add New Card"
+      },
+      {
+        "id": "37711:64542",
+        "name": "Select Card"
+      },
+      {
+        "id": "37711:64576",
+        "name": "Select Payment Method/ Default / USD Wallet"
+      },
+      {
+        "id": "37711:64604",
+        "name": "Select Payment Method/ Default / Pay with card"
+      },
+      {
+        "id": "37711:64633",
+        "name": "Add Card/Empty"
+      },
+      {
+        "id": "37711:64679",
+        "name": "Add Card/Filled"
+      },
+      {
+        "id": "37711:64726",
+        "name": "Add Card'Error"
+      },
+      {
+        "id": "37711:64773",
+        "name": "Confirm transfer money"
+      },
+      {
+        "id": "37711:64792",
+        "name": "Add Card/Success"
+      },
+      {
+        "id": "37711:64813",
+        "name": "Add Card/Success (2)"
+      },
+      {
+        "id": "37711:64833",
+        "name": "Share receipt modal/ Default"
+      },
+      {
+        "id": "37711:64901",
+        "name": "Share receipt modal/ Default (2)"
+      },
+      {
+        "id": "37711:64969",
+        "name": "Payment Receipt"
+      },
+      {
+        "id": "37711:65005",
+        "name": "HomePage - New User / BVN Processing"
+      },
+      {
+        "id": "37711:65401",
+        "name": "HomePage - New User / BVN Rejected"
+      },
+      {
+        "id": "37711:65795",
+        "name": "HomePage - New User / BVN Rejected (2)"
+      },
+      {
+        "id": "37711:66189",
+        "name": "Booking Successful"
+      },
+      {
+        "id": "37711:66202",
+        "name": "Demography Information / Page 15"
+      },
+      {
+        "id": "37711:66238",
+        "name": "HomePage - New User with incomplete BVN enrolment"
+      },
+      {
+        "id": "37711:66637",
+        "name": "BVN verification complete"
+      },
+      {
+        "id": "37711:66649",
+        "name": "Enter Card Information"
+      },
+      {
+        "id": "37711:66677",
+        "name": "Account SetUp/Identity Verification"
+      },
+      {
+        "id": "37711:66698",
+        "name": "Account SetUp/Identity Verification (2)"
+      },
+      {
+        "id": "37711:66719",
+        "name": "HomePage - New User / BVN appointment Approved"
+      },
+      {
+        "id": "37711:67115",
+        "name": "HomePage - New User / BVN Pending NIBSS"
+      },
+      {
+        "id": "37735:70766",
+        "name": "Booking Info"
+      },
+      {
+        "id": "37735:70828",
+        "name": "Booking Info (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Naira Card",
+    "screens": [
+      {
+        "id": "33992:59665",
+        "name": "Card/Naira"
+      },
+      {
+        "id": "33992:59727",
+        "name": "Cards/NairaWithdraw from Card"
+      },
+      {
+        "id": "33992:59780",
+        "name": "Cards/NairaWithdraw from Card/Summary"
+      },
+      {
+        "id": "33992:59819",
+        "name": "Cards/NairaWithdraw from Card/typed"
+      },
+      {
+        "id": "33992:59874",
+        "name": "Cards/NairaWithdraw from Card/error"
+      },
+      {
+        "id": "33992:59929",
+        "name": "Cards/NairaWithdraw from Card /Successful"
+      },
+      {
+        "id": "33992:59955",
+        "name": "Card/Naira/Freezed"
+      },
+      {
+        "id": "33992:59984",
+        "name": "Freeze Card?"
+      },
+      {
+        "id": "33992:59998",
+        "name": "Unfreeze Card?"
+      },
+      {
+        "id": "33992:60011",
+        "name": "Cards/Naira/Fund Card"
+      },
+      {
+        "id": "33992:60069",
+        "name": "Accounts/Dollar"
+      },
+      {
+        "id": "33992:60079",
+        "name": "Accounts/Naira"
+      },
+      {
+        "id": "33992:60089",
+        "name": "Cards/Naira/Fund Card/Typed"
+      },
+      {
+        "id": "33992:60146",
+        "name": "Cards/Naira/Fund Card/Error"
+      },
+      {
+        "id": "33992:60203",
+        "name": "Cards/Naira/Fund Card/maximum balanceError"
+      },
+      {
+        "id": "33992:60260",
+        "name": "Cards/Naira/Fund Card/maximum balanceError (2)"
+      },
+      {
+        "id": "33992:60317",
+        "name": "Cards/Naira/Fund Card (2)"
+      },
+      {
+        "id": "33992:60388",
+        "name": "Cards/Naira/Fund Card/typed"
+      },
+      {
+        "id": "33992:60459",
+        "name": "Cards/Naira/Add money/Summary"
+      },
+      {
+        "id": "33992:60497",
+        "name": "Cards/Naira/Add Money /Successful"
+      },
+      {
+        "id": "33992:60804",
+        "name": "Card History/Naira"
+      },
+      {
+        "id": "33992:60883",
+        "name": "Bill History/Empty"
+      },
+      {
+        "id": "33992:61019",
+        "name": "Filter"
+      },
+      {
+        "id": "33992:61050",
+        "name": "Filter (2)"
+      },
+      {
+        "id": "33992:61081",
+        "name": "Card History/Naira (2)"
+      },
+      {
+        "id": "33992:61131",
+        "name": "Card History/naira/Payment"
+      },
+      {
+        "id": "33992:61185",
+        "name": "Card History/naira/Funding"
+      },
+      {
+        "id": "33992:61240",
+        "name": "Card History/naira/Withdrawal"
+      },
+      {
+        "id": "33992:62823",
+        "name": "Card Fund not available"
+      },
+      {
+        "id": "33992:62834",
+        "name": "Card withdrawal not available"
+      },
+      {
+        "id": "33992:62845",
+        "name": "Card creation not available"
+      },
+      {
+        "id": "33992:62864",
+        "name": "Card withdrawal disabled"
+      },
+      {
+        "id": "36868:65469",
+        "name": "More Options"
+      }
+    ]
+  },
+  {
+    "flow": "Home -NGN Account",
+    "screens": [
+      {
+        "id": "33992:62878",
+        "name": "HomePage/ Existing User/USD"
+      },
+      {
+        "id": "33992:63045",
+        "name": "HomePage/ Existing User/USD (2)"
+      },
+      {
+        "id": "33992:63214",
+        "name": "More Options"
+      },
+      {
+        "id": "33992:63222",
+        "name": "Accounts/Naira"
+      },
+      {
+        "id": "33992:63232",
+        "name": "Accounts/USD"
+      },
+      {
+        "id": "33992:63244",
+        "name": "Coming Soon"
+      },
+      {
+        "id": "33992:63254",
+        "name": "Account Detai;s"
+      },
+      {
+        "id": "33992:63316",
+        "name": "Add money"
+      },
+      {
+        "id": "33992:63357",
+        "name": "Account Detai;s (2)"
+      },
+      {
+        "id": "33992:63643",
+        "name": "Add Money/Share tag"
+      },
+      {
+        "id": "33992:63671",
+        "name": "Account Statement"
+      },
+      {
+        "id": "33992:63711",
+        "name": "Account Statement (2)"
+      },
+      {
+        "id": "33992:63751",
+        "name": "Account Statement/custom"
+      },
+      {
+        "id": "33992:63795",
+        "name": "Account Statement/custom/typed"
+      },
+      {
+        "id": "33992:63838",
+        "name": "Account Statemetn sent"
+      },
+      {
+        "id": "33992:63849",
+        "name": "Account Statemetn sent/third party"
+      },
+      {
+        "id": "33992:63860",
+        "name": "Account Statement error"
+      },
+      {
+        "id": "33992:63871",
+        "name": "Convert Funds/NGN"
+      },
+      {
+        "id": "33992:63933",
+        "name": "Convert Funds/NGN/Typing"
+      },
+      {
+        "id": "33992:63996",
+        "name": "Convert Funds/NGN/Typed"
+      },
+      {
+        "id": "33992:64059",
+        "name": "Convert Funds/USD"
+      },
+      {
+        "id": "33992:64121",
+        "name": "Convert Funds/USD/Typing"
+      },
+      {
+        "id": "33992:64184",
+        "name": "Convert Funds/USD/Typed"
+      },
+      {
+        "id": "33992:64247",
+        "name": "Convert Funds/NGN/Error"
+      },
+      {
+        "id": "33992:64310",
+        "name": "Confirm Swap"
+      },
+      {
+        "id": "33992:64334",
+        "name": "Convert Funds/Success/naira"
+      },
+      {
+        "id": "33992:64368",
+        "name": "Convert Funds/Success/Dollar"
+      },
+      {
+        "id": "33992:64402",
+        "name": "Confirm Swap/dollar"
+      }
+    ]
+  },
+  {
+    "flow": "Transfer \u00b7 Bank Account Flow",
+    "screens": [
+      {
+        "id": "34108:173729",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "34108:173745",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "34108:173689",
+        "name": "Transfer to my NGN account successful"
+      },
+      {
+        "id": "34108:173761",
+        "name": "Transfer Failed"
+      },
+      {
+        "id": "34082:162330",
+        "name": "Transfer Money / Default"
+      },
+      {
+        "id": "34147:194112",
+        "name": "Transfer Money / Filled"
+      },
+      {
+        "id": "34262:130955",
+        "name": "Transfer Money / Filled (2)"
+      },
+      {
+        "id": "34082:162705",
+        "name": "Transfer Money / No beneficiaries"
+      },
+      {
+        "id": "34090:170975",
+        "name": "Transfer Money / List"
+      },
+      {
+        "id": "34082:162847",
+        "name": "Transfer Money/ Bank Account / Empty"
+      },
+      {
+        "id": "34082:162872",
+        "name": "Transfer Money/ Bank Account / Typed"
+      },
+      {
+        "id": "34082:162902",
+        "name": "Transfer Money/ Bank Account / Error"
+      },
+      {
+        "id": "34254:130548",
+        "name": "Reason for Payment"
+      },
+      {
+        "id": "34083:167828",
+        "name": "Select Currency"
+      },
+      {
+        "id": "34384:158044",
+        "name": "Select Currency (2)"
+      },
+      {
+        "id": "34087:170362",
+        "name": "Delivery Method"
+      },
+      {
+        "id": "34384:158022",
+        "name": "Delivery Method (2)"
+      },
+      {
+        "id": "34162:194390",
+        "name": "Select Payment Method"
+      },
+      {
+        "id": "34082:161946",
+        "name": "Beneficiaries/Searching"
+      },
+      {
+        "id": "34082:161965",
+        "name": "Beneficiaries/Not found"
+      },
+      {
+        "id": "34134:192426",
+        "name": "Beneficiaries"
+      },
+      {
+        "id": "34162:195758",
+        "name": "Select Payment Method (2)"
+      },
+      {
+        "id": "34164:196158",
+        "name": "Enter Card Information"
+      },
+      {
+        "id": "34164:197376",
+        "name": "Enter Card Information (2)"
+      },
+      {
+        "id": "34164:196185",
+        "name": "Add Money/Card"
+      },
+      {
+        "id": "34164:196607",
+        "name": "Add New Card"
+      },
+      {
+        "id": "34127:183088",
+        "name": "Transfer Money / Filled (3)"
+      },
+      {
+        "id": "34164:197081",
+        "name": "Card Usage Modal"
+      },
+      {
+        "id": "34262:131094",
+        "name": "Transfer Money/ Bank Account / Error (2)"
+      },
+      {
+        "id": "34309:146506",
+        "name": "Transfer Money/ Bank Account / Transaction summary"
+      },
+      {
+        "id": "34309:146735",
+        "name": "Transfer Money/ Bank Account / Transaction summary (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Transfer \u00b7 Mobile Money Flow",
+    "screens": [
+      {
+        "id": "34244:126282",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "34244:126298",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "34244:126314",
+        "name": "Transfer to my NGN account successful"
+      },
+      {
+        "id": "34244:126354",
+        "name": "Transfer Failed"
+      },
+      {
+        "id": "34244:126392",
+        "name": "Transfer Money / Default"
+      },
+      {
+        "id": "34244:126465",
+        "name": "Transfer Money / Filled"
+      },
+      {
+        "id": "34262:131190",
+        "name": "Transfer Money / Filled (2)"
+      },
+      {
+        "id": "34244:126673",
+        "name": "Transfer Money / No beneficiaries"
+      },
+      {
+        "id": "34244:126815",
+        "name": "Transfer Money / List"
+      },
+      {
+        "id": "34244:126890",
+        "name": "Transfer Money/ Mobile Money / Empty"
+      },
+      {
+        "id": "34244:126936",
+        "name": "Transfer Money/ Mobile Money / Filled"
+      },
+      {
+        "id": "34244:127123",
+        "name": "Select Currency"
+      },
+      {
+        "id": "34244:127157",
+        "name": "Delivery Method"
+      },
+      {
+        "id": "34384:158573",
+        "name": "Delivery Method (2)"
+      },
+      {
+        "id": "34244:127178",
+        "name": "Delivery Method (3)"
+      },
+      {
+        "id": "34244:127200",
+        "name": "Select Payment Method"
+      },
+      {
+        "id": "34244:127435",
+        "name": "Beneficiaries/Searching"
+      },
+      {
+        "id": "34244:127456",
+        "name": "Beneficiaries/Not found"
+      },
+      {
+        "id": "34244:127523",
+        "name": "Beneficiaries"
+      },
+      {
+        "id": "34244:127584",
+        "name": "Select Payment Method (2)"
+      },
+      {
+        "id": "34244:127610",
+        "name": "Enter Card Information"
+      },
+      {
+        "id": "34244:127635",
+        "name": "Enter Card Information (2)"
+      },
+      {
+        "id": "34244:127660",
+        "name": "Add Money/Card"
+      },
+      {
+        "id": "34244:127696",
+        "name": "Add New Card"
+      },
+      {
+        "id": "34244:127818",
+        "name": "Transfer Money / Filled (3)"
+      },
+      {
+        "id": "34244:127885",
+        "name": "Card Usage Modal"
+      },
+      {
+        "id": "34244:127329",
+        "name": "Reason for Payment"
+      },
+      {
+        "id": "34309:146058",
+        "name": "Transfer Money/ Bank Account / Transaction summary"
+      },
+      {
+        "id": "34309:146615",
+        "name": "Transfer Money/ Bank Account / Transaction summary (2)"
+      },
+      {
+        "id": "34384:158938",
+        "name": "Select Currency (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Transfer",
+    "screens": [
+      {
+        "id": "34594:29977",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "34594:29993",
+        "name": "Confirm Transfer"
+      },
+      {
+        "id": "34594:30022",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "34594:30038",
+        "name": "Transfer Successful"
+      },
+      {
+        "id": "34594:30072",
+        "name": "Transfer Money/Kredete User/Searching/Tag"
+      },
+      {
+        "id": "34594:30132",
+        "name": "Transfer Money/Kredete User/Searching"
+      },
+      {
+        "id": "34594:30153",
+        "name": "Transfer Money/Kredete User/Searching/Phone"
+      },
+      {
+        "id": "34594:30213",
+        "name": "Transfer Money/Kredete User/Searching/Phone (2)"
+      },
+      {
+        "id": "34594:30246",
+        "name": "Transfer Money/Kredete User/Not found"
+      },
+      {
+        "id": "34594:30324",
+        "name": "Transfer Money/Kredete User"
+      },
+      {
+        "id": "34594:30482",
+        "name": "Transfer Money/Kredete User/Conatcts"
+      },
+      {
+        "id": "34594:30827",
+        "name": "Transfer Money/Kredete User/recent payments"
+      },
+      {
+        "id": "34594:30865",
+        "name": "Transfer Money/Kredete User/Enable access"
+      },
+      {
+        "id": "34594:31088",
+        "name": "Transfer Money/Kredete user/Typing"
+      },
+      {
+        "id": "34594:31119",
+        "name": "Transfer Money/Kredete user/Typing (2)"
+      },
+      {
+        "id": "34594:31150",
+        "name": "Transfer Money/Kredete user/Typing (3)"
+      }
+    ]
+  },
+  {
+    "flow": "Manage Subscription + Fees & Rates",
+    "screens": [
+      {
+        "id": "33992:69089",
+        "name": "Subscription/Free"
+      },
+      {
+        "id": "33992:69273",
+        "name": "Upgrade to Premium/USD"
+      },
+      {
+        "id": "33992:69352",
+        "name": "Upgrade to Premium/Yearly"
+      },
+      {
+        "id": "33992:69430",
+        "name": "Upgrade to Premium/USD (2)"
+      },
+      {
+        "id": "33992:69506",
+        "name": "Upgrade to premium/Successful"
+      },
+      {
+        "id": "33992:69530",
+        "name": "Upgrade to premium/Successful (2)"
+      },
+      {
+        "id": "33992:69554",
+        "name": "HomePage/ Existing User"
+      },
+      {
+        "id": "33992:69884",
+        "name": "Subscription/Premium"
+      },
+      {
+        "id": "33992:69932",
+        "name": "Subscription/Cancelled"
+      },
+      {
+        "id": "33992:69982",
+        "name": "Cancel your subscription"
+      },
+      {
+        "id": "33992:69995",
+        "name": "Keep my subscription"
+      },
+      {
+        "id": "33992:70017",
+        "name": "Upgrade to premium/Successful (3)"
+      },
+      {
+        "id": "33992:70041",
+        "name": "Subscription cancelled"
+      },
+      {
+        "id": "34867:102441",
+        "name": "Fees & Rates"
+      },
+      {
+        "id": "33992:70065",
+        "name": "Subscription/Billing history"
+      },
+      {
+        "id": "33992:70137",
+        "name": "Fees & Rates (2)"
+      },
+      {
+        "id": "33992:70420",
+        "name": "Subscription/Billing history/Payment Details"
+      },
+      {
+        "id": "33992:70484",
+        "name": "Subscription/Billing history/Refund"
+      },
+      {
+        "id": "33992:70540",
+        "name": "Fees & Rates (3)"
+      },
+      {
+        "id": "34306:143021",
+        "name": "Fees & Rates / Search found"
+      },
+      {
+        "id": "34306:143304",
+        "name": "Fees & Rates / Search - not found"
+      }
+    ]
+  },
+  {
+    "flow": "Onboarding Screen",
+    "screens": [
+      {
+        "id": "33992:74401",
+        "name": "Onboarding 5"
+      },
+      {
+        "id": "33992:74492",
+        "name": "Onboarding 6"
+      },
+      {
+        "id": "33992:74785",
+        "name": "Onboarding 7"
+      }
+    ]
+  },
+  {
+    "flow": "Transaction history - General",
+    "screens": [
+      {
+        "id": "34594:22960",
+        "name": "Filter"
+      },
+      {
+        "id": "34594:22998",
+        "name": "Filter (2)"
+      },
+      {
+        "id": "34594:23036",
+        "name": "Filter (3)"
+      },
+      {
+        "id": "34594:23074",
+        "name": "Transactions"
+      },
+      {
+        "id": "34594:23283",
+        "name": "Transactions/ 2 filters"
+      },
+      {
+        "id": "34594:23399",
+        "name": "Transactions/Empty"
+      },
+      {
+        "id": "34594:23532",
+        "name": "Transactions/ 1 filter"
+      },
+      {
+        "id": "34594:23597",
+        "name": "Transaction Detail/USD Account Funding/pending"
+      },
+      {
+        "id": "34594:23656",
+        "name": "Transaction Detail/Swap"
+      },
+      {
+        "id": "34594:23727",
+        "name": "Transaction Detail/Swap (2)"
+      },
+      {
+        "id": "34594:23798",
+        "name": "Card History/naira/Withdrawal"
+      },
+      {
+        "id": "34594:23855",
+        "name": "Transaction Detail/Naira transfer/pending"
+      },
+      {
+        "id": "34594:23933",
+        "name": "Transaction Detail/Naira transfer/pending (2)"
+      },
+      {
+        "id": "34594:24001",
+        "name": "Transaction Detail/Card transaction"
+      },
+      {
+        "id": "34594:24053",
+        "name": "Transaction Detail/Kredete Transfer"
+      },
+      {
+        "id": "34594:24119",
+        "name": "Transaction Detail/Kredete Transfer (2)"
+      },
+      {
+        "id": "34594:24185",
+        "name": "Transaction Detail/Kredete Transfer (3)"
+      },
+      {
+        "id": "34594:24261",
+        "name": "Transaction Detail/Kredete Transfer (4)"
+      },
+      {
+        "id": "34594:24338",
+        "name": "Transaction Detail/Naira transfer/Failed"
+      },
+      {
+        "id": "34594:24406",
+        "name": "Transaction Detail/Fund Account/Bank Account"
+      },
+      {
+        "id": "35889:67493",
+        "name": "Share receipt modal/ Default"
+      },
+      {
+        "id": "35889:67409",
+        "name": "Share receipt modal/ Default (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Transaction history - Bank Account",
+    "screens": [
+      {
+        "id": "34594:24627",
+        "name": "Filter"
+      },
+      {
+        "id": "34594:24670",
+        "name": "Transactions/ 2 filters"
+      },
+      {
+        "id": "34594:24786",
+        "name": "Transactions/ 1 filter"
+      },
+      {
+        "id": "34594:24861",
+        "name": "Transaction Detail/Naira transfer/pending"
+      },
+      {
+        "id": "34594:24951",
+        "name": "Transaction Detail/Naira transfer/pending (2)"
+      },
+      {
+        "id": "34594:25041",
+        "name": "Transaction Detail/Naira transfer/pending (3)"
+      },
+      {
+        "id": "35889:67661",
+        "name": "Share receipt modal/ Default"
+      },
+      {
+        "id": "35889:67577",
+        "name": "Share receipt modal/ Default (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Transaction history - Mobile Money",
+    "screens": [
+      {
+        "id": "34594:25291",
+        "name": "Filter"
+      },
+      {
+        "id": "34594:25335",
+        "name": "Transactions/ 2 filters"
+      },
+      {
+        "id": "34594:25451",
+        "name": "Transaction Detail/Naira transfer/pending"
+      },
+      {
+        "id": "34594:25535",
+        "name": "Transaction Detail/Naira transfer/pending (2)"
+      },
+      {
+        "id": "34594:25619",
+        "name": "Transaction Detail/Naira transfer/pending (3)"
+      },
+      {
+        "id": "34594:25703",
+        "name": "Share receipt modal/ Default"
+      },
+      {
+        "id": "34594:25860",
+        "name": "Transactions/ 1 filter"
+      }
+    ]
+  },
+  {
+    "flow": "Transaction Receipt PDF",
+    "screens": [
+      {
+        "id": "34594:25939",
+        "name": "Account funding by card"
+      },
+      {
+        "id": "34594:25988",
+        "name": "Swap Money/USD to NGN"
+      },
+      {
+        "id": "34594:26046",
+        "name": "Swap Money/NGN to USD"
+      },
+      {
+        "id": "34594:26104",
+        "name": "NGN Account Funding"
+      },
+      {
+        "id": "34594:26154",
+        "name": "Naira bank transfer/NGN"
+      },
+      {
+        "id": "34594:26208",
+        "name": "Naira bank transfer/USD wallet"
+      },
+      {
+        "id": "34594:26277",
+        "name": "Naira card funding"
+      },
+      {
+        "id": "34594:26316",
+        "name": "Naira card withdrawal"
+      },
+      {
+        "id": "34594:26355",
+        "name": "Naira card Payment"
+      },
+      {
+        "id": "34594:26406",
+        "name": "Dollarcard Payment"
+      },
+      {
+        "id": "34594:26457",
+        "name": "Dollar card withdrawal"
+      },
+      {
+        "id": "34594:26496",
+        "name": "Dollar card funding"
+      },
+      {
+        "id": "34594:26535",
+        "name": "Kredete to Kredete/Sender side/ USD"
+      },
+      {
+        "id": "34594:26591",
+        "name": "Kredete to Kredete/Sender side/ NGN"
+      },
+      {
+        "id": "34594:26647",
+        "name": "Kredete to Kredete/Sender side/ USD-NGN"
+      },
+      {
+        "id": "34594:26713",
+        "name": "Kredete to Kredete/Sender side/ NGN - USD"
+      },
+      {
+        "id": "34594:26779",
+        "name": "Kredete to Kredete/Receiving side/NGN"
+      },
+      {
+        "id": "34594:26835",
+        "name": "Kredete to Kredete/Receiving side/NGN-USD"
+      },
+      {
+        "id": "34594:26901",
+        "name": "Kredete to Kredete/Receiving side/USD-NGN"
+      },
+      {
+        "id": "34594:26967",
+        "name": "Kredete to Kredete/Receiving side/USD"
+      },
+      {
+        "id": "34594:27023",
+        "name": "Premium Payment"
+      },
+      {
+        "id": "34594:27078",
+        "name": "Enrolment Receipt"
+      }
+    ]
+  },
+  {
+    "flow": "Build Credit",
+    "screens": [
+      {
+        "id": "34594:27120",
+        "name": "Transactions"
+      },
+      {
+        "id": "34594:27273",
+        "name": "Build Credit / Empty"
+      },
+      {
+        "id": "35087:104653",
+        "name": "Build Credit / Coming Soon"
+      },
+      {
+        "id": "34594:27336",
+        "name": "Build Credit / Filled"
+      },
+      {
+        "id": "34790:70084",
+        "name": "Build Credit / Filled (2)"
+      },
+      {
+        "id": "34594:27420",
+        "name": "Build Credit/Onboarding 3"
+      },
+      {
+        "id": "34594:27838",
+        "name": "Build Credit/Onboarding 1"
+      },
+      {
+        "id": "34594:27885",
+        "name": "Provide Details"
+      },
+      {
+        "id": "34594:27906",
+        "name": "Provide Details (2)"
+      },
+      {
+        "id": "34594:27927",
+        "name": "Account Setup Complete"
+      },
+      {
+        "id": "34594:27942",
+        "name": "Build Credit/Onboarding 2"
+      },
+      {
+        "id": "34594:27960",
+        "name": "Build Credit/Onboarding 4"
+      },
+      {
+        "id": "34594:27978",
+        "name": "Account SetUp/Data Consent"
+      }
+    ]
+  },
+  {
+    "flow": "Build Credit - V2",
+    "screens": [
+      {
+        "id": "40188:31784",
+        "name": "Transactions"
+      },
+      {
+        "id": "40188:31893",
+        "name": "Build Credit / Empty"
+      },
+      {
+        "id": "40188:32007",
+        "name": "Build Credit / Filled"
+      },
+      {
+        "id": "40188:32142",
+        "name": "Build Credit / Filled (2)"
+      },
+      {
+        "id": "40188:32277",
+        "name": "Build Credit/Onboarding 5"
+      },
+      {
+        "id": "40188:32699",
+        "name": "Build Credit/Onboarding 6"
+      },
+      {
+        "id": "40188:32750",
+        "name": "Account Setup Complete"
+      },
+      {
+        "id": "40188:32765",
+        "name": "Build Credit/Onboarding 7"
+      },
+      {
+        "id": "40188:32896",
+        "name": "Build Credit/Onboarding 8"
+      },
+      {
+        "id": "40188:33265",
+        "name": "Build Credit / Coming Soon"
+      },
+      {
+        "id": "40188:33403",
+        "name": "Provide Details"
+      },
+      {
+        "id": "40188:33423",
+        "name": "Provide Details (2)"
+      },
+      {
+        "id": "40188:33758",
+        "name": "Do not support notice"
+      }
+    ]
+  }
+]

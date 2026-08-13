@@ -1,0 +1,3930 @@
+[
+  {
+    "flow": "Splash Screen",
+    "screens": [
+      {
+        "id": "21035:255854",
+        "name": "Splash Screen"
+      },
+      {
+        "id": "21035:255857",
+        "name": "Splash Screen (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Onboarding Screen",
+    "screens": [
+      {
+        "id": "21035:255861",
+        "name": "Onboarding 1"
+      },
+      {
+        "id": "21035:255917",
+        "name": "Onboarding 2"
+      },
+      {
+        "id": "21035:255977",
+        "name": "Onboarding 3"
+      },
+      {
+        "id": "21035:256015",
+        "name": "Onboarding 4"
+      },
+      {
+        "id": "22643:25539",
+        "name": "Onboarding 5"
+      }
+    ]
+  },
+  {
+    "flow": "What's New",
+    "screens": [
+      {
+        "id": "24023:82614",
+        "name": "What's New"
+      }
+    ]
+  },
+  {
+    "flow": "Create Account",
+    "screens": [
+      {
+        "id": "32616:49546",
+        "name": "Create Account/Empty"
+      },
+      {
+        "id": "21035:256487",
+        "name": "Create Account/Empty (2)"
+      },
+      {
+        "id": "21035:256537",
+        "name": "Create Account/Filled"
+      },
+      {
+        "id": "21035:256593",
+        "name": "Create Account/Ftag"
+      },
+      {
+        "id": "22643:25645",
+        "name": "Create Account/tag/Filled"
+      },
+      {
+        "id": "21035:256643",
+        "name": "Create Account/Error"
+      },
+      {
+        "id": "21035:256695",
+        "name": "Create Account/Error/User already Exist"
+      },
+      {
+        "id": "22779:264313",
+        "name": "Choose your tag/Empty"
+      },
+      {
+        "id": "22779:264332",
+        "name": "Choose your tag/Filled"
+      },
+      {
+        "id": "22779:264353",
+        "name": "Choose your tag/Filled (2)"
+      },
+      {
+        "id": "29392:111266",
+        "name": "Choose your tag/Filled (3)"
+      },
+      {
+        "id": "21035:256759",
+        "name": "Transaction Pin/Empty"
+      },
+      {
+        "id": "21035:256778",
+        "name": "Transaction Pin/FIlled"
+      },
+      {
+        "id": "21035:256797",
+        "name": "Confirm Pin/Empty"
+      },
+      {
+        "id": "21035:256855",
+        "name": "Account created"
+      },
+      {
+        "id": "21035:256816",
+        "name": "Confirm Pin/ Filled"
+      },
+      {
+        "id": "21035:256835",
+        "name": "Confirm Pin/ Error"
+      }
+    ]
+  },
+  {
+    "flow": "LogIn",
+    "screens": [
+      {
+        "id": "21035:256077",
+        "name": "Login / Email Field / Empty State"
+      },
+      {
+        "id": "21035:256103",
+        "name": "Login / Email Field / Valid State"
+      },
+      {
+        "id": "21035:256129",
+        "name": "Login / Email Field / InValid State"
+      },
+      {
+        "id": "21035:256155",
+        "name": "Login / Password Field / Active State"
+      },
+      {
+        "id": "21035:256181",
+        "name": "Login / Password Field / Visible State"
+      },
+      {
+        "id": "21035:256207",
+        "name": "Login / Password Field / Visible State (2)"
+      },
+      {
+        "id": "21035:256233",
+        "name": "Login/ Error"
+      },
+      {
+        "id": "24887:38609",
+        "name": "OTP verificatio"
+      },
+      {
+        "id": "24887:38636",
+        "name": "OTP verificatio/ Countdown Finished"
+      },
+      {
+        "id": "24887:38664",
+        "name": "OTP verification/ Error"
+      },
+      {
+        "id": "24887:38693",
+        "name": "OTP verificatio/Filled"
+      },
+      {
+        "id": "22878:267405",
+        "name": "Welcome back/ Enter Pin/Emptyl"
+      },
+      {
+        "id": "22878:267483",
+        "name": "Welcome back/ Filled"
+      },
+      {
+        "id": "22878:267508",
+        "name": "Welcome back/ Error"
+      },
+      {
+        "id": "22773:61961",
+        "name": "Login/Set kredete Tag"
+      },
+      {
+        "id": "22773:70212",
+        "name": "Choose your tag/Empty"
+      },
+      {
+        "id": "22774:263224",
+        "name": "Login/Set kredete Tag/Successful"
+      },
+      {
+        "id": "22773:70231",
+        "name": "Choose your tag/Filled"
+      },
+      {
+        "id": "22773:70252",
+        "name": "Choose your tag/Filled (2)"
+      },
+      {
+        "id": "29393:111533",
+        "name": "Choose your tag/Filled (3)"
+      }
+    ]
+  },
+  {
+    "flow": "Security Lock",
+    "screens": [
+      {
+        "id": "33226:146342",
+        "name": "Login / Email Field / Empty State"
+      },
+      {
+        "id": "33226:146366",
+        "name": "Login / Email Field / Valid State"
+      },
+      {
+        "id": "33226:146391",
+        "name": "Login / Email Field / InValid State"
+      },
+      {
+        "id": "33226:146416",
+        "name": "Login / Password Field / Active State"
+      },
+      {
+        "id": "33226:146441",
+        "name": "Login / Password Field / Visible State"
+      },
+      {
+        "id": "33226:146466",
+        "name": "Login / Password Field / Visible State (2)"
+      },
+      {
+        "id": "33226:146491",
+        "name": "Login/ Error"
+      },
+      {
+        "id": "33226:146518",
+        "name": "OTP verificatio"
+      },
+      {
+        "id": "33226:146544",
+        "name": "OTP verificatio/ Countdown Finished"
+      },
+      {
+        "id": "33226:146571",
+        "name": "OTP verification/ Error"
+      },
+      {
+        "id": "33226:146599",
+        "name": "OTP verificatio/Filled"
+      },
+      {
+        "id": "33226:146625",
+        "name": "Welcome back/ Enter Pin/Emptyl"
+      },
+      {
+        "id": "33226:146649",
+        "name": "Welcome back/ Filled"
+      },
+      {
+        "id": "33226:146673",
+        "name": "Welcome back/ Error"
+      },
+      {
+        "id": "33226:147569",
+        "name": "Security Lock"
+      }
+    ]
+  },
+  {
+    "flow": "Security Lock \u00b7 Account Limits",
+    "screens": [
+      {
+        "id": "33345:162115",
+        "name": "Settings/Account limits/Transfers/Tier 2 pending"
+      },
+      {
+        "id": "33345:162185",
+        "name": "Settings/Account limits/Transfers/Tier 3 pending"
+      },
+      {
+        "id": "33345:162322",
+        "name": "Settings/Account limits/Transfers/Tier 3 rejected"
+      },
+      {
+        "id": "33345:162487",
+        "name": "Settings/Account limits/Cards"
+      },
+      {
+        "id": "33345:162592",
+        "name": "Settings/Account limits/Bill"
+      }
+    ]
+  },
+  {
+    "flow": "Sign In with pin or biometrics",
+    "screens": [
+      {
+        "id": "21035:256979",
+        "name": "Welcome back,/ Face ID/ Error"
+      },
+      {
+        "id": "23069:139361",
+        "name": "Maximum attempt reached"
+      },
+      {
+        "id": "32218:85654",
+        "name": "Account blocked"
+      },
+      {
+        "id": "25463:39622",
+        "name": "Confirm switch account"
+      },
+      {
+        "id": "21035:256868",
+        "name": "Welcome back,/ No biometrics/ Empty"
+      },
+      {
+        "id": "21035:256893",
+        "name": "Welcome back,/ No biometrics/ Filled"
+      },
+      {
+        "id": "21035:256918",
+        "name": "Welcome back,/ Fingerprint/Not yet activated"
+      },
+      {
+        "id": "21035:256943",
+        "name": "Welcome back,/ Face ID/Not yet activated"
+      },
+      {
+        "id": "21035:256968",
+        "name": "Biometrics"
+      },
+      {
+        "id": "21035:257016",
+        "name": "Biometrics (2)"
+      },
+      {
+        "id": "21035:257064",
+        "name": "Welcome back,/ No biometrics/ Error"
+      },
+      {
+        "id": "21035:257027",
+        "name": "Welcome back,/ Fingerprint/Failed"
+      }
+    ]
+  },
+  {
+    "flow": "Reset Pin",
+    "screens": [
+      {
+        "id": "24901:39227",
+        "name": "OTP verificatio"
+      },
+      {
+        "id": "24901:39254",
+        "name": "OTP verificatio/ Countdown Finished"
+      },
+      {
+        "id": "24901:39282",
+        "name": "OTP verification/ Error"
+      },
+      {
+        "id": "25057:129502",
+        "name": "Answer your Security Question"
+      },
+      {
+        "id": "25060:129695",
+        "name": "Answer your Security Question/Filled"
+      },
+      {
+        "id": "25060:129754",
+        "name": "Answer your Security Question/Error"
+      },
+      {
+        "id": "24901:39311",
+        "name": "OTP verificatio/Filled"
+      },
+      {
+        "id": "21035:257130",
+        "name": "New Transaction Pin/Empty"
+      },
+      {
+        "id": "21035:257149",
+        "name": "New Transaction Pin/FIlled"
+      },
+      {
+        "id": "21035:257168",
+        "name": "Confirm new Pin/Empty"
+      },
+      {
+        "id": "21035:257187",
+        "name": "Confirm new Pin/ Filled"
+      },
+      {
+        "id": "21035:257206",
+        "name": "Reset pin successfull"
+      },
+      {
+        "id": "21035:256747",
+        "name": "verify via"
+      }
+    ]
+  },
+  {
+    "flow": "Forgot Password",
+    "screens": [
+      {
+        "id": "21035:257218",
+        "name": "Forgot Password/Empty"
+      },
+      {
+        "id": "21035:257240",
+        "name": "Forgot Password/Filled"
+      },
+      {
+        "id": "21035:257262",
+        "name": "Forgot Password/Error"
+      },
+      {
+        "id": "21035:257284",
+        "name": "Verify Account/ Empty"
+      },
+      {
+        "id": "21035:257311",
+        "name": "Verify Account/ Countdown Finished"
+      },
+      {
+        "id": "21035:257339",
+        "name": "Verify Account/ Error"
+      },
+      {
+        "id": "21035:257368",
+        "name": "Reset Password/Empty"
+      },
+      {
+        "id": "21035:257387",
+        "name": "Reset Password/Empty (2)"
+      },
+      {
+        "id": "21035:257406",
+        "name": "Reset password successful"
+      },
+      {
+        "id": "21035:257417",
+        "name": "Verify Account/Filled"
+      }
+    ]
+  },
+  {
+    "flow": "User Account Setup + Other New user tab \u00b7 New user view",
+    "screens": [
+      {
+        "id": "21035:257445",
+        "name": "HomePage - New User"
+      },
+      {
+        "id": "21884:263790",
+        "name": "HomePage - New User (2)"
+      },
+      {
+        "id": "21884:263627",
+        "name": "More Options"
+      },
+      {
+        "id": "21884:263647",
+        "name": "Accounts/Naira"
+      },
+      {
+        "id": "21035:258799",
+        "name": "Complete Prompt"
+      },
+      {
+        "id": "21884:263637",
+        "name": "Accounts/Dollar"
+      },
+      {
+        "id": "32761:139473",
+        "name": "Credit Score"
+      },
+      {
+        "id": "32761:139878",
+        "name": "Card"
+      },
+      {
+        "id": "32761:139934",
+        "name": "Loans"
+      },
+      {
+        "id": "32761:140171",
+        "name": "Loans/Explore"
+      }
+    ]
+  },
+  {
+    "flow": "User Account Setup + Other New user tab \u00b7 User Account Setup",
+    "screens": [
+      {
+        "id": "21035:258615",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "21664:259599",
+        "name": "Account SetUp/Data Consent"
+      },
+      {
+        "id": "21035:258809",
+        "name": "Account SetUp/phone number/Empty"
+      },
+      {
+        "id": "21035:258872",
+        "name": "Account SetUp/phone number/Filled"
+      },
+      {
+        "id": "21035:258841",
+        "name": "Account SetUp/phone number/Empty/Resend countdown done"
+      },
+      {
+        "id": "21035:258902",
+        "name": "Account Setup/Phone Numper/Error"
+      },
+      {
+        "id": "21035:258933",
+        "name": "Account SetUp/Phone Number Verified"
+      },
+      {
+        "id": "21035:258953",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "21035:258973",
+        "name": "Account SetUp/Email Address/Filled (2)"
+      },
+      {
+        "id": "21035:258993",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "21035:259022",
+        "name": "Account SetUp/Email Address/Empty (2)"
+      },
+      {
+        "id": "21035:259051",
+        "name": "Account SetUp/Email Address/Filled (3)"
+      },
+      {
+        "id": "21035:259081",
+        "name": "Account SetUp/Email Address Verified"
+      },
+      {
+        "id": "21035:259101",
+        "name": "Account SetUp/Email Address/Filled (4)"
+      },
+      {
+        "id": "21035:259121",
+        "name": "Account SetUp/Email Address/Filled (5)"
+      },
+      {
+        "id": "24203:122655",
+        "name": "Account SetUp/Home Address/Empty"
+      },
+      {
+        "id": "24203:122747",
+        "name": "Account SetUp/Home Address/Filled"
+      },
+      {
+        "id": "24203:122861",
+        "name": "Account SetUp/Home Address/Filled (2)"
+      },
+      {
+        "id": "32226:114901",
+        "name": "Account SetUp/ BVN Verification/ Empty"
+      },
+      {
+        "id": "36372:41111",
+        "name": "Account SetUp/ BVN Verification/ Empty (2)"
+      },
+      {
+        "id": "32226:114928",
+        "name": "Account SetUp/ BVN Verification/ Entered"
+      },
+      {
+        "id": "32226:115590",
+        "name": "Account SetUp/Verify BVN /Empty"
+      },
+      {
+        "id": "32226:115830",
+        "name": "Account SetUp/Verify BVN /Filled"
+      },
+      {
+        "id": "32226:115857",
+        "name": "Account SetUp/Verify BVN /Error"
+      },
+      {
+        "id": "32226:115617",
+        "name": "Why information is needed"
+      },
+      {
+        "id": "32226:115805",
+        "name": "Account SetUp/ BVN Verification/ Existing"
+      },
+      {
+        "id": "33234:65720",
+        "name": "Verify with Selfie"
+      },
+      {
+        "id": "35683:67302",
+        "name": "Biometrics"
+      },
+      {
+        "id": "35680:67194",
+        "name": "First name doesnt match"
+      },
+      {
+        "id": "36191:76995",
+        "name": "Multiple details don't match"
+      },
+      {
+        "id": "21035:259494",
+        "name": "Account SetUp/BVNVerification/Take Selfie"
+      },
+      {
+        "id": "21035:259519",
+        "name": "Selfie"
+      },
+      {
+        "id": "21035:259540",
+        "name": "Account SetUp/BVN Verification/Selfie Captured"
+      },
+      {
+        "id": "21035:259602",
+        "name": "Account SetUp/ Continue"
+      },
+      {
+        "id": "21035:259621",
+        "name": "HomePage - New User/Continue"
+      },
+      {
+        "id": "32226:115784",
+        "name": "Account SetUp/BVN Verified"
+      },
+      {
+        "id": "36256:94508",
+        "name": "HomePage - New User/Continue (2)"
+      },
+      {
+        "id": "36256:93904",
+        "name": "Account SetUp/ Continue / Unsuccessful"
+      },
+      {
+        "id": "36256:93848",
+        "name": "Biometrics (2)"
+      },
+      {
+        "id": "36256:95067",
+        "name": "Complete Account"
+      },
+      {
+        "id": "36340:43128",
+        "name": "Complete Account (2)"
+      },
+      {
+        "id": "36372:41169",
+        "name": "Account SetUp/ BVN Verification/ Empty (3)"
+      }
+    ]
+  },
+  {
+    "flow": "User Account Setup + Other New user tab \u00b7 Security question setup + NGN account details loading",
+    "screens": [
+      {
+        "id": "28142:77106",
+        "name": "More Options"
+      },
+      {
+        "id": "24959:39549",
+        "name": "Security Questions"
+      },
+      {
+        "id": "25094:129949",
+        "name": "Security questions"
+      },
+      {
+        "id": "24959:127650",
+        "name": "Security Questions (2)"
+      },
+      {
+        "id": "24959:127742",
+        "name": "HomePage - New User/Verified"
+      },
+      {
+        "id": "24959:39745",
+        "name": "Setup security question modal"
+      },
+      {
+        "id": "24963:129045",
+        "name": "Setup security question successfully"
+      },
+      {
+        "id": "28139:76565",
+        "name": "Account Details/loading"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Other Information",
+    "screens": [
+      {
+        "id": "21035:262138",
+        "name": "Settings/ Account/Other Information/Empty"
+      },
+      {
+        "id": "21035:262164",
+        "name": "Settings/ Account/Other Information/Typing"
+      },
+      {
+        "id": "21035:262189",
+        "name": "Settings/ Account/Other Information/Private"
+      },
+      {
+        "id": "21035:262215",
+        "name": "Settings/ Account/Other Information/Private (2)"
+      },
+      {
+        "id": "21035:262242",
+        "name": "Settings/ Account/Other Information/Self"
+      },
+      {
+        "id": "21035:262268",
+        "name": "Settings/ Account/Other Information/Self (2)"
+      },
+      {
+        "id": "21035:262295",
+        "name": "Settings/ Account/Other Information"
+      },
+      {
+        "id": "21035:262322",
+        "name": "Industry List"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Settings Home + account",
+    "screens": [
+      {
+        "id": "21035:261627",
+        "name": "Settings/ Account not Verified"
+      },
+      {
+        "id": "21035:261707",
+        "name": "Settings/ Account Verified"
+      },
+      {
+        "id": "21035:261786",
+        "name": "Settings/ Account/New User/ Uneditted"
+      },
+      {
+        "id": "21035:261832",
+        "name": "Settings/ Account/New User/ editted"
+      },
+      {
+        "id": "23027:136885",
+        "name": "Settings/ Account/New User/ Editted/username available"
+      },
+      {
+        "id": "23027:137474",
+        "name": "Settings/ Account/New User/ Editted/username available (2)"
+      },
+      {
+        "id": "21035:262034",
+        "name": "Settings/ Account Verified/ Image uploaded"
+      },
+      {
+        "id": "21035:261874",
+        "name": "Settings/ Account/New User/ Editted"
+      },
+      {
+        "id": "21035:261916",
+        "name": "Settings/ Account/Verified User"
+      },
+      {
+        "id": "21035:261958",
+        "name": "Settings/ Account/Verified User (2)"
+      },
+      {
+        "id": "21035:262113",
+        "name": "Change Photo"
+      },
+      {
+        "id": "21035:262126",
+        "name": "Photo Changed Successfully"
+      },
+      {
+        "id": "21035:262002",
+        "name": "Settings/Account Security"
+      },
+      {
+        "id": "33281:107960",
+        "name": "Settings/Account Security (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Account Limits",
+    "screens": [
+      {
+        "id": "22811:267199",
+        "name": "Settings/Account limits/Transfers"
+      },
+      {
+        "id": "36493:63780",
+        "name": "Settings/Account limits/Transfers (2)"
+      },
+      {
+        "id": "36180:76543",
+        "name": "Settings/Account Security/NIN Verification/ Empty"
+      },
+      {
+        "id": "36180:76566",
+        "name": "Settings/Account Security/NIN Verification/ Filled"
+      },
+      {
+        "id": "36180:76799",
+        "name": "Settings/KYC/Verified"
+      },
+      {
+        "id": "36493:63610",
+        "name": "Settings/Account Security/NIN Verification/ Error"
+      },
+      {
+        "id": "36180:76589",
+        "name": "Settings/Account Security/NIN Verification/ Successful"
+      },
+      {
+        "id": "36493:63678",
+        "name": "Last name doesnt match"
+      },
+      {
+        "id": "36493:63690",
+        "name": "Multiple details don't match"
+      },
+      {
+        "id": "38495:53877",
+        "name": "Last name doesnt match (2)"
+      },
+      {
+        "id": "36493:63726",
+        "name": "Last name doesnt match (3)"
+      },
+      {
+        "id": "36493:63738",
+        "name": "First name doesnt match"
+      },
+      {
+        "id": "36493:63750",
+        "name": "Biometrics"
+      },
+      {
+        "id": "36493:63889",
+        "name": "NIN Verification"
+      },
+      {
+        "id": "36493:63915",
+        "name": "NIN Verification (2)"
+      },
+      {
+        "id": "25601:40467",
+        "name": "Upgrade Account Limits"
+      },
+      {
+        "id": "26927:81216",
+        "name": "Settings/Account Security/ID Verification/ Empty"
+      },
+      {
+        "id": "26932:81324",
+        "name": "Settings/Account Security/ID Verification/ Empty (2)"
+      },
+      {
+        "id": "25601:40507",
+        "name": "Upgrade Account Limit/Front Captured"
+      },
+      {
+        "id": "25601:40533",
+        "name": "Front of Card"
+      },
+      {
+        "id": "25601:40554",
+        "name": "Upgrade Account Limit/Take Selfie"
+      },
+      {
+        "id": "25601:40575",
+        "name": "Selfie"
+      },
+      {
+        "id": "25601:40675",
+        "name": "Upgrade Account Limit/Successful"
+      },
+      {
+        "id": "25601:40596",
+        "name": "Upgrade Account Limit/Selfie Captured"
+      },
+      {
+        "id": "31927:62823",
+        "name": "Upgrade Account Limit/Failed"
+      },
+      {
+        "id": "32881:86817",
+        "name": "Settings/Account limits/Transfers/Tier 2 pending"
+      },
+      {
+        "id": "33614:51649",
+        "name": "Account Limits/Tier 3"
+      },
+      {
+        "id": "33614:51677",
+        "name": "Account Limits/Tier 3 (2)"
+      },
+      {
+        "id": "33614:51705",
+        "name": "Account Limits/Tier 3 (3)"
+      },
+      {
+        "id": "24203:123289",
+        "name": "Settings/Account limits/Transfers/Tier 2"
+      },
+      {
+        "id": "33614:51877",
+        "name": "Account Limits/Tier 3 (4)"
+      },
+      {
+        "id": "33614:51964",
+        "name": "Select Proof of address"
+      },
+      {
+        "id": "33614:51928",
+        "name": "Account Limits/Tier 3 (5)"
+      },
+      {
+        "id": "33614:51976",
+        "name": "Snap"
+      },
+      {
+        "id": "33614:52061",
+        "name": "Settings/KYC/new user/ Home Address"
+      },
+      {
+        "id": "32881:87038",
+        "name": "Account Limits/Tier 3 (6)"
+      },
+      {
+        "id": "32881:87188",
+        "name": "Settings/Account limits/Transfers/Tier 3 pending"
+      },
+      {
+        "id": "32881:87327",
+        "name": "Settings/Account limits/Transfers/Tier 3 rejected"
+      },
+      {
+        "id": "32881:87434",
+        "name": "Settings/Account limits/Transfers/Tier 3 rejected (2)"
+      },
+      {
+        "id": "23027:135652",
+        "name": "Settings/Account limits/Cards"
+      },
+      {
+        "id": "28254:50549",
+        "name": "Settings/Account limits/Cards (2)"
+      },
+      {
+        "id": "23027:135927",
+        "name": "Settings/Account limits/Bill"
+      },
+      {
+        "id": "37184:157337",
+        "name": "HomePage/ Existing User"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 KYC Information",
+    "screens": [
+      {
+        "id": "21035:262358",
+        "name": "Settings/KYC/New User"
+      },
+      {
+        "id": "21035:262466",
+        "name": "Settings/KYC/New User/"
+      },
+      {
+        "id": "21035:262486",
+        "name": "Settings/KYC/New User/Continue"
+      },
+      {
+        "id": "21035:262519",
+        "name": "Settings/KYC/Verified"
+      },
+      {
+        "id": "34993:103112",
+        "name": "Settings/Account Security/NIN Verification/ Empty"
+      },
+      {
+        "id": "34993:103135",
+        "name": "Settings/Account Security/NIN Verification/ Filled"
+      },
+      {
+        "id": "36421:154556",
+        "name": "Settings/Account Security/NIN Verification/ Error"
+      },
+      {
+        "id": "34993:103158",
+        "name": "Settings/Account Security/NIN Verification/ Successful"
+      },
+      {
+        "id": "36441:182944",
+        "name": "Last name doesnt match"
+      },
+      {
+        "id": "36470:39348",
+        "name": "Last name doesnt match (2)"
+      },
+      {
+        "id": "38536:40633",
+        "name": "Last name doesnt match (3)"
+      },
+      {
+        "id": "36441:182959",
+        "name": "First name doesnt match"
+      },
+      {
+        "id": "36441:182973",
+        "name": "Multiple details don't match"
+      },
+      {
+        "id": "36441:182999",
+        "name": "Biometrics"
+      },
+      {
+        "id": "36470:39365",
+        "name": "Settings/KYC/Verified (2)"
+      },
+      {
+        "id": "34995:103216",
+        "name": "Settings/KYC/Verified (3)"
+      },
+      {
+        "id": "36470:39561",
+        "name": "NIN Verification"
+      },
+      {
+        "id": "36470:39586",
+        "name": "NIN Verification (2)"
+      },
+      {
+        "id": "36470:63562",
+        "name": "Settings/Account Security/NIN Verification/ Empty (2)"
+      },
+      {
+        "id": "21035:262626",
+        "name": "Account SetUp/Identity Verification"
+      },
+      {
+        "id": "21035:262677",
+        "name": "Front of Card"
+      },
+      {
+        "id": "26932:81382",
+        "name": "Settings/Account Security/ID Verification/ Empty"
+      },
+      {
+        "id": "26932:81403",
+        "name": "Settings/Account Security/ID Verification/ Empty (2)"
+      },
+      {
+        "id": "21035:262651",
+        "name": "Account SetUp/Identity Verification/Front Captured"
+      },
+      {
+        "id": "25601:40332",
+        "name": "Account SetUp/IDVerification/Take Selfie"
+      },
+      {
+        "id": "25601:40357",
+        "name": "Selfie"
+      },
+      {
+        "id": "25601:40378",
+        "name": "Account SetUp/ID Verification/Selfie Captured"
+      },
+      {
+        "id": "21035:262570",
+        "name": "Settings/KYC/Verified (4)"
+      },
+      {
+        "id": "24413:38253",
+        "name": "Settings/KYC/ID Pending"
+      },
+      {
+        "id": "24413:38325",
+        "name": "Settings/KYC/ID Rejected"
+      },
+      {
+        "id": "21035:262698",
+        "name": "Account SetUp/identity verified"
+      },
+      {
+        "id": "21035:262715",
+        "name": "Account SetUp/identity verification failed"
+      },
+      {
+        "id": "25601:39799",
+        "name": "Settings/KYC/new user/ Home Address"
+      },
+      {
+        "id": "33524:68139",
+        "name": "Settings/KYC/new user/ Home Address (2)"
+      },
+      {
+        "id": "33531:68235",
+        "name": "Settings/KYC/new user/ Home Address (3)"
+      },
+      {
+        "id": "33568:68772",
+        "name": "Settings/KYC/new user/ Home Address (4)"
+      },
+      {
+        "id": "33614:51214",
+        "name": "Settings/KYC/new user/ Home Address (5)"
+      },
+      {
+        "id": "33548:68441",
+        "name": "Select Proof of address"
+      },
+      {
+        "id": "33614:51183",
+        "name": "Snap"
+      },
+      {
+        "id": "33614:51334",
+        "name": "Settings/KYC/new user/ Home Address (6)"
+      },
+      {
+        "id": "33614:51509",
+        "name": "Address Entered"
+      },
+      {
+        "id": "33592:65022",
+        "name": "Settings/KYC/New User/ Home Address/Edditted"
+      },
+      {
+        "id": "25601:39875",
+        "name": "Settings/KYC/Pending"
+      },
+      {
+        "id": "32881:86386",
+        "name": "Settings/KYC/Address rejected"
+      },
+      {
+        "id": "32881:86516",
+        "name": "Account SetUp/ADDRESS verification failed"
+      },
+      {
+        "id": "33674:71919",
+        "name": "Account SetUp/ADDRESS verification failed (2)"
+      },
+      {
+        "id": "32881:86641",
+        "name": "Settings/KYC/Address VERIFIED"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Referral",
+    "screens": [
+      {
+        "id": "23027:136137",
+        "name": "Settings/Referrals"
+      },
+      {
+        "id": "23262:109392",
+        "name": "Settings/Referrals/Pending/Empty"
+      },
+      {
+        "id": "23262:110187",
+        "name": "Settings/Referrals/Completed/Empty"
+      },
+      {
+        "id": "23262:114297",
+        "name": "Settings/Referrals/Completed/Empty (2)"
+      },
+      {
+        "id": "23262:112210",
+        "name": "Settings/Referrals/Pending"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Account Security",
+    "screens": [
+      {
+        "id": "21035:263130",
+        "name": "Settings/Account Security"
+      },
+      {
+        "id": "21035:263162",
+        "name": "Settings/Account Security/Reset password/ Empty"
+      },
+      {
+        "id": "21035:263182",
+        "name": "Settings/Account Security/Reset password/ Empty (2)"
+      },
+      {
+        "id": "21035:263202",
+        "name": "Settings/Account Security/Reset pin/ Empty"
+      },
+      {
+        "id": "21035:263224",
+        "name": "Settings/Account Security/Reset pin/ Filled"
+      },
+      {
+        "id": "21035:263246",
+        "name": "Settings/Account Security/Reset pin/New/Empty"
+      },
+      {
+        "id": "21035:263265",
+        "name": "Settings/Account Security/Reset pin/New/Filled"
+      },
+      {
+        "id": "25143:132146",
+        "name": "Reset password successful"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Delete Account",
+    "screens": [
+      {
+        "id": "21035:262948",
+        "name": "Settings/Delete Account"
+      },
+      {
+        "id": "21035:262974",
+        "name": "Settings/Delete Account/General"
+      },
+      {
+        "id": "21035:263000",
+        "name": "Settings/Delete Account/Others"
+      },
+      {
+        "id": "21035:263027",
+        "name": "Settings/Delete Account/Others/Filled"
+      },
+      {
+        "id": "21035:263054",
+        "name": "Settings/Delete Account/Last Check"
+      },
+      {
+        "id": "21035:263077",
+        "name": "Settings/Delete Account/Verification/ Empty"
+      },
+      {
+        "id": "21035:263098",
+        "name": "Settings/Delete Account/Verification/Filled"
+      },
+      {
+        "id": "21035:263119",
+        "name": "Account deleted Successfully"
+      }
+    ]
+  },
+  {
+    "flow": "Settings \u00b7 Notification + Terms and Conditions + report a bug",
+    "screens": [
+      {
+        "id": "21035:263308",
+        "name": "Settings/Privacy Policy"
+      },
+      {
+        "id": "21035:263405",
+        "name": "Settings/Terms of Service"
+      },
+      {
+        "id": "21035:263284",
+        "name": "Settings/Report a Bug/ Empty"
+      },
+      {
+        "id": "21035:263535",
+        "name": "Report sent Successfully"
+      },
+      {
+        "id": "21035:263548",
+        "name": "Settings/Report a Bug/Filled"
+      },
+      {
+        "id": "21035:263572",
+        "name": "Settings/Report a Bug/Filled/screenshot"
+      },
+      {
+        "id": "21035:262917",
+        "name": "Settings/Notifications"
+      }
+    ]
+  },
+  {
+    "flow": "Notifications",
+    "screens": [
+      {
+        "id": "21035:263598",
+        "name": "Notifications/All/Empty"
+      },
+      {
+        "id": "21035:263682",
+        "name": "Notifications/Activity/Empty"
+      },
+      {
+        "id": "21035:263766",
+        "name": "Notifications/Update/Empty"
+      },
+      {
+        "id": "21035:263850",
+        "name": "Notifications/Update/"
+      },
+      {
+        "id": "21035:263880",
+        "name": "Notifications/All"
+      },
+      {
+        "id": "21035:263955",
+        "name": "Notifications/All (2)"
+      },
+      {
+        "id": "21035:264032",
+        "name": "Notifications/All (3)"
+      },
+      {
+        "id": "21035:264108",
+        "name": "Notifications/Activity/"
+      }
+    ]
+  },
+  {
+    "flow": "Cards \u00b7 Additional States",
+    "screens": [
+      {
+        "id": "21035:264172",
+        "name": "Delete Notification"
+      },
+      {
+        "id": "21035:264185",
+        "name": "Delete Notification (2)"
+      },
+      {
+        "id": "21035:264198",
+        "name": "Notifications/All/Read"
+      },
+      {
+        "id": "21035:264272",
+        "name": "Notifications/All/ Deleted"
+      },
+      {
+        "id": "21035:264324",
+        "name": "Notifications/All/1 deleted"
+      },
+      {
+        "id": "22556:259475",
+        "name": "Card/Naira"
+      },
+      {
+        "id": "22554:259053",
+        "name": "Card Creation Failed"
+      },
+      {
+        "id": "22563:259756",
+        "name": "More Options"
+      },
+      {
+        "id": "22566:260257",
+        "name": "Cards/NairaWithdraw from Card"
+      },
+      {
+        "id": "22566:260544",
+        "name": "Cards/NairaWithdraw from Card/Summary"
+      },
+      {
+        "id": "22566:260436",
+        "name": "Cards/NairaWithdraw from Card/typed"
+      },
+      {
+        "id": "23481:114394",
+        "name": "Cards/NairaWithdraw from Card/error"
+      },
+      {
+        "id": "22566:260628",
+        "name": "Cards/NairaWithdraw from Card /Successful"
+      },
+      {
+        "id": "22566:260694",
+        "name": "Card/Naira/Freezed"
+      },
+      {
+        "id": "22566:260669",
+        "name": "Freeze Card?"
+      },
+      {
+        "id": "22566:260944",
+        "name": "Unfreeze Card?"
+      },
+      {
+        "id": "22566:261186",
+        "name": "Cards/Naira/Fund Card"
+      },
+      {
+        "id": "23481:114581",
+        "name": "Accounts/Dollar"
+      },
+      {
+        "id": "23481:114591",
+        "name": "Accounts/Naira"
+      },
+      {
+        "id": "22569:262009",
+        "name": "Cards/Naira/Fund Card/Typed"
+      },
+      {
+        "id": "22569:262314",
+        "name": "Cards/Naira/Fund Card/Error"
+      },
+      {
+        "id": "28042:76221",
+        "name": "Cards/Naira/Fund Card/maximum balanceError"
+      },
+      {
+        "id": "28042:76321",
+        "name": "Cards/Naira/Fund Card/maximum balanceError (2)"
+      },
+      {
+        "id": "22569:261814",
+        "name": "Cards/Naira/Fund Card (2)"
+      },
+      {
+        "id": "22569:262161",
+        "name": "Cards/Naira/Fund Card/typed"
+      },
+      {
+        "id": "22569:262559",
+        "name": "Cards/Naira/Add money/Summary"
+      },
+      {
+        "id": "22569:262626",
+        "name": "Cards/Naira/Add Money /Successful"
+      },
+      {
+        "id": "22569:262662",
+        "name": "Delete Card?"
+      },
+      {
+        "id": "22569:262701",
+        "name": "Cards/Naira/Delete card /Successful"
+      },
+      {
+        "id": "22569:262738",
+        "name": "Cards/Terms/Naira"
+      },
+      {
+        "id": "22570:263788",
+        "name": "Card History/Naira"
+      },
+      {
+        "id": "22570:263895",
+        "name": "Bill History/Empty"
+      },
+      {
+        "id": "23495:115188",
+        "name": "Filter"
+      },
+      {
+        "id": "23495:115325",
+        "name": "Filter (2)"
+      },
+      {
+        "id": "23495:115423",
+        "name": "Card History/Naira (2)"
+      },
+      {
+        "id": "23495:115546",
+        "name": "Card History/naira/Payment"
+      },
+      {
+        "id": "23495:115623",
+        "name": "Card History/naira/Funding"
+      },
+      {
+        "id": "23495:115709",
+        "name": "Card History/naira/Withdrawal"
+      },
+      {
+        "id": "22570:263407",
+        "name": "Card/Dollar"
+      },
+      {
+        "id": "22570:264518",
+        "name": "More Options (2)"
+      },
+      {
+        "id": "22570:264527",
+        "name": "Cards/Dollar/Withdraw from Card"
+      },
+      {
+        "id": "22570:264578",
+        "name": "Cards/Dollar/Withdraw from Card/typed"
+      },
+      {
+        "id": "23505:115925",
+        "name": "Cards/Dollar/Withdraw from Card/error"
+      },
+      {
+        "id": "22570:264887",
+        "name": "Cards/NairaWithdraw from Card/Summary (2)"
+      },
+      {
+        "id": "22570:264863",
+        "name": "Cards/Dollar/Withdraw from Card /Successful"
+      },
+      {
+        "id": "22570:265449",
+        "name": "Cards/Dollar/Fund Card"
+      },
+      {
+        "id": "22570:265587",
+        "name": "Cards/Dollar/Fund Card (2)"
+      },
+      {
+        "id": "22570:264834",
+        "name": "Card/Dollar/Freezed"
+      },
+      {
+        "id": "22570:264926",
+        "name": "Freeze Card? (2)"
+      },
+      {
+        "id": "22570:264939",
+        "name": "Unfreeze Card? (2)"
+      },
+      {
+        "id": "23505:116066",
+        "name": "Accounts/Dollar (2)"
+      },
+      {
+        "id": "23505:116076",
+        "name": "Accounts/Naira (2)"
+      },
+      {
+        "id": "22570:265518",
+        "name": "Cards/Naira/Fund Card/Typed (2)"
+      },
+      {
+        "id": "22570:266303",
+        "name": "Cards/Dollar/Add Money /Successful"
+      },
+      {
+        "id": "22570:267114",
+        "name": "Cards/Dollar/Delete card /Successful"
+      },
+      {
+        "id": "22570:266327",
+        "name": "Cards/Collar/Fund Card/Error"
+      },
+      {
+        "id": "22570:266396",
+        "name": "Cards/Dollar/Fund Card/typed"
+      },
+      {
+        "id": "22570:266466",
+        "name": "Delete Card? (2)"
+      },
+      {
+        "id": "22570:266479",
+        "name": "Cards/Dollar/Add money/Summary"
+      },
+      {
+        "id": "23481:114749",
+        "name": "Cards/Terms"
+      },
+      {
+        "id": "22570:267233",
+        "name": "Bill History/Empty (2)"
+      },
+      {
+        "id": "23505:116584",
+        "name": "Filter (3)"
+      },
+      {
+        "id": "23505:116615",
+        "name": "Filter (4)"
+      },
+      {
+        "id": "22570:267170",
+        "name": "Card History/Dollar"
+      },
+      {
+        "id": "23505:116765",
+        "name": "Card History/Dollar (2)"
+      },
+      {
+        "id": "23505:116959",
+        "name": "Card History/dollar/Payment"
+      },
+      {
+        "id": "23505:117050",
+        "name": "Card History/dollae/Funding"
+      },
+      {
+        "id": "23505:117105",
+        "name": "Card History/naira/Withdrawal (2)"
+      },
+      {
+        "id": "23511:112772",
+        "name": "Card/Naira/New/NA"
+      },
+      {
+        "id": "28326:46023",
+        "name": "Card/Dollar/New/loadingA"
+      },
+      {
+        "id": "23505:117290",
+        "name": "Card Fund not available"
+      },
+      {
+        "id": "23505:117387",
+        "name": "Card withdrawal not available"
+      },
+      {
+        "id": "23505:117423",
+        "name": "Card creation not available"
+      },
+      {
+        "id": "28263:50956",
+        "name": "Card withdrawal disabled"
+      },
+      {
+        "id": "38364:40999",
+        "name": "HomePage/ Existing User/Loan Repayment"
+      }
+    ]
+  },
+  {
+    "flow": "Home -NGN Account \u00b7 Home page + Add home address",
+    "screens": [
+      {
+        "id": "21035:268159",
+        "name": "HomePage/ Existing User"
+      },
+      {
+        "id": "21452:257377",
+        "name": "HomePage/ Existing User/Loan Repayment"
+      },
+      {
+        "id": "21452:257786",
+        "name": "More Options"
+      },
+      {
+        "id": "27644:106619",
+        "name": "Coming Soon"
+      },
+      {
+        "id": "21884:262386",
+        "name": "Accounts/Naira"
+      },
+      {
+        "id": "28071:42124",
+        "name": "Add home address"
+      },
+      {
+        "id": "28075:77428",
+        "name": "Add home address/empty"
+      },
+      {
+        "id": "28075:77454",
+        "name": "Home Address/Filled"
+      },
+      {
+        "id": "28075:77480",
+        "name": "Home Address"
+      },
+      {
+        "id": "21884:261943",
+        "name": "HomePage/ Existing User (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Home -NGN Account \u00b7 Naira Account details + Transfer money to naira bank account",
+    "screens": [
+      {
+        "id": "21035:284985",
+        "name": "Account Detai;s"
+      },
+      {
+        "id": "21613:259110",
+        "name": "Transfer Money"
+      },
+      {
+        "id": "21626:258756",
+        "name": "Transfer Money/Empty"
+      },
+      {
+        "id": "21626:258995",
+        "name": "Transfer Money/Typed"
+      },
+      {
+        "id": "22779:264555",
+        "name": "Transfer Money/Error"
+      },
+      {
+        "id": "21626:259073",
+        "name": "Transfer Money/Empty (2)"
+      },
+      {
+        "id": "21636:259400",
+        "name": "Transfer Money/Typing"
+      },
+      {
+        "id": "21636:259594",
+        "name": "Transfer Money/Error (2)"
+      },
+      {
+        "id": "21636:259504",
+        "name": "Transfer Money/Typed (2)"
+      },
+      {
+        "id": "27869:72924",
+        "name": "Transfer Money/Error/maximum single transfer exceeded"
+      },
+      {
+        "id": "27869:73047",
+        "name": "Transfer Money/Error/maximum daily transfer reached"
+      },
+      {
+        "id": "21636:259764",
+        "name": "Transfer money/local transfer/summary"
+      },
+      {
+        "id": "21035:285912",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "21035:285928",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "25474:39740",
+        "name": "Transfer Successful"
+      },
+      {
+        "id": "21637:260089",
+        "name": "Transfer Failed"
+      },
+      {
+        "id": "21637:259928",
+        "name": "Transfer Money/Beneficiary Added"
+      },
+      {
+        "id": "22783:264966",
+        "name": "Beneficiaries"
+      },
+      {
+        "id": "22783:265136",
+        "name": "Beneficiaries/Searching"
+      },
+      {
+        "id": "22783:265261",
+        "name": "Beneficiaries/Not found"
+      }
+    ]
+  },
+  {
+    "flow": "Home -NGN Account \u00b7 Transfer money to Kredete user",
+    "screens": [
+      {
+        "id": "21639:260186",
+        "name": "Transfer Money/Kredete User/Enable access"
+      },
+      {
+        "id": "21639:260302",
+        "name": "Transfer Money/Kredete User"
+      },
+      {
+        "id": "24708:39326",
+        "name": "Transfer Money/Kredete User/Conatcts"
+      },
+      {
+        "id": "24708:39114",
+        "name": "Transfer Money/Kredete User/recent payments"
+      },
+      {
+        "id": "24218:123552",
+        "name": "Transfer Money/Kredete User/Searching/Tag"
+      },
+      {
+        "id": "24704:38362",
+        "name": "Transfer Money/Kredete User/Searching"
+      },
+      {
+        "id": "24708:38606",
+        "name": "Transfer Money/Kredete User/Searching/Phone"
+      },
+      {
+        "id": "24708:38910",
+        "name": "Transfer Money/Kredete User/Searching/Phone (2)"
+      },
+      {
+        "id": "24218:123774",
+        "name": "Transfer Money/Kredete User/Not found"
+      },
+      {
+        "id": "21639:261156",
+        "name": "Transfer Money/Kredete user/Typing"
+      },
+      {
+        "id": "21645:261459",
+        "name": "Confirm Transfer"
+      },
+      {
+        "id": "21645:261299",
+        "name": "Transfer Money/Kredete user/Typing (2)"
+      },
+      {
+        "id": "21648:262286",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "21648:262302",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "21648:262398",
+        "name": "Transfer Successful"
+      }
+    ]
+  },
+  {
+    "flow": "Home -NGN Account \u00b7 Add Money",
+    "screens": [
+      {
+        "id": "21035:284943",
+        "name": "Add money"
+      },
+      {
+        "id": "21648:262460",
+        "name": "Account Detai;s"
+      },
+      {
+        "id": "24218:123991",
+        "name": "Add Money/Share tag"
+      }
+    ]
+  },
+  {
+    "flow": "Home -NGN Account \u00b7 Account Statement",
+    "screens": [
+      {
+        "id": "22026:264953",
+        "name": "Account Statement"
+      },
+      {
+        "id": "22029:265202",
+        "name": "Account Statement (2)"
+      },
+      {
+        "id": "22029:265326",
+        "name": "Account Statement/custom"
+      },
+      {
+        "id": "22029:266135",
+        "name": "Account Statement/custom/typed"
+      },
+      {
+        "id": "22029:266583",
+        "name": "Account Statemetn sent"
+      },
+      {
+        "id": "22029:266598",
+        "name": "Account Statemetn sent/third party"
+      },
+      {
+        "id": "22029:266613",
+        "name": "Account Statement error"
+      }
+    ]
+  },
+  {
+    "flow": "Home -NGN Account \u00b7 Convert funds",
+    "screens": [
+      {
+        "id": "22029:266630",
+        "name": "Convert Funds/NGN"
+      },
+      {
+        "id": "22052:255696",
+        "name": "Convert Funds/NGN/Typing"
+      },
+      {
+        "id": "22052:255886",
+        "name": "Convert Funds/NGN/Typed"
+      },
+      {
+        "id": "22052:256038",
+        "name": "Convert Funds/USD"
+      },
+      {
+        "id": "22052:256177",
+        "name": "Convert Funds/USD/Typing"
+      },
+      {
+        "id": "22052:256351",
+        "name": "Convert Funds/USD/Typed"
+      },
+      {
+        "id": "22052:256537",
+        "name": "Convert Funds/NGN/Error"
+      },
+      {
+        "id": "21035:285880",
+        "name": "Confirm Swap"
+      },
+      {
+        "id": "22570:269603",
+        "name": "Convert Funds/Success/naira"
+      },
+      {
+        "id": "22570:269658",
+        "name": "Convert Funds/Success/Dollar"
+      },
+      {
+        "id": "22125:259882",
+        "name": "Confirm Swap/dollar"
+      }
+    ]
+  },
+  {
+    "flow": "Home - USD wallet \u00b7 Homepage",
+    "screens": [
+      {
+        "id": "28279:50985",
+        "name": "HomePage/ Existing User/USD"
+      },
+      {
+        "id": "28279:53336",
+        "name": "Accounts/Dollar"
+      }
+    ]
+  },
+  {
+    "flow": "Home - USD wallet \u00b7 Transfer to NGN account",
+    "screens": [
+      {
+        "id": "28283:44068",
+        "name": "Confirm transfer money"
+      },
+      {
+        "id": "28283:43579",
+        "name": "Transfer Money/Kredete User/My NGN Account"
+      },
+      {
+        "id": "28283:45114",
+        "name": "Transfer Money/Kredete User/My NGN Account (2)"
+      },
+      {
+        "id": "28283:45204",
+        "name": "Transfer Money/Kredete User/My NGN Account (3)"
+      },
+      {
+        "id": "28283:45291",
+        "name": "Transfer Money/Kredete User/My NGN Account/error"
+      },
+      {
+        "id": "28283:44034",
+        "name": "Transfer to my NGN account successful"
+      }
+    ]
+  },
+  {
+    "flow": "Home - USD wallet \u00b7 Transfer money to kredete User",
+    "screens": [
+      {
+        "id": "28279:51630",
+        "name": "Transfer Money/Kredete User/Enable access"
+      },
+      {
+        "id": "28279:51857",
+        "name": "Transfer Money/Kredete User"
+      },
+      {
+        "id": "28279:52022",
+        "name": "Transfer Money/Kredete User/Conatcts"
+      },
+      {
+        "id": "28279:52374",
+        "name": "Transfer Money/Kredete User/recent payments"
+      },
+      {
+        "id": "28279:52419",
+        "name": "Transfer Money/Kredete User/Searching/Tag"
+      },
+      {
+        "id": "28279:52481",
+        "name": "Transfer Money/Kredete User/Searching"
+      },
+      {
+        "id": "28279:52503",
+        "name": "Transfer Money/Kredete User/Searching/Phone"
+      },
+      {
+        "id": "28279:52565",
+        "name": "Transfer Money/Kredete User/Searching/Phone (2)"
+      },
+      {
+        "id": "28279:52599",
+        "name": "Transfer Money/Kredete User/Not found"
+      },
+      {
+        "id": "28279:52679",
+        "name": "Transfer Money/Kredete user/Typing"
+      },
+      {
+        "id": "37352:72150",
+        "name": "Accounts/Dollar"
+      },
+      {
+        "id": "37352:72197",
+        "name": "Accounts/Dollar (2)"
+      },
+      {
+        "id": "28279:52736",
+        "name": "Transfer Money/Kredete user/Typing (2)"
+      },
+      {
+        "id": "28283:43425",
+        "name": "Transfer Money/Kredete user/Typing (3)"
+      },
+      {
+        "id": "28283:43504",
+        "name": "Transfer Money/Kredete user/Error"
+      },
+      {
+        "id": "37352:72481",
+        "name": "Transfer Money/Kredete user/Typing (4)"
+      },
+      {
+        "id": "28279:52712",
+        "name": "Confirm Transfer"
+      },
+      {
+        "id": "28279:52769",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "28279:52785",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "28279:52801",
+        "name": "Transfer Successful"
+      }
+    ]
+  },
+  {
+    "flow": "Home - USD wallet",
+    "screens": [
+      {
+        "id": "37354:72607",
+        "name": "Account Statement"
+      },
+      {
+        "id": "37354:72645",
+        "name": "Account Statement (2)"
+      },
+      {
+        "id": "37354:72683",
+        "name": "Account Statement/custom"
+      },
+      {
+        "id": "37354:72725",
+        "name": "Account Statement/custom/typed"
+      },
+      {
+        "id": "37354:72766",
+        "name": "Account Statemetn sent"
+      },
+      {
+        "id": "37354:72777",
+        "name": "Account Statement error"
+      },
+      {
+        "id": "37354:72788",
+        "name": "Convert Funds/NGN"
+      },
+      {
+        "id": "37354:72848",
+        "name": "Convert Funds/NGN/Typing"
+      },
+      {
+        "id": "37354:72909",
+        "name": "Convert Funds/NGN/Typed"
+      },
+      {
+        "id": "37354:72970",
+        "name": "Convert Funds/USD"
+      },
+      {
+        "id": "37354:73030",
+        "name": "Convert Funds/USD/Typing"
+      },
+      {
+        "id": "37354:73091",
+        "name": "Convert Funds/USD/Typed"
+      },
+      {
+        "id": "37354:73152",
+        "name": "Convert Funds/NGN/Error"
+      },
+      {
+        "id": "37354:73213",
+        "name": "Confirm Swap"
+      },
+      {
+        "id": "37354:73237",
+        "name": "Convert Funds/Success/naira"
+      },
+      {
+        "id": "37354:73269",
+        "name": "Convert Funds/Success/Dollar"
+      },
+      {
+        "id": "37354:73301",
+        "name": "Confirm Swap/dollar"
+      },
+      {
+        "id": "37354:74602",
+        "name": "Verify card/Empty"
+      },
+      {
+        "id": "37354:74615",
+        "name": "Verify card/Filled"
+      },
+      {
+        "id": "37354:74628",
+        "name": "Add Bank Account /Failed"
+      },
+      {
+        "id": "37354:74663",
+        "name": "Fund Wallet/Card/Success"
+      },
+      {
+        "id": "37354:74686",
+        "name": "Add money"
+      },
+      {
+        "id": "37354:74717",
+        "name": "Fund Wallet/Card"
+      },
+      {
+        "id": "37354:74741",
+        "name": "Fund Wallet/Card/Typing"
+      },
+      {
+        "id": "37354:74772",
+        "name": "Fund Wallet/Card/Typed"
+      },
+      {
+        "id": "37354:74803",
+        "name": "Fund Wallet/Card (2)"
+      },
+      {
+        "id": "37354:74850",
+        "name": "Fund Wallet/Card (3)"
+      },
+      {
+        "id": "37354:74897",
+        "name": "Add Money/ NGN successful"
+      },
+      {
+        "id": "37354:74929",
+        "name": "Confirm fund wallet"
+      },
+      {
+        "id": "37354:74953",
+        "name": "Add Money/ NGN"
+      },
+      {
+        "id": "37354:74996",
+        "name": "Add Money/ NGN (2)"
+      },
+      {
+        "id": "37354:75039",
+        "name": "Add Money/ NGN (3)"
+      },
+      {
+        "id": "37354:75082",
+        "name": "Add Money/ NGN (4)"
+      },
+      {
+        "id": "37354:75125",
+        "name": "Add Card/Empty"
+      },
+      {
+        "id": "37354:75171",
+        "name": "Add Card/Filled"
+      },
+      {
+        "id": "37354:75218",
+        "name": "Add Card/Error"
+      },
+      {
+        "id": "37354:75267",
+        "name": "Card Usage Modal"
+      }
+    ]
+  },
+  {
+    "flow": "Transaction history",
+    "screens": [
+      {
+        "id": "21035:284536",
+        "name": "Filter"
+      },
+      {
+        "id": "21035:284563",
+        "name": "Filter (2)"
+      },
+      {
+        "id": "21035:284590",
+        "name": "Filter (3)"
+      },
+      {
+        "id": "21035:284617",
+        "name": "Transaction Detail/Loan disbursemtn"
+      },
+      {
+        "id": "22188:261841",
+        "name": "Transaction Detail/Swap"
+      },
+      {
+        "id": "22195:262021",
+        "name": "Transaction Detail/Swap (2)"
+      },
+      {
+        "id": "21035:284670",
+        "name": "Transaction Detail/Local Transfer"
+      },
+      {
+        "id": "22180:261518",
+        "name": "Transaction Detail/Kredete Transfer"
+      },
+      {
+        "id": "21035:284727",
+        "name": "Transaction Detail/Fund Account/Bank Account"
+      },
+      {
+        "id": "25498:39843",
+        "name": "Transaction Detail/Local transfer/pending"
+      },
+      {
+        "id": "21035:284779",
+        "name": "Transaction Detail/Account Funding/Card"
+      },
+      {
+        "id": "21035:284832",
+        "name": "Transaction Detail/Bill Payment/Direct Debit"
+      },
+      {
+        "id": "21035:284885",
+        "name": "Transaction Detail/Loan Repayment"
+      },
+      {
+        "id": "21035:284048",
+        "name": "Transactions"
+      },
+      {
+        "id": "22132:260893",
+        "name": "Transactions/ 2 filters"
+      },
+      {
+        "id": "21035:284399",
+        "name": "Transactions/Empty"
+      },
+      {
+        "id": "22132:260599",
+        "name": "Transactions/ 1 filter"
+      },
+      {
+        "id": "30547:67369",
+        "name": "Transaction Detail/Local transfer/pending (2)"
+      },
+      {
+        "id": "35916:67094",
+        "name": "Share receipt modal/ Default"
+      }
+    ]
+  },
+  {
+    "flow": "Transaction Receipt PDF",
+    "screens": [
+      {
+        "id": "25094:132067",
+        "name": "Local Transfer"
+      },
+      {
+        "id": "25354:132278",
+        "name": "Kredete to Kredete/Sender side"
+      },
+      {
+        "id": "28241:43433",
+        "name": "Kredete to Kredete/Receiving side"
+      },
+      {
+        "id": "25354:133014",
+        "name": "Loan Repayment"
+      },
+      {
+        "id": "25354:133080",
+        "name": "Account Funding"
+      },
+      {
+        "id": "25354:133281",
+        "name": "Loan Disbursement"
+      },
+      {
+        "id": "25354:133354",
+        "name": "Account funding by card"
+      },
+      {
+        "id": "25354:133540",
+        "name": "Swap Money"
+      },
+      {
+        "id": "25523:40304",
+        "name": "Naira card funding"
+      },
+      {
+        "id": "25526:40626",
+        "name": "Naira card withdrawal"
+      },
+      {
+        "id": "25612:41491",
+        "name": "Premium Payment"
+      },
+      {
+        "id": "25612:41923",
+        "name": "Airtime Purchase"
+      },
+      {
+        "id": "25614:41998",
+        "name": "Data Purchase"
+      },
+      {
+        "id": "25614:42062",
+        "name": "Electricity"
+      },
+      {
+        "id": "25614:42199",
+        "name": "Entertainment"
+      },
+      {
+        "id": "25526:40676",
+        "name": "Naira card Payment"
+      },
+      {
+        "id": "25612:41331",
+        "name": "Dollarcard Payment"
+      },
+      {
+        "id": "25612:41440",
+        "name": "Dollar card withdrawal"
+      },
+      {
+        "id": "25612:41386",
+        "name": "Dollar card funding"
+      },
+      {
+        "id": "28782:47628",
+        "name": "Enrolment Receipt"
+      }
+    ]
+  },
+  {
+    "flow": "Bill Payment \u00b7 Bill Payment Home",
+    "screens": [
+      {
+        "id": "22208:262157",
+        "name": "Pay Bills"
+      },
+      {
+        "id": "22241:267297",
+        "name": "Pay Bills (2)"
+      },
+      {
+        "id": "29235:115771",
+        "name": "Pay Bills / Service unavailable"
+      },
+      {
+        "id": "29246:118028",
+        "name": "Item"
+      }
+    ]
+  },
+  {
+    "flow": "Bill Payment \u00b7 Buy Airtime",
+    "screens": [
+      {
+        "id": "22208:262477",
+        "name": "Pay Bills/Airtime/Default"
+      },
+      {
+        "id": "29264:48379",
+        "name": "Pay Bills/Airtime/Typing"
+      },
+      {
+        "id": "29271:48641",
+        "name": "Pay Bills/Airtime/ Typing Cleared"
+      },
+      {
+        "id": "22317:268220",
+        "name": "Pay Bills/Airtime/Enetered"
+      },
+      {
+        "id": "22323:268794",
+        "name": "Pay Bills/Airtime/Custom"
+      },
+      {
+        "id": "22336:269152",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "22327:268963",
+        "name": "Pay Bills/Summary"
+      },
+      {
+        "id": "29274:49570",
+        "name": "Pay Bills/Airtime/Number selected from recent"
+      },
+      {
+        "id": "22336:269168",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "22336:269264",
+        "name": "Airtime Purchase Successful"
+      },
+      {
+        "id": "22460:21501",
+        "name": "Airtime Purchase Failed"
+      },
+      {
+        "id": "22336:269324",
+        "name": "Choose from contact list"
+      }
+    ]
+  },
+  {
+    "flow": "Bill Payment \u00b7 Buy Data",
+    "screens": [
+      {
+        "id": "33222:76246",
+        "name": "Choose from contact list"
+      },
+      {
+        "id": "22348:257135",
+        "name": "Pay Bills/Data/Default"
+      },
+      {
+        "id": "29839:72857",
+        "name": "Pay Bills/Data/Network Provider Selected"
+      },
+      {
+        "id": "22348:257439",
+        "name": "Choose Data Plan"
+      },
+      {
+        "id": "22454:22569",
+        "name": "Choose Data Plan (2)"
+      },
+      {
+        "id": "29278:51100",
+        "name": "Pay Bills/Data/Number selected from recent"
+      },
+      {
+        "id": "29276:49818",
+        "name": "Pay Bills/Data/Typing"
+      },
+      {
+        "id": "29276:49952",
+        "name": "Pay Bills/Data/Typing Cleared"
+      },
+      {
+        "id": "22460:21208",
+        "name": "Pay Bills/Data/Custom"
+      },
+      {
+        "id": "22460:21319",
+        "name": "Pay Bills/Summary"
+      },
+      {
+        "id": "22460:21389",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "22460:21405",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "22460:55690",
+        "name": "Data Purchase Successful"
+      },
+      {
+        "id": "22460:55726",
+        "name": "Data Purchase Failed"
+      }
+    ]
+  },
+  {
+    "flow": "Bill Payment \u00b7 Buy Electricity",
+    "screens": [
+      {
+        "id": "22474:56187",
+        "name": "Choose Electricity Provider"
+      },
+      {
+        "id": "22480:76731",
+        "name": "Pay Bills/Electricity/Default"
+      },
+      {
+        "id": "33225:76790",
+        "name": "Pay Bills/Electricity/Typing"
+      },
+      {
+        "id": "22484:76889",
+        "name": "Pay Bills/Electricity/Default (2)"
+      },
+      {
+        "id": "22484:77117",
+        "name": "Pay Bills/Summary"
+      },
+      {
+        "id": "22484:77198",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "22484:77214",
+        "name": "Enter transaction pin/Filled"
+      },
+      {
+        "id": "22484:77318",
+        "name": "Unit Purchase Successful"
+      },
+      {
+        "id": "22484:77354",
+        "name": "Unit Purchase Failed"
+      }
+    ]
+  },
+  {
+    "flow": "Bill Payment \u00b7 Subscribe for Entertainment",
+    "screens": [
+      {
+        "id": "22484:77437",
+        "name": "Choose Entertainment Provider"
+      },
+      {
+        "id": "22493:42593",
+        "name": "Pay Bills/Entertainment/Default"
+      },
+      {
+        "id": "22493:42796",
+        "name": "Pay Bills/Entertainment/Default (2)"
+      },
+      {
+        "id": "22493:42683",
+        "name": "Choose GOTV Plan"
+      },
+      {
+        "id": "22493:42886",
+        "name": "Pay Bills/Entertainment/Default (3)"
+      },
+      {
+        "id": "22494:43099",
+        "name": "Entertainment Successful"
+      },
+      {
+        "id": "22494:43135",
+        "name": "Entertainment Subscription Failed"
+      },
+      {
+        "id": "22494:43031",
+        "name": "Pay Bills/Summary"
+      },
+      {
+        "id": "22570:269769",
+        "name": "Enter transaction pin/Empty"
+      },
+      {
+        "id": "22570:269785",
+        "name": "Enter transaction pin/Filled"
+      }
+    ]
+  },
+  {
+    "flow": "Bill Payment \u00b7 Bill History",
+    "screens": [
+      {
+        "id": "22496:43217",
+        "name": "Bill History"
+      },
+      {
+        "id": "30161:66851",
+        "name": "Bill History (2)"
+      },
+      {
+        "id": "30161:67042",
+        "name": "Bill History (3)"
+      },
+      {
+        "id": "22496:43403",
+        "name": "Bill History/Empty"
+      },
+      {
+        "id": "30161:66330",
+        "name": "Filter"
+      },
+      {
+        "id": "30161:66371",
+        "name": "Filter (2)"
+      },
+      {
+        "id": "30161:66412",
+        "name": "Filter (3)"
+      },
+      {
+        "id": "22498:44060",
+        "name": "BillHistory/Airtime Details"
+      },
+      {
+        "id": "22498:44155",
+        "name": "BillHistory/Data"
+      },
+      {
+        "id": "22498:44258",
+        "name": "BillHistory/Electricity"
+      },
+      {
+        "id": "22498:44362",
+        "name": "BillHistory/Entertainment"
+      }
+    ]
+  },
+  {
+    "flow": "Downtime modals",
+    "screens": [
+      {
+        "id": "28330:53915",
+        "name": "Card withdrawal disabled"
+      },
+      {
+        "id": "28330:54012",
+        "name": "Card withdrawal disabled (2)"
+      },
+      {
+        "id": "28330:54038",
+        "name": "Currency conversion disabled"
+      },
+      {
+        "id": "28331:54053",
+        "name": "Transfers unavailable"
+      },
+      {
+        "id": "28331:54068",
+        "name": "Assessment unavailable"
+      },
+      {
+        "id": "28332:54083",
+        "name": "Credit report update"
+      },
+      {
+        "id": "28330:53935",
+        "name": "Card fundingl disabled"
+      },
+      {
+        "id": "28330:53997",
+        "name": "Card creation not available"
+      }
+    ]
+  },
+  {
+    "flow": "Cards",
+    "screens": [
+      {
+        "id": "22515:96836",
+        "name": "Card/Naira/New"
+      },
+      {
+        "id": "22551:258184",
+        "name": "Card/Dollar/New"
+      },
+      {
+        "id": "28915:47193",
+        "name": "Card/Dollar/New/premium"
+      },
+      {
+        "id": "38894:40990",
+        "name": "Card/Dollar/New/premium (2)"
+      },
+      {
+        "id": "22549:257412",
+        "name": "Card"
+      },
+      {
+        "id": "23361:114618",
+        "name": "Card Creation fee"
+      },
+      {
+        "id": "24263:121682",
+        "name": "Authorize ngn card creation"
+      },
+      {
+        "id": "24263:121708",
+        "name": "Insufficient Funds"
+      },
+      {
+        "id": "23481:113523",
+        "name": "Cards/Dollar/Authorize payment"
+      },
+      {
+        "id": "23481:113723",
+        "name": "Cards/Dollar/Authorize payment (2)"
+      },
+      {
+        "id": "23481:113875",
+        "name": "Cards/Dollar/Authorize payment/Insufficient Funds"
+      },
+      {
+        "id": "22554:258819",
+        "name": "Waiting Animation"
+      },
+      {
+        "id": "38602:41255",
+        "name": "Waiting Animation (2)"
+      },
+      {
+        "id": "38600:40500",
+        "name": "Card Creation Successful"
+      },
+      {
+        "id": "38602:40900",
+        "name": "Create Card Pin/Empty"
+      },
+      {
+        "id": "38602:41086",
+        "name": "Confirm Card Pin/Empty"
+      },
+      {
+        "id": "38602:41188",
+        "name": "Confirm Card Pin/Empty (2)"
+      },
+      {
+        "id": "38602:41018",
+        "name": "Create Card Pin/Filled"
+      },
+      {
+        "id": "39232:40987",
+        "name": "Account SetUp/IDVerification/Take Selfie"
+      },
+      {
+        "id": "39232:41007",
+        "name": "Selfie"
+      }
+    ]
+  },
+  {
+    "flow": "Banks & Beneficiaries",
+    "screens": [
+      {
+        "id": "23262:115691",
+        "name": "Add beneficiary/empty"
+      },
+      {
+        "id": "23262:115710",
+        "name": "Add beneficiary/Filled"
+      },
+      {
+        "id": "23262:118279",
+        "name": "Add beneficiary/Errored"
+      },
+      {
+        "id": "23262:115735",
+        "name": "Add Beneficiary Account/Success"
+      },
+      {
+        "id": "23262:115791",
+        "name": "Bank and Cards/Bank/Empty"
+      },
+      {
+        "id": "23262:116187",
+        "name": "Benficiary and Card/banks"
+      },
+      {
+        "id": "23262:116211",
+        "name": "Bank and Cards/Bank/Manage"
+      },
+      {
+        "id": "23262:116241",
+        "name": "Delete Bank Account"
+      },
+      {
+        "id": "27644:106877",
+        "name": "Benficiary and Card/Searching"
+      },
+      {
+        "id": "27644:107017",
+        "name": "Benficiary and Card/Searching not found"
+      },
+      {
+        "id": "23262:116254",
+        "name": "Beneficiaries and Cards/Card/Empty"
+      },
+      {
+        "id": "23262:116302",
+        "name": "Authorize card"
+      },
+      {
+        "id": "23262:116318",
+        "name": "Bank and Cards/Cards"
+      },
+      {
+        "id": "23262:116402",
+        "name": "Bank and Cards/Cards/Manage"
+      },
+      {
+        "id": "23262:116462",
+        "name": "Maximum card limit reached"
+      },
+      {
+        "id": "23262:116357",
+        "name": "Bank and Cards/Cards (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Credit \u00b7 Credit Report",
+    "screens": [
+      {
+        "id": "21035:264453",
+        "name": "Credit/Free"
+      },
+      {
+        "id": "22643:34388",
+        "name": "Credit/Free/No update required"
+      },
+      {
+        "id": "22570:267803",
+        "name": "Credit/Paid"
+      },
+      {
+        "id": "21035:265761",
+        "name": "See what Changed"
+      },
+      {
+        "id": "21035:265934",
+        "name": "Credit Popup"
+      },
+      {
+        "id": "22570:268279",
+        "name": "What are credit reports"
+      },
+      {
+        "id": "22635:270988",
+        "name": "Confirm Pay as your go?"
+      },
+      {
+        "id": "28262:50820",
+        "name": "Credit report fetched"
+      },
+      {
+        "id": "22635:271050",
+        "name": "New report payment Successful"
+      },
+      {
+        "id": "22589:269948",
+        "name": "Insufficient Funds"
+      },
+      {
+        "id": "21035:264843",
+        "name": "Credit Details"
+      },
+      {
+        "id": "21035:265789",
+        "name": "See what Changed (2)"
+      },
+      {
+        "id": "21035:265831",
+        "name": "Previous Changes"
+      },
+      {
+        "id": "21035:265896",
+        "name": "Previous Changes (2)"
+      },
+      {
+        "id": "21448:259994",
+        "name": "Accounts/Empty"
+      },
+      {
+        "id": "21448:260380",
+        "name": "Accounts"
+      },
+      {
+        "id": "21448:260489",
+        "name": "Accounts (2)"
+      },
+      {
+        "id": "21035:264800",
+        "name": "FirstCentral Credit Report"
+      },
+      {
+        "id": "21035:266045",
+        "name": "FirstCentral Credit Report/Collapsed"
+      },
+      {
+        "id": "21035:266102",
+        "name": "Credit report sent"
+      },
+      {
+        "id": "21035:266146",
+        "name": "Download Credit Report Confirmation"
+      },
+      {
+        "id": "21035:266124",
+        "name": "Credit report sent failed"
+      }
+    ]
+  },
+  {
+    "flow": "Credit \u00b7 Credit Assessment",
+    "screens": [
+      {
+        "id": "21035:265637",
+        "name": "Credit Score"
+      },
+      {
+        "id": "21035:266223",
+        "name": "What is Credit Assessment"
+      },
+      {
+        "id": "21035:266368",
+        "name": "Account Successfully linked"
+      },
+      {
+        "id": "21035:264916",
+        "name": "Kredete Assessment Details"
+      },
+      {
+        "id": "21035:266172",
+        "name": "Credit Assessment"
+      },
+      {
+        "id": "21035:266113",
+        "name": "Kredete assessment sent"
+      },
+      {
+        "id": "21035:266159",
+        "name": "Download Kredete Assessment Confirmation"
+      },
+      {
+        "id": "21035:266135",
+        "name": "Credit rassessment sent failed"
+      },
+      {
+        "id": "21035:264547",
+        "name": "Credit/Assessment loading"
+      },
+      {
+        "id": "21035:264644",
+        "name": "Credit/Assessment loaded"
+      },
+      {
+        "id": "21035:265037",
+        "name": "Credit/Assessment loaded/Not enough transactions"
+      },
+      {
+        "id": "22672:262411",
+        "name": "What is Credit Assessment (2)"
+      },
+      {
+        "id": "27693:107500",
+        "name": "What is Credit Assessment/Premium"
+      },
+      {
+        "id": "22672:262608",
+        "name": "Confirm new analysis"
+      },
+      {
+        "id": "27226:42009",
+        "name": "Request an update"
+      },
+      {
+        "id": "27370:76040",
+        "name": "Request an update/premium"
+      },
+      {
+        "id": "28262:50923",
+        "name": "Credit/Assessment loaded/Details doesnt match"
+      },
+      {
+        "id": "25607:40965",
+        "name": "Confirm new analysis/premium"
+      },
+      {
+        "id": "22672:262627",
+        "name": "Insufficient Funds"
+      },
+      {
+        "id": "22672:262685",
+        "name": "Credit/Assessment loaded (2)"
+      },
+      {
+        "id": "22674:263109",
+        "name": "Credit/Assessment loaded (3)"
+      },
+      {
+        "id": "22672:262644",
+        "name": "New assessment payment Successful"
+      },
+      {
+        "id": "22674:263487",
+        "name": "Credit//PaidAssessment loaded"
+      },
+      {
+        "id": "21035:265241",
+        "name": "Credit/Assessment loaded/Failed"
+      },
+      {
+        "id": "21035:265340",
+        "name": "Credit/Assessment loaded/Not found"
+      },
+      {
+        "id": "21035:265439",
+        "name": "Credit/Assessment loaded/No balance found"
+      },
+      {
+        "id": "21035:265538",
+        "name": "Credit/Assessment loaded/No transactions"
+      },
+      {
+        "id": "22674:263829",
+        "name": "Multiple assessment"
+      },
+      {
+        "id": "25607:40903",
+        "name": "Multiple assessment/premium users"
+      },
+      {
+        "id": "25607:40862",
+        "name": "Analysis history"
+      },
+      {
+        "id": "27242:42141",
+        "name": "Multiple assessment/premium users (2)"
+      },
+      {
+        "id": "21035:265136",
+        "name": "Credit/Assessment loaded/Not enough transactions (2)"
+      },
+      {
+        "id": "21035:265157",
+        "name": "Credit/Assessment loaded/Failed (2)"
+      },
+      {
+        "id": "21035:265178",
+        "name": "Credit/Assessment loaded/Not found (2)"
+      },
+      {
+        "id": "21035:265199",
+        "name": "Credit/Assessment loaded/No balance found (2)"
+      },
+      {
+        "id": "21035:265220",
+        "name": "Credit/Assessment loaded/No transactions (2)"
+      },
+      {
+        "id": "28262:50844",
+        "name": "Credit/Assessment loaded/Details doesnt match (2)"
+      },
+      {
+        "id": "33512:83715",
+        "name": "Account Linking Failed"
+      }
+    ]
+  },
+  {
+    "flow": "Manage Subscription + Fees & Rates",
+    "screens": [
+      {
+        "id": "23536:112501",
+        "name": "HomePage/ Existing User"
+      },
+      {
+        "id": "23262:115504",
+        "name": "Subscription/Free"
+      },
+      {
+        "id": "23536:113457",
+        "name": "Subscription/Premium"
+      },
+      {
+        "id": "23572:115150",
+        "name": "Subscription/Cancelled"
+      },
+      {
+        "id": "23572:115234",
+        "name": "Subscription/Billing history"
+      },
+      {
+        "id": "23571:115087",
+        "name": "Cancel your subscription"
+      },
+      {
+        "id": "28984:47344",
+        "name": "Keep my subscription"
+      },
+      {
+        "id": "23536:113068",
+        "name": "Upgrade to Premium/NGN"
+      },
+      {
+        "id": "23536:113191",
+        "name": "Upgrade to Premium/USD"
+      },
+      {
+        "id": "23779:115805",
+        "name": "Upgrade to Premium/Yearly"
+      },
+      {
+        "id": "23536:113316",
+        "name": "Upgrade to Premium/USD (2)"
+      },
+      {
+        "id": "23262:119120",
+        "name": "Upgrade to premium/Successful"
+      },
+      {
+        "id": "28987:143206",
+        "name": "Upgrade to premium/Successful (2)"
+      },
+      {
+        "id": "23572:115113",
+        "name": "Subscription cancelled"
+      },
+      {
+        "id": "23262:119173",
+        "name": "Upgrade to premium/Successful (3)"
+      },
+      {
+        "id": "23575:115517",
+        "name": "Subscription/Billing history/Payment Details"
+      },
+      {
+        "id": "23779:115967",
+        "name": "Subscription/Billing history/Refund"
+      },
+      {
+        "id": "23782:116071",
+        "name": "Fees & Rates"
+      },
+      {
+        "id": "23828:118570",
+        "name": "Fees & Rates (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Loans",
+    "screens": [
+      {
+        "id": "24018:75931",
+        "name": "Loans/All"
+      },
+      {
+        "id": "24018:76016",
+        "name": "Loans/Older Loans/All"
+      },
+      {
+        "id": "24018:76117",
+        "name": "Loans/Older Loans/All/Empty"
+      },
+      {
+        "id": "24018:76355",
+        "name": "Loans/Older Loans/Declined"
+      },
+      {
+        "id": "24018:76422",
+        "name": "Loans/Older Loans/Declined/Empty"
+      },
+      {
+        "id": "24018:76660",
+        "name": "Loans/Older Loans/Completed"
+      },
+      {
+        "id": "24018:76712",
+        "name": "Loans/Older Loans/Completed/Empty"
+      },
+      {
+        "id": "24018:76950",
+        "name": "Loans/All/Empty"
+      },
+      {
+        "id": "24018:77186",
+        "name": "Loans/Explore"
+      },
+      {
+        "id": "24018:77410",
+        "name": "Explore/Recommended for you/ Article"
+      },
+      {
+        "id": "24018:77790",
+        "name": "Explore/Recommended for you/ Article (2)"
+      },
+      {
+        "id": "24018:77863",
+        "name": "Personal Loans/Request Details/Pending"
+      },
+      {
+        "id": "24018:77906",
+        "name": "Personal Loans/Pending/Track Progress"
+      },
+      {
+        "id": "24018:77979",
+        "name": "Personal Loans/Request Details/Approved"
+      },
+      {
+        "id": "24018:78025",
+        "name": "Personal Loans/Request Details/Approved (2)"
+      },
+      {
+        "id": "24018:78092",
+        "name": "Personal Loans/Request Details/Approved (3)"
+      },
+      {
+        "id": "24018:78155",
+        "name": "Personal Loans/Approved/Track Progress"
+      },
+      {
+        "id": "24018:78228",
+        "name": "Personal Loans/New Offer/Track Progress"
+      },
+      {
+        "id": "24018:78308",
+        "name": "Personal Loans/Offer Declined/Track Progress"
+      },
+      {
+        "id": "24018:78357",
+        "name": "Personal Loans/Request Details/Declined"
+      },
+      {
+        "id": "24018:78403",
+        "name": "Personal Loans/Declined/Track Progress"
+      },
+      {
+        "id": "24018:78444",
+        "name": "Personal Loans/Approved/Drop Review"
+      },
+      {
+        "id": "24018:78465",
+        "name": "Personal Loans/Approved/Drop Review (2)"
+      },
+      {
+        "id": "24018:78486",
+        "name": "Report sent Successfully"
+      },
+      {
+        "id": "24018:78498",
+        "name": "Personal Loans/Repayment Details"
+      },
+      {
+        "id": "24018:78774",
+        "name": "Personal Loans/Repayment/Track Progress"
+      },
+      {
+        "id": "24018:78847",
+        "name": "Personal loans/ Repayment/View Receipt"
+      },
+      {
+        "id": "24018:78907",
+        "name": "Personal Loans/Repayment Details/Completed"
+      },
+      {
+        "id": "24018:79078",
+        "name": "Personal Loans/Repayment Details/Overdue"
+      },
+      {
+        "id": "24018:79356",
+        "name": "Personal Loans/Repayment/Track Progress/Completed"
+      },
+      {
+        "id": "24018:79429",
+        "name": "Pay Now/ Wallet"
+      },
+      {
+        "id": "24018:79443",
+        "name": "Pay Now/ Cards"
+      },
+      {
+        "id": "24018:79476",
+        "name": "Payment Successful"
+      },
+      {
+        "id": "24018:79488",
+        "name": "Pay Now/Wallet/Error"
+      },
+      {
+        "id": "24018:79504",
+        "name": "Pay Now"
+      },
+      {
+        "id": "24018:79518",
+        "name": "Personal Loans/Repayment/Track Progress (2)"
+      },
+      {
+        "id": "24018:79591",
+        "name": "Pay Now/ Cards (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Build Credit \u00b7 Coming Soon",
+    "screens": [
+      {
+        "id": "22674:264169",
+        "name": "Build Credit"
+      },
+      {
+        "id": "23140:140265",
+        "name": "Build Credit (2)"
+      },
+      {
+        "id": "23140:139976",
+        "name": "Waitlist joined"
+      }
+    ]
+  },
+  {
+    "flow": "Personal Loan",
+    "screens": [
+      {
+        "id": "24018:64739",
+        "name": "Take Actions/ Personal loan"
+      },
+      {
+        "id": "24018:64828",
+        "name": "Take Actions/ Personal loan/All"
+      },
+      {
+        "id": "28079:77835",
+        "name": "Take Actions/ Personal loan/All (2)"
+      },
+      {
+        "id": "24018:64861",
+        "name": "Take Actions/ Personal loan/Loan Detail"
+      },
+      {
+        "id": "24018:64931",
+        "name": "Take Actions/ Personal loan/All (3)"
+      },
+      {
+        "id": "24018:64964",
+        "name": "Filter"
+      },
+      {
+        "id": "24018:64991",
+        "name": "Filter (2)"
+      },
+      {
+        "id": "24018:65265",
+        "name": "APR Popup"
+      },
+      {
+        "id": "26260:99003",
+        "name": "Polaris Bank/ Loan application"
+      },
+      {
+        "id": "26260:99096",
+        "name": "Polaris Bank Loan/Personal Information"
+      },
+      {
+        "id": "26260:99363",
+        "name": "Polaris Bank Loan/Personal Information (2)"
+      },
+      {
+        "id": "26260:99544",
+        "name": "Polaris Bank Loan/Personal Information (3)"
+      },
+      {
+        "id": "26260:99765",
+        "name": "Polaris Bank Loan/Loan request Information/empty"
+      },
+      {
+        "id": "26260:100000",
+        "name": "Polaris Bank Loan/Loan request Information/empty (2)"
+      },
+      {
+        "id": "26328:41020",
+        "name": "Polaris Bank Loan/Loan request Information/empty (3)"
+      },
+      {
+        "id": "26328:41624",
+        "name": "Polaris Bank Loan/Loan request Information/empty (4)"
+      },
+      {
+        "id": "26260:100198",
+        "name": "Polaris Bank Loan/Loan request Information/others/empty"
+      },
+      {
+        "id": "26260:100345",
+        "name": "Polaris Bank Loan/Loan request Information/others/filled"
+      },
+      {
+        "id": "24018:66069",
+        "name": "Personal Loan/Apply/ Review"
+      },
+      {
+        "id": "24018:66146",
+        "name": "Loan/Apply/Successful"
+      },
+      {
+        "id": "24018:66450",
+        "name": "Account Doesnt Match"
+      },
+      {
+        "id": "24018:66461",
+        "name": "Personal Loan/Apply/ Review (2)"
+      },
+      {
+        "id": "26251:74695",
+        "name": "Take Actions/ Personal loan/Loan Detail (2)"
+      },
+      {
+        "id": "26255:74860",
+        "name": "Page Finance Loan application"
+      },
+      {
+        "id": "26255:75082",
+        "name": "Page Finance Loan application/Personal info/ empty"
+      },
+      {
+        "id": "26255:95879",
+        "name": "Page Finance Loan application/Personal info/ Filled"
+      },
+      {
+        "id": "26255:96237",
+        "name": "Page Finance Loan application/Next of kin/ empty"
+      },
+      {
+        "id": "26255:96689",
+        "name": "Page Finance Loan application/Next of Kin/ filled"
+      },
+      {
+        "id": "26255:96842",
+        "name": "Page Finance Loan application/KYC/ empty"
+      },
+      {
+        "id": "26594:72968",
+        "name": "Page Finance Loan application/KYC/ empty (2)"
+      },
+      {
+        "id": "26594:73636",
+        "name": "Choose account"
+      },
+      {
+        "id": "26594:73934",
+        "name": "Choose account (2)"
+      },
+      {
+        "id": "26260:100467",
+        "name": "Page Finance Loan application/KYC/ empty/no account connected"
+      },
+      {
+        "id": "26260:97097",
+        "name": "Page Finance Loan application/KYC/ filled"
+      },
+      {
+        "id": "26260:97261",
+        "name": "Page Finance Loan application/Employment Details/ empty"
+      },
+      {
+        "id": "26260:97471",
+        "name": "Page Finance Loan application/Employment Details/filled"
+      },
+      {
+        "id": "26260:97655",
+        "name": "Page Finance Loan application/Loan Requirements/ empty"
+      },
+      {
+        "id": "26260:98630",
+        "name": "Page Finance Loan application/Loan Requirements/ filled"
+      },
+      {
+        "id": "26328:41823",
+        "name": "Personal Loan/Apply/ Review (3)"
+      },
+      {
+        "id": "24018:66544",
+        "name": "Take Actions/ Personal loan/Review/All"
+      },
+      {
+        "id": "24018:66747",
+        "name": "Take Actions/ Personal loan/Review/5 star"
+      },
+      {
+        "id": "24018:66950",
+        "name": "Take Actions/ Personal loan/Review/4 star"
+      },
+      {
+        "id": "24018:67125",
+        "name": "Take Actions/ Personal loan/Review/3 star"
+      },
+      {
+        "id": "24018:67625",
+        "name": "Take Actions/ Personal loan/Review/2 star"
+      },
+      {
+        "id": "24018:67787",
+        "name": "Take Actions/ Personal loan/Review/1 star"
+      },
+      {
+        "id": "24018:67949",
+        "name": "Take Actions/ Personal loan/Reviews/No reviews"
+      },
+      {
+        "id": "24018:68071",
+        "name": "Take Actions/ Personal loan/compare plans"
+      },
+      {
+        "id": "24018:68134",
+        "name": "Take Actions/ Personal loan/compare plans (2)"
+      },
+      {
+        "id": "24018:68203",
+        "name": "Take Actions/ Personal loan/compare plans (3)"
+      },
+      {
+        "id": "24018:67286",
+        "name": "Compare offer"
+      },
+      {
+        "id": "24018:67305",
+        "name": "Compare offer/Searching"
+      },
+      {
+        "id": "24018:67318",
+        "name": "Compare offer/Error"
+      },
+      {
+        "id": "24018:67383",
+        "name": "Take Actions/ Personal loan/Empty"
+      },
+      {
+        "id": "28079:77634",
+        "name": "Take Actions/ Personal loan/Loan Detail (3)"
+      }
+    ]
+  },
+  {
+    "flow": "Repayment Setup",
+    "screens": [
+      {
+        "id": "24018:68278",
+        "name": "Suspended balance"
+      },
+      {
+        "id": "24018:68289",
+        "name": "Suspended balance (2)"
+      },
+      {
+        "id": "24018:68320",
+        "name": "Add bank account/Filled"
+      },
+      {
+        "id": "24018:68346",
+        "name": "Setup Repayment Method"
+      },
+      {
+        "id": "38816:40759",
+        "name": "Setup Repayment Method (2)"
+      },
+      {
+        "id": "38834:41150",
+        "name": "Suspended balance (3)"
+      },
+      {
+        "id": "38837:67121",
+        "name": "Suspended balance (4)"
+      },
+      {
+        "id": "24018:68423",
+        "name": "Setup Repayment Method (3)"
+      },
+      {
+        "id": "24018:68470",
+        "name": "Setup Repayment Method (4)"
+      },
+      {
+        "id": "24018:68383",
+        "name": "Setup Repayment Method (5)"
+      },
+      {
+        "id": "24018:68505",
+        "name": "Setup Repayment Method (6)"
+      },
+      {
+        "id": "24018:68559",
+        "name": "Setup Repayment Method/Fidelity bank"
+      },
+      {
+        "id": "24018:68580",
+        "name": "Setup Repayment Method/Fidelity bank (2)"
+      },
+      {
+        "id": "24018:68607",
+        "name": "Setup Repayment Method/Fidelity bank (3)"
+      },
+      {
+        "id": "24018:68745",
+        "name": "Setup Repayment Method/FCMB/OTP"
+      },
+      {
+        "id": "24018:68885",
+        "name": "Setup Repayment Method/Jaiz bank"
+      },
+      {
+        "id": "24018:68999",
+        "name": "Setup Repayment Method/Heritage Bank"
+      },
+      {
+        "id": "24018:69022",
+        "name": "Setup Repayment Method/Heritage Bank (2)"
+      },
+      {
+        "id": "24018:69050",
+        "name": "Setup Repayment Method/Heritage Bank (3)"
+      },
+      {
+        "id": "24018:69083",
+        "name": "Setup Repayment Method/Heritage Bank (4)"
+      },
+      {
+        "id": "24018:69116",
+        "name": "Setup Repayment Method/Heritage bank/OTP"
+      },
+      {
+        "id": "24018:69140",
+        "name": "Setup Repayment Method/Heritage bank/OTP (2)"
+      },
+      {
+        "id": "24018:68816",
+        "name": "Setup Repayment Method/Jaiz Bank"
+      },
+      {
+        "id": "24018:69349",
+        "name": "Setup Repayment Method/Keystone bank/OTP"
+      },
+      {
+        "id": "24018:68837",
+        "name": "Setup Repayment Method/Sterling Bank"
+      },
+      {
+        "id": "24018:68911",
+        "name": "Setup Repayment Method/Sterling bank"
+      },
+      {
+        "id": "24018:69373",
+        "name": "Setup Repayment Method/Sterling bank/OTP"
+      },
+      {
+        "id": "24018:69398",
+        "name": "Setup Repayment Method/Sterling bank/OTP (2)"
+      },
+      {
+        "id": "24018:69423",
+        "name": "Setup Repayment Method/Zenith Bank"
+      },
+      {
+        "id": "24018:69446",
+        "name": "Setup Repayment Method/Zenith Bank (2)"
+      },
+      {
+        "id": "24018:69474",
+        "name": "Setup Repayment Method/Zenith Bank (3)"
+      },
+      {
+        "id": "24018:69505",
+        "name": "Setup Repayment Method/Zenith Bank (4)"
+      },
+      {
+        "id": "24018:69735",
+        "name": "Remita Direct debit/Success"
+      },
+      {
+        "id": "24018:68301",
+        "name": "Setup Repayment Method/Remita debit mandate"
+      },
+      {
+        "id": "24018:68721",
+        "name": "Setup Repayment Method/FCMB/OTP (2)"
+      },
+      {
+        "id": "24018:68769",
+        "name": "Setup Repayment Method/FCMB/OTP (3)"
+      },
+      {
+        "id": "24018:69536",
+        "name": "Setup Repayment Method/Remita debit mandate (2)"
+      },
+      {
+        "id": "24018:69704",
+        "name": "Remita Direct debit/Success (2)"
+      },
+      {
+        "id": "39704:41690",
+        "name": "Electronic Mandate/Success"
+      },
+      {
+        "id": "24018:69766",
+        "name": "Remita Direct Debit /Failed"
+      },
+      {
+        "id": "24018:69787",
+        "name": "Download Remita debit mandate confirmation"
+      },
+      {
+        "id": "24018:69800",
+        "name": "Setup Repayment Method (7)"
+      },
+      {
+        "id": "24018:69838",
+        "name": "Setup Repayment Method (8)"
+      },
+      {
+        "id": "24018:68634",
+        "name": "Setup repayment Method/Fidelity bank"
+      },
+      {
+        "id": "24018:68663",
+        "name": "Setup Repayment Method/Fidelity bank/error"
+      },
+      {
+        "id": "24018:68793",
+        "name": "Setup Repayment Method/FCMB"
+      },
+      {
+        "id": "24018:68697",
+        "name": "Setup Repayment Method/FCMB/OTP (4)"
+      },
+      {
+        "id": "24018:68858",
+        "name": "Setup Repayment Method/FCMB (2)"
+      },
+      {
+        "id": "24018:68937",
+        "name": "Setup Repayment Method/FCMB (3)"
+      },
+      {
+        "id": "24018:68968",
+        "name": "Setup Repayment Method/FCMB (4)"
+      },
+      {
+        "id": "24023:81970",
+        "name": "HomePage/ Existing User/setup remita"
+      },
+      {
+        "id": "39700:41598",
+        "name": "Mono direct debit pending"
+      },
+      {
+        "id": "39692:41011",
+        "name": "Setup Repayment Method / Electronic Mandate"
+      },
+      {
+        "id": "39696:41372",
+        "name": "Setup Repayment Method / Electronic Mandate (2)"
+      }
+    ]
+  },
+  {
+    "flow": "Chat about your score",
+    "screens": [
+      {
+        "id": "28334:55643",
+        "name": "Remita Direct debit/Success"
+      },
+      {
+        "id": "28334:55141",
+        "name": "Credit/Free/No update required"
+      },
+      {
+        "id": "28334:55708",
+        "name": "Credit/Free/No update required (2)"
+      },
+      {
+        "id": "28334:54610",
+        "name": "Chat about your score"
+      },
+      {
+        "id": "28334:55572",
+        "name": "Chat about your score (2)"
+      },
+      {
+        "id": "28334:56130",
+        "name": "Query sent"
+      }
+    ]
+  },
+  {
+    "flow": "Build Credit",
+    "screens": [
+      {
+        "id": "23140:140238",
+        "name": "Build Credit/Onboarding 5"
+      },
+      {
+        "id": "23152:140468",
+        "name": "Build Credit/Free users"
+      },
+      {
+        "id": "23140:140157",
+        "name": "Build Credit/Onboarding 3"
+      },
+      {
+        "id": "23140:139994",
+        "name": "Build Credit/Onboarding 1"
+      },
+      {
+        "id": "23154:140708",
+        "name": "Select Recurring Bill"
+      },
+      {
+        "id": "23140:140130",
+        "name": "Build Credit/Onboarding 2"
+      },
+      {
+        "id": "23140:140184",
+        "name": "Build Credit/Onboarding 4"
+      }
+    ]
+  },
+  {
+    "flow": "Updates",
+    "screens": [
+      {
+        "id": "33250:100852",
+        "name": "Force update ui"
+      },
+      {
+        "id": "33252:100971",
+        "name": "Start Download"
+      },
+      {
+        "id": "33268:107743",
+        "name": "Download in Progress"
+      },
+      {
+        "id": "33250:100901",
+        "name": "Under Maintenance"
+      },
+      {
+        "id": "33250:100919",
+        "name": "Patch Update-android"
+      },
+      {
+        "id": "33250:100929",
+        "name": "Patch Update-ios"
+      }
+    ]
+  },
+  {
+    "flow": "Permission Request",
+    "screens": [
+      {
+        "id": "33253:159167",
+        "name": "Notifications"
+      },
+      {
+        "id": "33253:159577",
+        "name": "Location"
+      },
+      {
+        "id": "33296:161326",
+        "name": "Contact"
+      }
+    ]
+  },
+  {
+    "flow": "Dashboard iterations",
+    "screens": [
+      {
+        "id": "38354:40379",
+        "name": "Account Detai;s"
+      },
+      {
+        "id": "38354:39811",
+        "name": "Iteration 1"
+      },
+      {
+        "id": "38354:41033",
+        "name": "Iteration 3"
+      },
+      {
+        "id": "38356:41598",
+        "name": "Iteration 4"
+      },
+      {
+        "id": "38356:43659",
+        "name": "Iteration 5"
+      },
+      {
+        "id": "38354:40468",
+        "name": "Iteration 2"
+      }
+    ]
+  }
+]

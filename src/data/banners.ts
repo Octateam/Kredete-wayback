@@ -27,6 +27,22 @@ const BANNERS: Record<string, BannerConfig> = {
     accentText: 'text-sky-400',
     previewFlowIds: ['onboarding-screen', 'create-account', 'sign-in-with-pin-or-biometrics'],
   },
+  'mobile/v2/nigeria': {
+    accent: 'Mobile App · V2 · Nigerian Experience',
+    subheadline:
+      "A detailed look at the flows and screens built for Kredete's Nigerian mobile experience in V2 — NGN accounts, cards, credit assessment, loans and bill payments.",
+    bgColor: '#2E2438',
+    accentText: 'text-violet-400',
+    previewFlowIds: ['onboarding-screen', 'create-account', 'sign-in-with-pin-or-biometrics'],
+  },
+  'mobile/v2/non-nigeria': {
+    accent: 'Mobile App · V2 · Non-Nigerian Experience',
+    subheadline:
+      "A detailed look at the flows and screens built for Kredete's Non-Nigerian mobile experience in V2 — USD wallets, BVN verification, transfers and cards.",
+    bgColor: '#22283A',
+    accentText: 'text-indigo-400',
+    previewFlowIds: ['onboarding-screen', 'create-account', 'sign-in-with-pin-or-biometrics'],
+  },
   'mobile/v2': {
     accent: 'Mobile App · V2',
     subheadline: 'An overview of the flows and screens shipped in V2 of the Kredete Mobile App.',

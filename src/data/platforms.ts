@@ -2,6 +2,7 @@ import type { Flow, PlatformData } from '../types'
 import { slugify } from '../lib/slug'
 import { MOBILE_V4_PRO_FLOW_NAMES } from './mobileV4ProFlows'
 import { MOBILE_V1_NIGERIA_FLOWS, MOBILE_V1_NON_NIGERIA_FLOWS } from './mobileV1Flows'
+import { MOBILE_V2_NIGERIA_FLOWS, MOBILE_V2_NON_NIGERIA_FLOWS } from './mobileV2Flows'
 import { getRegions } from '../lib/regions'
 
 function flowsFromNames(names: string[]): Flow[] {
@@ -35,7 +36,27 @@ export const PLATFORMS: PlatformData[] = [
           },
         ],
       },
-      { id: 'v2', label: 'V2', flows: [] },
+      {
+        id: 'v2',
+        label: 'V2',
+        flows: [],
+        regions: [
+          {
+            id: 'nigeria',
+            label: 'Nigerian Experience',
+            figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
+            figmaSectionNodeId: '21035:255852',
+            flows: MOBILE_V2_NIGERIA_FLOWS,
+          },
+          {
+            id: 'non-nigeria',
+            label: 'Non-Nigerian Experience',
+            figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
+            figmaSectionNodeId: '33992:35365',
+            flows: MOBILE_V2_NON_NIGERIA_FLOWS,
+          },
+        ],
+      },
       { id: 'v3', label: 'V3', flows: [] },
       { id: 'v4', label: 'V4', flows: [] },
       {
