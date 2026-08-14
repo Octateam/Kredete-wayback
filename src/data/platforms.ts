@@ -1,13 +1,8 @@
-import type { Flow, PlatformData } from '../types'
-import { slugify } from '../lib/slug'
-import { MOBILE_V4_PRO_FLOW_NAMES } from './mobileV4ProFlows'
+import type { PlatformData } from '../types'
+import { MOBILE_V4_PRO_FLOWS } from './mobileV4ProFlows'
 import { MOBILE_V1_NIGERIA_FLOWS, MOBILE_V1_NON_NIGERIA_FLOWS } from './mobileV1Flows'
 import { MOBILE_V2_NIGERIA_FLOWS, MOBILE_V2_NON_NIGERIA_FLOWS } from './mobileV2Flows'
 import { getRegions } from '../lib/regions'
-
-function flowsFromNames(names: string[]): Flow[] {
-  return names.map((name) => ({ id: slugify(name), name, screens: [] }))
-}
 
 export const PLATFORMS: PlatformData[] = [
   {
@@ -18,8 +13,8 @@ export const PLATFORMS: PlatformData[] = [
       {
         id: 'v4-pro',
         label: 'V4 Pro',
-        figmaSectionNodeId: '943:101414',
-        flows: flowsFromNames(MOBILE_V4_PRO_FLOW_NAMES),
+        figmaSectionNodeId: '804:23364',
+        flows: MOBILE_V4_PRO_FLOWS,
       },
       { id: 'v4', label: 'V4', flows: [] },
       { id: 'v3', label: 'V3', flows: [] },

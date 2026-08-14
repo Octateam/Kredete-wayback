@@ -1,0 +1,2781 @@
+[
+  {
+    "flow": "Black Americans/ US",
+    "screens": [
+      {
+        "id": "840:10332",
+        "name": "Home - loading"
+      },
+      {
+        "id": "840:11475",
+        "name": "Accounts"
+      },
+      {
+        "id": "840:40728",
+        "name": "Accounts -on scroll"
+      },
+      {
+        "id": "840:11720",
+        "name": "Accounts"
+      },
+      {
+        "id": "840:11828",
+        "name": "Accounts - multiple"
+      },
+      {
+        "id": "827:36595",
+        "name": "Home - one account"
+      },
+      {
+        "id": "840:18187",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "840:17538",
+        "name": "Home - one account - add new account"
+      },
+      {
+        "id": "840:9681",
+        "name": "Home"
+      },
+      {
+        "id": "3999:67592",
+        "name": "Account details"
+      },
+      {
+        "id": "3307:52478",
+        "name": "Notifications - transactions"
+      },
+      {
+        "id": "3650:44668",
+        "name": "Home - widgets"
+      },
+      {
+        "id": "9599:60846",
+        "name": "Home - widgets"
+      }
+    ]
+  },
+  {
+    "flow": "Africans",
+    "screens": [
+      {
+        "id": "1186:71760",
+        "name": "Home - loading"
+      },
+      {
+        "id": "1186:71917",
+        "name": "Accounts"
+      },
+      {
+        "id": "1186:72041",
+        "name": "Accounts -on scroll"
+      },
+      {
+        "id": "1186:72108",
+        "name": "Accounts"
+      },
+      {
+        "id": "1186:72205",
+        "name": "Accounts - multiple"
+      },
+      {
+        "id": "1186:72308",
+        "name": "Home - one account"
+      },
+      {
+        "id": "1186:72594",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "1186:72840",
+        "name": "Home - one account - add new account"
+      },
+      {
+        "id": "1186:73126",
+        "name": "Home"
+      },
+      {
+        "id": "3999:68180",
+        "name": "Account details"
+      }
+    ]
+  },
+  {
+    "flow": "Global",
+    "screens": [
+      {
+        "id": "1186:76679",
+        "name": "Home - loading"
+      },
+      {
+        "id": "1186:76831",
+        "name": "Accounts"
+      },
+      {
+        "id": "1186:76955",
+        "name": "Accounts -on scroll"
+      },
+      {
+        "id": "1186:77022",
+        "name": "Accounts"
+      },
+      {
+        "id": "1186:77119",
+        "name": "Accounts - multiple"
+      },
+      {
+        "id": "1186:77222",
+        "name": "Home - one account"
+      },
+      {
+        "id": "1186:77483",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "1186:77706",
+        "name": "Home - one account - add new account"
+      },
+      {
+        "id": "1186:77967",
+        "name": "Home"
+      },
+      {
+        "id": "3999:68535",
+        "name": "Account details"
+      }
+    ]
+  },
+  {
+    "flow": "credit",
+    "screens": [
+      {
+        "id": "3604:58068",
+        "name": "Build credit"
+      },
+      {
+        "id": "3604:58210",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3604:58349",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "14182:327805",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "4279:52547",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3604:58485",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3604:58576",
+        "name": "Home - empty state"
+      }
+    ]
+  },
+  {
+    "flow": "Move flow",
+    "screens": [
+      {
+        "id": "2337:82875",
+        "name": "Send 50"
+      },
+      {
+        "id": "2337:82960",
+        "name": "Send 51"
+      },
+      {
+        "id": "2337:83072",
+        "name": "Send 52"
+      },
+      {
+        "id": "2337:83154",
+        "name": "Send 53"
+      },
+      {
+        "id": "2337:83252",
+        "name": "Send 54"
+      },
+      {
+        "id": "5810:104343",
+        "name": "Send 251"
+      },
+      {
+        "id": "2337:83355",
+        "name": "Send 55"
+      },
+      {
+        "id": "2337:83456",
+        "name": "Send 56"
+      },
+      {
+        "id": "2337:83553",
+        "name": "Send EUR"
+      },
+      {
+        "id": "2337:83664",
+        "name": "Payment link"
+      },
+      {
+        "id": "2337:83674",
+        "name": "Payment link"
+      },
+      {
+        "id": "2337:83684",
+        "name": "Payment link"
+      },
+      {
+        "id": "5960:98722",
+        "name": "Payment link"
+      },
+      {
+        "id": "2337:83724",
+        "name": "Send crypto"
+      },
+      {
+        "id": "5773:51447",
+        "name": "Send crypto"
+      },
+      {
+        "id": "2337:83739",
+        "name": "Send crypto"
+      },
+      {
+        "id": "2337:83777",
+        "name": "Send crypto"
+      },
+      {
+        "id": "5255:58169",
+        "name": "Send crypto"
+      },
+      {
+        "id": "2337:83803",
+        "name": "Send crypto"
+      },
+      {
+        "id": "2337:83817",
+        "name": "Send crypto"
+      },
+      {
+        "id": "2337:83835",
+        "name": "Send crypto"
+      },
+      {
+        "id": "2337:83853",
+        "name": "Send 57"
+      },
+      {
+        "id": "4211:64161",
+        "name": "Send 239"
+      },
+      {
+        "id": "3683:70490",
+        "name": "Send 75"
+      },
+      {
+        "id": "2337:83950",
+        "name": "Send 58"
+      },
+      {
+        "id": "3650:68967",
+        "name": "Send 74"
+      },
+      {
+        "id": "2337:84046",
+        "name": "Send 59"
+      },
+      {
+        "id": "2337:84144",
+        "name": "Send 60"
+      },
+      {
+        "id": "9594:61322",
+        "name": "Send 261"
+      },
+      {
+        "id": "3683:71730",
+        "name": "Send 76"
+      },
+      {
+        "id": "2337:84309",
+        "name": "Search Recipient"
+      },
+      {
+        "id": "3683:71003",
+        "name": "Search Recipient"
+      },
+      {
+        "id": "3686:72154",
+        "name": "Send 77"
+      },
+      {
+        "id": "3686:72259",
+        "name": "Send 78"
+      },
+      {
+        "id": "3686:72363",
+        "name": "Send 79"
+      },
+      {
+        "id": "5786:90707",
+        "name": "Send"
+      },
+      {
+        "id": "5786:103506",
+        "name": "Send"
+      },
+      {
+        "id": "5786:103718",
+        "name": "Send"
+      },
+      {
+        "id": "5786:103910",
+        "name": "Send"
+      },
+      {
+        "id": "5786:104105",
+        "name": "Send"
+      },
+      {
+        "id": "3686:72511",
+        "name": "Search Recipient"
+      },
+      {
+        "id": "3932:51749",
+        "name": "Account details"
+      },
+      {
+        "id": "4116:64285",
+        "name": "Account details"
+      },
+      {
+        "id": "3978:63234",
+        "name": "Payment request"
+      },
+      {
+        "id": "4116:63268",
+        "name": "Payment request"
+      },
+      {
+        "id": "3978:63686",
+        "name": "Payment request"
+      },
+      {
+        "id": "5755:51821",
+        "name": "Money sent"
+      },
+      {
+        "id": "5773:51632",
+        "name": "Money sent"
+      },
+      {
+        "id": "5786:104300",
+        "name": "Money sent"
+      },
+      {
+        "id": "6147:51875",
+        "name": "Send 252"
+      },
+      {
+        "id": "6147:52160",
+        "name": "Send NGN"
+      },
+      {
+        "id": "3650:65604",
+        "name": "transaction summary"
+      },
+      {
+        "id": "3683:71893",
+        "name": "transaction summary"
+      },
+      {
+        "id": "3650:65632",
+        "name": "transaction summary"
+      },
+      {
+        "id": "3683:71998",
+        "name": "transaction summary"
+      },
+      {
+        "id": "3686:72551",
+        "name": "transaction summary"
+      },
+      {
+        "id": "3686:72582",
+        "name": "transaction summary"
+      }
+    ]
+  },
+  {
+    "flow": "Nigerians",
+    "screens": [
+      {
+        "id": "878:25222",
+        "name": "Home - loading"
+      },
+      {
+        "id": "878:25956",
+        "name": "Home - one account"
+      },
+      {
+        "id": "878:26215",
+        "name": "Home - one account - add new account"
+      },
+      {
+        "id": "878:26475",
+        "name": "Home"
+      },
+      {
+        "id": "878:26738",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "878:28963",
+        "name": "Accounts"
+      },
+      {
+        "id": "878:29092",
+        "name": "Accounts -on scroll"
+      },
+      {
+        "id": "878:29165",
+        "name": "Accounts"
+      },
+      {
+        "id": "878:29267",
+        "name": "Accounts - multiple"
+      },
+      {
+        "id": "878:29366",
+        "name": "Account details"
+      }
+    ]
+  },
+  {
+    "flow": "EU",
+    "screens": [
+      {
+        "id": "908:31048",
+        "name": "Home - loading"
+      },
+      {
+        "id": "908:31202",
+        "name": "Home - one account"
+      },
+      {
+        "id": "908:31461",
+        "name": "Home - one account - add new account"
+      },
+      {
+        "id": "908:31723",
+        "name": "Home"
+      },
+      {
+        "id": "908:31986",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "908:32208",
+        "name": "Accounts"
+      },
+      {
+        "id": "908:32332",
+        "name": "Accounts -on scroll"
+      },
+      {
+        "id": "908:32392",
+        "name": "Accounts"
+      },
+      {
+        "id": "908:32603",
+        "name": "Account details"
+      },
+      {
+        "id": "1539:66876",
+        "name": "Accounts - multiple"
+      }
+    ]
+  },
+  {
+    "flow": "Prael",
+    "screens": [
+      {
+        "id": "891:34015",
+        "name": "Home"
+      },
+      {
+        "id": "891:34217",
+        "name": "Home"
+      },
+      {
+        "id": "891:34419",
+        "name": "Home"
+      },
+      {
+        "id": "9304:118741",
+        "name": "Unavailable"
+      },
+      {
+        "id": "10005:123612",
+        "name": "KYC not completed"
+      },
+      {
+        "id": "891:34485",
+        "name": "Home"
+      },
+      {
+        "id": "8021:96318",
+        "name": "Prael"
+      },
+      {
+        "id": "891:34583",
+        "name": "Home"
+      },
+      {
+        "id": "4463:45174",
+        "name": "Travel booking"
+      }
+    ]
+  },
+  {
+    "flow": "Savings",
+    "screens": [
+      {
+        "id": "1831:29485",
+        "name": "Savings - empty state"
+      },
+      {
+        "id": "1831:29650",
+        "name": "Savings"
+      },
+      {
+        "id": "16032:133060",
+        "name": "Savings"
+      },
+      {
+        "id": "1831:29714",
+        "name": "Savings"
+      },
+      {
+        "id": "4490:45447",
+        "name": "Savings"
+      },
+      {
+        "id": "4490:45663",
+        "name": "Deposit"
+      },
+      {
+        "id": "4502:45600",
+        "name": "Deposit"
+      },
+      {
+        "id": "4502:45436",
+        "name": "Deposit"
+      },
+      {
+        "id": "4725:50897",
+        "name": "Deposit"
+      },
+      {
+        "id": "4502:45816",
+        "name": "Deposit"
+      },
+      {
+        "id": "1831:29793",
+        "name": "Savings"
+      },
+      {
+        "id": "1831:29887",
+        "name": "Savings goals"
+      },
+      {
+        "id": "4664:54798",
+        "name": "Savings goals - Underway"
+      },
+      {
+        "id": "4664:54895",
+        "name": "Savings goals - completed"
+      },
+      {
+        "id": "4664:55015",
+        "name": "Savings goals - completed - empty"
+      },
+      {
+        "id": "4502:45934",
+        "name": "Deposit successful"
+      },
+      {
+        "id": "1831:30085",
+        "name": "Savings - Vault"
+      },
+      {
+        "id": "1831:30194",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "1831:30713",
+        "name": "Activity"
+      },
+      {
+        "id": "4502:46015",
+        "name": "Savings"
+      },
+      {
+        "id": "4502:46094",
+        "name": "withdraw"
+      },
+      {
+        "id": "4502:47287",
+        "name": "withdraw"
+      },
+      {
+        "id": "4725:51297",
+        "name": "withdraw"
+      },
+      {
+        "id": "4502:47401",
+        "name": "withdraw"
+      },
+      {
+        "id": "4502:47081",
+        "name": "withdraw"
+      },
+      {
+        "id": "4502:46289",
+        "name": "Withdrawal successful"
+      },
+      {
+        "id": "1831:29929",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:29947",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:29965",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:29978",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:29991",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:30005",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:30019",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "4502:68740",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:30042",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "1831:30065",
+        "name": "Create  savings goal"
+      },
+      {
+        "id": "4558:69683",
+        "name": "Top up successful"
+      },
+      {
+        "id": "4749:54179",
+        "name": "Savings withdrawn"
+      },
+      {
+        "id": "1831:30406",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "1831:30500",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4750:47270",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4750:47981",
+        "name": "Savings - Goal completed - early"
+      },
+      {
+        "id": "5712:51542",
+        "name": "Savings - Goal withdrawal date reaxched- not completed"
+      },
+      {
+        "id": "4750:48177",
+        "name": "Savings - Goal completed"
+      },
+      {
+        "id": "4502:50828",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4697:45983",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4750:47075",
+        "name": "Savings - Goal- empty"
+      },
+      {
+        "id": "4558:69064",
+        "name": "Fund goal"
+      },
+      {
+        "id": "4725:50355",
+        "name": "Withdraw from goal"
+      },
+      {
+        "id": "5135:65414",
+        "name": "Withdraw from goal"
+      },
+      {
+        "id": "4725:50478",
+        "name": "Withdraw from goal"
+      },
+      {
+        "id": "4750:46908",
+        "name": "Withdraw from goal"
+      },
+      {
+        "id": "4725:51952",
+        "name": "Break goal"
+      },
+      {
+        "id": "4558:69589",
+        "name": "Fund goal"
+      },
+      {
+        "id": "4725:51571",
+        "name": "Fund goal"
+      },
+      {
+        "id": "4558:69102",
+        "name": "Fund goal"
+      },
+      {
+        "id": "4558:69377",
+        "name": "Fund goal"
+      },
+      {
+        "id": "4558:69736",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4750:47461",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4750:47650",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:47458",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4824:46997",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:47618",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:48487",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:47767",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:47959",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4824:47135",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:48701",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:49235",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:49366",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:49025",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:48845",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:49577",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:50743",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:49788",
+        "name": "Savings - Automate"
+      },
+      {
+        "id": "4851:50222",
+        "name": "Quicksave enabled"
+      },
+      {
+        "id": "4851:50257",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4851:50897",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "1831:30596",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4851:51719",
+        "name": "Update goal"
+      },
+      {
+        "id": "4851:59455",
+        "name": "Update goal"
+      },
+      {
+        "id": "4851:59561",
+        "name": "Goal updated"
+      },
+      {
+        "id": "4882:48235",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4882:48349",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4882:49265",
+        "name": "Savings - Goal"
+      },
+      {
+        "id": "4882:50487",
+        "name": "Goal updated"
+      }
+    ]
+  },
+  {
+    "flow": "Black Americans/ US — Empty State",
+    "screens": [
+      {
+        "id": "3588:54572",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "15107:223071",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:54727",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:54818",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "9051:57751",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:54970",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:55020",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:55082",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:55137",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:55192",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:55335",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3588:54894",
+        "name": "Home - empty state"
+      }
+    ]
+  },
+  {
+    "flow": "Nigerians/ Africans/ Global — Empty State",
+    "screens": [
+      {
+        "id": "15107:222798",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3596:54681",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3596:54755",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3596:54829",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3596:54903",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3596:55114",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3596:55325",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "3596:55444",
+        "name": "Home - empty state"
+      }
+    ]
+  },
+  {
+    "flow": "Prediction market",
+    "screens": [
+      {
+        "id": "11826:163599",
+        "name": "My predicitons"
+      },
+      {
+        "id": "11826:163609",
+        "name": "My predicitons"
+      },
+      {
+        "id": "11826:163691",
+        "name": "My predicitons - searching"
+      },
+      {
+        "id": "11826:163733",
+        "name": "My predicitons - searchnot found"
+      },
+      {
+        "id": "11826:163753",
+        "name": "Prediciton - no position"
+      },
+      {
+        "id": "11826:163927",
+        "name": "Prediciton - no position"
+      },
+      {
+        "id": "11826:164138",
+        "name": "Prediciton - no position on- scroll"
+      },
+      {
+        "id": "11826:164316",
+        "name": "Prediciton - no position"
+      },
+      {
+        "id": "11826:164424",
+        "name": "Prediciton - no position"
+      },
+      {
+        "id": "11826:164624",
+        "name": "Prediciton - no position - expires soon"
+      },
+      {
+        "id": "11826:164834",
+        "name": "Prediciton - no position - expires soon"
+      },
+      {
+        "id": "11826:164992",
+        "name": "Risk disclosure"
+      },
+      {
+        "id": "11826:165090",
+        "name": "Prediciton - has positions"
+      },
+      {
+        "id": "14150:228981",
+        "name": "Prediciton - has positions"
+      },
+      {
+        "id": "11826:165291",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165331",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165371",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:165401",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:165413",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165465",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165506",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165547",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165592",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:165620",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:165648",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165688",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165730",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165772",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165818",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165860",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165902",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:165954",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:165982",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166010",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "12396:209237",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:166054",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166094",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166146",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166184",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166222",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166272",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166322",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166372",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166422",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:166476",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166506",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:166518",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166546",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166578",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:166618",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:166630",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:166677",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:166717",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:166761",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166789",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166817",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166847",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166875",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166903",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:166933",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:166973",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167013",
+        "name": "Sell"
+      },
+      {
+        "id": "14152:325189",
+        "name": "Sell"
+      },
+      {
+        "id": "14152:325319",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167053",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167097",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167149",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:167163",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167203",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167255",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167288",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167321",
+        "name": "Sell"
+      },
+      {
+        "id": "14157:110539",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:167369",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:167421",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:167451",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:167463",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:167491",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:167531",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:167550",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:167628",
+        "name": "Bought - still filling"
+      },
+      {
+        "id": "12234:247471",
+        "name": "Sold, pending settlement to balance"
+      },
+      {
+        "id": "11826:167667",
+        "name": "Market - open"
+      },
+      {
+        "id": "11826:167708",
+        "name": "Order cancelled"
+      },
+      {
+        "id": "11826:167721",
+        "name": "Order cancelled"
+      },
+      {
+        "id": "11826:167736",
+        "name": "Prediction - Won"
+      },
+      {
+        "id": "11826:167776",
+        "name": "Prediciton - lost"
+      },
+      {
+        "id": "11826:167815",
+        "name": "Prediciton -cancelled"
+      },
+      {
+        "id": "11826:167853",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:167871",
+        "name": "Activity"
+      },
+      {
+        "id": "12472:229907",
+        "name": "Predict"
+      },
+      {
+        "id": "12472:230030",
+        "name": "Predict"
+      },
+      {
+        "id": "12472:230156",
+        "name": "Predict"
+      },
+      {
+        "id": "12472:230198",
+        "name": "Predict"
+      },
+      {
+        "id": "12472:230319",
+        "name": "Predict"
+      },
+      {
+        "id": "14152:325448",
+        "name": "Predict"
+      },
+      {
+        "id": "12472:236524",
+        "name": "Predict - home search"
+      },
+      {
+        "id": "12472:237467",
+        "name": "Predict - home searching"
+      },
+      {
+        "id": "12472:231675",
+        "name": "Predict"
+      },
+      {
+        "id": "12472:232099",
+        "name": "Predict"
+      },
+      {
+        "id": "12472:234724",
+        "name": "Predict - markets"
+      },
+      {
+        "id": "12472:234900",
+        "name": "Predict - category clicked"
+      },
+      {
+        "id": "12472:238896",
+        "name": "Predict - category clicked"
+      },
+      {
+        "id": "12472:236282",
+        "name": "Predict - category clicked"
+      },
+      {
+        "id": "12472:238402",
+        "name": "Predict - home searching"
+      },
+      {
+        "id": "12472:239483",
+        "name": "Predict - no live market"
+      },
+      {
+        "id": "12472:239674",
+        "name": "Predict - search"
+      },
+      {
+        "id": "12472:239780",
+        "name": "Predict - search"
+      },
+      {
+        "id": "14157:274441",
+        "name": "user signed out"
+      }
+    ]
+  },
+  {
+    "flow": "Stocks",
+    "screens": [
+      {
+        "id": "11826:139632",
+        "name": "Stocks"
+      },
+      {
+        "id": "11826:139956",
+        "name": "Stocks- on scroll"
+      },
+      {
+        "id": "11826:140217",
+        "name": "Stocks- search"
+      },
+      {
+        "id": "11826:140303",
+        "name": "Stocks- search not found"
+      },
+      {
+        "id": "11826:140355",
+        "name": "Stocks - market is closed"
+      },
+      {
+        "id": "11826:140679",
+        "name": "Stocks"
+      },
+      {
+        "id": "11826:141008",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:141052",
+        "name": "Favourites"
+      },
+      {
+        "id": "11826:141061",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:141181",
+        "name": "Favourites"
+      },
+      {
+        "id": "12455:125866",
+        "name": "Trade"
+      },
+      {
+        "id": "11826:141531",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:141566",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:141601",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:141640",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:141675",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:141713",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:141756",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:141791",
+        "name": "Stock detail - no position"
+      },
+      {
+        "id": "11826:141928",
+        "name": "Stock detail - no position"
+      },
+      {
+        "id": "11826:142086",
+        "name": "Stock detail - no position"
+      },
+      {
+        "id": "11826:142223",
+        "name": "Stock detail - no position"
+      },
+      {
+        "id": "14150:226627",
+        "name": "Service unavailable"
+      },
+      {
+        "id": "11826:142361",
+        "name": "Stock detail - has positions"
+      },
+      {
+        "id": "11826:142519",
+        "name": "Prael"
+      },
+      {
+        "id": "11826:143603",
+        "name": "Risk disclosure"
+      },
+      {
+        "id": "11826:143703",
+        "name": "Risk disclosure"
+      },
+      {
+        "id": "11826:143809",
+        "name": "Risk disclosure"
+      },
+      {
+        "id": "11826:144071",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:144102",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "14150:226513",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:144133",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:144166",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:144178",
+        "name": "Order failed"
+      },
+      {
+        "id": "11826:144193",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144224",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144255",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144288",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144330",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144370",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144410",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144450",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144494",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144534",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:144565",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:144596",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:144610",
+        "name": "Sell successful"
+      },
+      {
+        "id": "11826:144623",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:144661",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:144699",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:144741",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:144779",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:144818",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:144861",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:144910",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:144952",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:144983",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:145016",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145047",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145078",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145111",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145153",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145196",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145230",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145273",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:145320",
+        "name": "Sell"
+      },
+      {
+        "id": "14144:229538",
+        "name": "Session timed out"
+      },
+      {
+        "id": "11826:145363",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:145394",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:145434",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:145448",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:145467",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:145554",
+        "name": "Stocks - open"
+      },
+      {
+        "id": "11826:145592",
+        "name": "Stocks - buy"
+      },
+      {
+        "id": "11826:145631",
+        "name": "Stocks - dividend"
+      },
+      {
+        "id": "11826:145666",
+        "name": "Stocks - sell"
+      },
+      {
+        "id": "11826:145705",
+        "name": "Stocks - sell-cancelled"
+      },
+      {
+        "id": "11826:145744",
+        "name": "Cancel order"
+      },
+      {
+        "id": "11826:145781",
+        "name": "Order cancelled"
+      },
+      {
+        "id": "11826:145794",
+        "name": "Order cancelled"
+      },
+      {
+        "id": "11826:145808",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:145826",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:145939",
+        "name": "Notifications - transactions"
+      },
+      {
+        "id": "11826:145980",
+        "name": "Prael - stock comparison"
+      },
+      {
+        "id": "11826:147053",
+        "name": "Prael - stock recommendation"
+      },
+      {
+        "id": "11826:148164",
+        "name": "Prael - Buy order"
+      },
+      {
+        "id": "11826:149273",
+        "name": "Stock detail - has positions"
+      },
+      {
+        "id": "11826:149474",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:149525",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:149758",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:149809",
+        "name": "Portfolio"
+      },
+      {
+        "id": "14152:275045",
+        "name": "user signed out"
+      }
+    ]
+  },
+  {
+    "flow": "ETFS",
+    "screens": [
+      {
+        "id": "11826:149945",
+        "name": "ETFs"
+      },
+      {
+        "id": "11826:150267",
+        "name": "ETFs- on scroll"
+      },
+      {
+        "id": "11826:150540",
+        "name": "ETFs- search"
+      },
+      {
+        "id": "11826:150614",
+        "name": "ETFs- search not found"
+      },
+      {
+        "id": "11826:150666",
+        "name": "ETFs - market is closed"
+      },
+      {
+        "id": "11826:150988",
+        "name": "ETFs"
+      },
+      {
+        "id": "11826:151315",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:151364",
+        "name": "Favourites"
+      },
+      {
+        "id": "11826:151373",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:151493",
+        "name": "Favourites"
+      },
+      {
+        "id": "12234:237541",
+        "name": "Trade"
+      },
+      {
+        "id": "11826:151851",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:151886",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:151921",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:151960",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:151995",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:152033",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:152076",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:152111",
+        "name": "ETF detail - no position"
+      },
+      {
+        "id": "11826:152245",
+        "name": "ETF detail - no position"
+      },
+      {
+        "id": "11826:152398",
+        "name": "ETF detail - no position"
+      },
+      {
+        "id": "11826:152532",
+        "name": "ETF detail - has positions"
+      },
+      {
+        "id": "11826:152687",
+        "name": "Prael"
+      },
+      {
+        "id": "11826:153771",
+        "name": "Risk disclosure"
+      },
+      {
+        "id": "11826:153871",
+        "name": "Risk disclosure"
+      },
+      {
+        "id": "11826:153977",
+        "name": "Risk disclosure"
+      },
+      {
+        "id": "11826:154239",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:154270",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:154301",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:154334",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:154346",
+        "name": "Order failed"
+      },
+      {
+        "id": "11826:154361",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154392",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154423",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154456",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154498",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154538",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154578",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154618",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154662",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:154702",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:154733",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:154764",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:154778",
+        "name": "Sell successful"
+      },
+      {
+        "id": "11826:154791",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:154829",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:154867",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:154909",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:154947",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:154986",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155029",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155078",
+        "name": "Buy"
+      },
+      {
+        "id": "11826:155120",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:155151",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:155184",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155215",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155246",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155279",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155321",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155364",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155398",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155441",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155489",
+        "name": "Sell"
+      },
+      {
+        "id": "11826:155532",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:155563",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "11826:155603",
+        "name": "Order placed"
+      },
+      {
+        "id": "11826:155617",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:155636",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:155723",
+        "name": "Stocks - open"
+      },
+      {
+        "id": "11826:155761",
+        "name": "ETF - buy"
+      },
+      {
+        "id": "11826:155800",
+        "name": "ETF - dividend"
+      },
+      {
+        "id": "11826:155835",
+        "name": "ETF - sell"
+      },
+      {
+        "id": "11826:155874",
+        "name": "ETF - sell-cancelled"
+      },
+      {
+        "id": "11826:155913",
+        "name": "Cancel order"
+      },
+      {
+        "id": "11826:155950",
+        "name": "Order cancelled"
+      },
+      {
+        "id": "11826:155963",
+        "name": "Order cancelled"
+      },
+      {
+        "id": "11826:155977",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:155995",
+        "name": "Activity"
+      },
+      {
+        "id": "11826:156108",
+        "name": "Notifications - transactions"
+      },
+      {
+        "id": "11826:156149",
+        "name": "Prael - stock comparison"
+      },
+      {
+        "id": "11826:157222",
+        "name": "Prael - ETF recommendation"
+      },
+      {
+        "id": "11826:158333",
+        "name": "Prael - Buy order"
+      },
+      {
+        "id": "11826:159442",
+        "name": "ETF detail - has positions"
+      },
+      {
+        "id": "11826:159593",
+        "name": "ETF detail - has positions"
+      },
+      {
+        "id": "11826:159791",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:159842",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:160075",
+        "name": "Portfolio"
+      },
+      {
+        "id": "11826:160126",
+        "name": "Portfolio"
+      }
+    ]
+  },
+  {
+    "flow": "Spending Insights",
+    "screens": [
+      {
+        "id": "11826:246723",
+        "name": "Spending insights"
+      },
+      {
+        "id": "12396:209280",
+        "name": "Spending insights - NGN"
+      },
+      {
+        "id": "12546:296441",
+        "name": "Spending insights - EUR"
+      },
+      {
+        "id": "12546:296939",
+        "name": "Spending insights -GBP"
+      },
+      {
+        "id": "11826:247220",
+        "name": "Spending insights - Basic users"
+      },
+      {
+        "id": "11826:247281",
+        "name": "Spending insights -Monthly spent"
+      },
+      {
+        "id": "11826:247418",
+        "name": "Spending insights -Merchants"
+      },
+      {
+        "id": "11826:247562",
+        "name": "subscriptions"
+      },
+      {
+        "id": "11826:247706",
+        "name": "Spending insights -Top recipients"
+      },
+      {
+        "id": "11826:247754",
+        "name": "Spending insights -Monthly spent - category page"
+      },
+      {
+        "id": "11826:247972",
+        "name": "Top Merchant - Details"
+      },
+      {
+        "id": "11826:248222",
+        "name": "Category transactions"
+      },
+      {
+        "id": "11826:248407",
+        "name": "Top recipient details "
+      },
+      {
+        "id": "11826:248579",
+        "name": "Subscription"
+      }
+    ]
+  },
+  {
+    "flow": "Crypto",
+    "screens": [
+      {
+        "id": "12234:284888",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:284933",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:284939",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:284946",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:284970",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:284977",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:284986",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:284993",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285074",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285105",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285136",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285167",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285198",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285231",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285264",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285349",
+        "name": "Select asset"
+      },
+      {
+        "id": "12234:285364",
+        "name": "Select asset"
+      },
+      {
+        "id": "12234:285549",
+        "name": "Submission screen"
+      },
+      {
+        "id": "12234:285561",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285638",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285796",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285871",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:285955",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:286088",
+        "name": "Stellar addres"
+      },
+      {
+        "id": "12234:286160",
+        "name": "Stellar addres"
+      },
+      {
+        "id": "12234:286196",
+        "name": "Stellar addres"
+      },
+      {
+        "id": "12234:286304",
+        "name": "Submission screen"
+      },
+      {
+        "id": "12234:286316",
+        "name": "Crypto"
+      },
+      {
+        "id": "12234:286397",
+        "name": "Send 255"
+      },
+      {
+        "id": "12234:286462",
+        "name": "Send 256"
+      },
+      {
+        "id": "12234:286574",
+        "name": "Send 257"
+      },
+      {
+        "id": "12234:286646",
+        "name": "Send 258"
+      },
+      {
+        "id": "12234:286719",
+        "name": "Send 259"
+      },
+      {
+        "id": "12234:286796",
+        "name": "transaction summary"
+      },
+      {
+        "id": "12234:286824",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286835",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286861",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286899",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286910",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286936",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286950",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286968",
+        "name": "Send crypto"
+      },
+      {
+        "id": "12234:286999",
+        "name": "Swap"
+      },
+      {
+        "id": "12234:287062",
+        "name": "Swap"
+      },
+      {
+        "id": "12234:287153",
+        "name": "Swap"
+      },
+      {
+        "id": "12234:287244",
+        "name": "Swap"
+      },
+      {
+        "id": "12234:287327",
+        "name": "Swap"
+      }
+    ]
+  },
+  {
+    "flow": "eSIM",
+    "screens": [
+      {
+        "id": "16911:180886",
+        "name": "Lifestyle"
+      },
+      {
+        "id": "16911:181015",
+        "name": "ESim "
+      },
+      {
+        "id": "16911:181177",
+        "name": "Device compatibility"
+      },
+      {
+        "id": "16911:181201",
+        "name": "Device compatibility - Open"
+      },
+      {
+        "id": "16911:181290",
+        "name": "Plan discovery - pay with"
+      },
+      {
+        "id": "16911:181310",
+        "name": "Plan discovery - pay with - no funded wallet"
+      },
+      {
+        "id": "16911:181368",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "16911:181391",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "16911:181417",
+        "name": "Order placed"
+      },
+      {
+        "id": "16911:181431",
+        "name": "eSIM installed"
+      },
+      {
+        "id": "16911:181443",
+        "name": "eSIM installed"
+      },
+      {
+        "id": "16911:181457",
+        "name": "Setup eSIM"
+      },
+      {
+        "id": "16911:181468",
+        "name": "Setup eSIM - QR code"
+      },
+      {
+        "id": "16911:181485",
+        "name": "Setup eSIM - Manual"
+      },
+      {
+        "id": "16911:181494",
+        "name": "Setup eSIM - QR code - sent"
+      },
+      {
+        "id": "16911:181550",
+        "name": "Complete intstallation show me how"
+      },
+      {
+        "id": "16911:181678",
+        "name": "eSIM not activated yet"
+      },
+      {
+        "id": "16911:181700",
+        "name": "eSIM list - active"
+      },
+      {
+        "id": "16911:181768",
+        "name": "eSIM list - active"
+      },
+      {
+        "id": "16911:181836",
+        "name": "eSIM list - expired"
+      },
+      {
+        "id": "16911:181865",
+        "name": "eSIM detail"
+      },
+      {
+        "id": "16911:181907",
+        "name": "eSIM detail"
+      },
+      {
+        "id": "16911:181951",
+        "name": "eSIM detail"
+      },
+      {
+        "id": "16911:181993",
+        "name": "eSIM detail - data exhausted"
+      },
+      {
+        "id": "16911:182035",
+        "name": "eSIM detail - low data warning"
+      },
+      {
+        "id": "16911:182078",
+        "name": "eSIM detail - data expired"
+      },
+      {
+        "id": "16911:182120",
+        "name": "eSIM detail - Installation pending"
+      },
+      {
+        "id": "16911:182162",
+        "name": "eSIM - active -empty state"
+      },
+      {
+        "id": "16911:182212",
+        "name": "eSIM - expired -empty state"
+      },
+      {
+        "id": "16911:182266",
+        "name": "Top up"
+      },
+      {
+        "id": "16911:182294",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "16911:182315",
+        "name": "Transaction summary"
+      },
+      {
+        "id": "16911:182340",
+        "name": "Topup successful"
+      },
+      {
+        "id": "16911:182352",
+        "name": "Topup failed"
+      },
+      {
+        "id": "16911:182401",
+        "name": "Plan discovery - country"
+      },
+      {
+        "id": "16911:182429",
+        "name": "Plan discovery - country"
+      },
+      {
+        "id": "16911:182470",
+        "name": "Plan discovery - loading"
+      },
+      {
+        "id": "16911:182558",
+        "name": "Plan discovery - global"
+      },
+      {
+        "id": "16911:182570",
+        "name": "Africa"
+      },
+      {
+        "id": "16911:182586",
+        "name": "Plan discovery - country"
+      },
+      {
+        "id": "16911:182614",
+        "name": "Plan discovery - region"
+      },
+      {
+        "id": "16911:182643",
+        "name": "Plan discovery - region"
+      },
+      {
+        "id": "16911:182672",
+        "name": "Plan discovery - country"
+      },
+      {
+        "id": "16911:182713",
+        "name": "Plan discovery - country"
+      },
+      {
+        "id": "16911:182750",
+        "name": "Plan discovery - country"
+      },
+      {
+        "id": "16911:182779",
+        "name": "Plan discovery - region"
+      },
+      {
+        "id": "16911:182812",
+        "name": "Plan discovery - plan detail"
+      },
+      {
+        "id": "16911:182837",
+        "name": "Plan discovery - country"
+      },
+      {
+        "id": "16911:182861",
+        "name": "Plan discovery - plan detail"
+      },
+      {
+        "id": "16911:182886",
+        "name": "Africa"
+      },
+      {
+        "id": "16911:182902",
+        "name": "Plan discovery - plan detail"
+      },
+      {
+        "id": "16911:182927",
+        "name": "Plan discovery - plan detail"
+      },
+      {
+        "id": "16911:182961",
+        "name": "Complete intstallation show me how"
+      },
+      {
+        "id": "16911:183089",
+        "name": "eSIM history"
+      },
+      {
+        "id": "16911:183122",
+        "name": "Transaction details - -purchase"
+      },
+      {
+        "id": "16911:183157",
+        "name": "In-App Notification - Swift Details Ready"
+      },
+      {
+        "id": "16911:183193",
+        "name": "In-App Notification - Swift Details Ready"
+      },
+      {
+        "id": "16911:183232",
+        "name": "Live plan (activation, 80%, exhausted)"
+      },
+      {
+        "id": "16911:183473",
+        "name": " Expiry, refund, install reminder"
+      },
+      {
+        "id": "16911:183714",
+        "name": "Uninstalled expiry + auto top-up"
+      },
+      {
+        "id": "16911:183955",
+        "name": "Auto top up failed"
+      }
+    ]
+  },
+  {
+    "flow": "Creator's experience",
+    "screens": [
+      {
+        "id": "16667:320557",
+        "name": "Welcome"
+      },
+      {
+        "id": "16667:320574",
+        "name": "Login"
+      },
+      {
+        "id": "16667:320963",
+        "name": "Login-empty"
+      },
+      {
+        "id": "16667:320977",
+        "name": "Login-empty"
+      },
+      {
+        "id": "16667:320991",
+        "name": "Login-empty"
+      },
+      {
+        "id": "16667:321006",
+        "name": "Home - one account"
+      },
+      {
+        "id": "16667:321278",
+        "name": "Home - one account"
+      },
+      {
+        "id": "16667:321549",
+        "name": "Home - one account"
+      },
+      {
+        "id": "16667:321841",
+        "name": "Manage"
+      },
+      {
+        "id": "16667:321922",
+        "name": "Manage"
+      },
+      {
+        "id": "16667:322005",
+        "name": "Home - one account"
+      },
+      {
+        "id": "16667:322277",
+        "name": "Home - one account"
+      },
+      {
+        "id": "16667:322551",
+        "name": "Home - one account"
+      },
+      {
+        "id": "16667:322825",
+        "name": "Home - one account"
+      }
+    ]
+  },
+  {
+    "flow": "Request funds",
+    "screens": [
+      {
+        "id": "16667:108833",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "16667:109233",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "16667:109629",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "16667:110071",
+        "name": "Home - empty state"
+      },
+      {
+        "id": "16667:110520",
+        "name": "Request money - recipient"
+      },
+      {
+        "id": "16667:110546",
+        "name": "Request"
+      },
+      {
+        "id": "16667:110572",
+        "name": "Request money"
+      },
+      {
+        "id": "16667:113722",
+        "name": "Request money"
+      },
+      {
+        "id": "16667:116872",
+        "name": "Request money"
+      },
+      {
+        "id": "16667:120042",
+        "name": "Request money"
+      },
+      {
+        "id": "16667:123214",
+        "name": "Request money"
+      },
+      {
+        "id": "16667:126376",
+        "name": "Request money"
+      },
+      {
+        "id": "16667:129538",
+        "name": "Request money"
+      },
+      {
+        "id": "18358:449650",
+        "name": "Lifestyle"
+      }
+    ]
+  }
+]

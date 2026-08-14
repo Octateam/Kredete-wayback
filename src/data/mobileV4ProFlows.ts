@@ -1,38 +1,14 @@
+import { flowsFromRaw, type RawFlow } from './flowsFromRaw'
+import raw from './mobile-v4-pro-raw.json'
+
 /**
- * Real flow list pulled from the "Kredete Mobile — Global" Figma file
- * (node 943:101414, Flow List page) — this is the current / V4 Pro flow set.
- * Older mobile versions (V1–V4) get their own lists as we pull each
- * version's section from Figma; they start empty on purpose.
+ * Real flow/screen data pulled from the "V4 (pro)" Figma file
+ * (KfRSvvQgzh7X3Tg47aftiV) — one flow per top-level Figma section, sourced
+ * from the "Handoff Engineering 1" canvas (node 804:23364) plus updated
+ * standalone sections for Prediction market, Stocks, ETFs, Spending
+ * Insights, Crypto, eSIM, Creator's experience, and Request funds (which
+ * replace the older equivalents that lived in the base canvas). Marketing/
+ * ops one-offs (World cup, Lifestyle, Card Refund Case Handling, In-App
+ * Walkthroughs) were deliberately excluded.
  */
-export const MOBILE_V4_PRO_FLOW_NAMES = [
-  'Onboarding',
-  'Create Account',
-  'Log In',
-  'Sign In',
-  'Security Lock',
-  'Reset Password',
-  'Reset Pin',
-  'Home Pages',
-  'Account Setup',
-  'Security Questions',
-  'USD Account Creation',
-  'Euro Account Creation',
-  'Services',
-  'Notifications',
-  'USD Wallet',
-  'Add Money',
-  'BVN Registration',
-  'Convert Money',
-  'Referrals',
-  'Send Money',
-  'Manage',
-  'Build Credit',
-  'Cards',
-  'USD Yield Savings',
-  'Loans',
-  'Refund Dispute',
-  'Updates',
-  'Credit Assessment',
-  'Creators',
-  'Bill Payment',
-]
+export const MOBILE_V4_PRO_FLOWS = flowsFromRaw(raw as RawFlow[], 'v4-pro')
