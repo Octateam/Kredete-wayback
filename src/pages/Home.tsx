@@ -28,7 +28,8 @@ export function Home() {
               className="group relative overflow-hidden rounded-2xl border border-neutral-200 bg-white p-8 transition-colors hover:border-neutral-300 dark:border-neutral-800 dark:bg-neutral-950 dark:hover:border-neutral-700"
             >
               <p className="text-xs font-semibold uppercase tracking-wide text-neutral-400 dark:text-neutral-600">
-                {platform.versions.length} versions &middot; V1&ndash;{platform.versions[platform.versions.length - 1].label}
+                {platform.versions.length} versions &middot; {platform.versions[platform.versions.length - 1].label}
+                &ndash;{platform.versions[0].label}
               </p>
               <h2 className="mt-3 text-xl font-semibold text-neutral-900 dark:text-white">{platform.label}</h2>
               <p className="mt-2 text-sm text-neutral-500 dark:text-neutral-400">{platform.description}</p>

@@ -16,26 +16,13 @@ export const PLATFORMS: PlatformData[] = [
     description: 'The Kredete consumer mobile app, from V1 through the current V4 Pro.',
     versions: [
       {
-        id: 'v1',
-        label: 'V1',
-        flows: [],
-        regions: [
-          {
-            id: 'nigeria',
-            label: 'Nigerian Experience',
-            figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
-            figmaSectionNodeId: '0:1',
-            flows: MOBILE_V1_NIGERIA_FLOWS,
-          },
-          {
-            id: 'non-nigeria',
-            label: 'Non-Nigerian Experience',
-            figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
-            figmaSectionNodeId: '29294:51646',
-            flows: MOBILE_V1_NON_NIGERIA_FLOWS,
-          },
-        ],
+        id: 'v4-pro',
+        label: 'V4 Pro',
+        figmaSectionNodeId: '943:101414',
+        flows: flowsFromNames(MOBILE_V4_PRO_FLOW_NAMES),
       },
+      { id: 'v4', label: 'V4', flows: [] },
+      { id: 'v3', label: 'V3', flows: [] },
       {
         id: 'v2',
         label: 'V2',
@@ -57,13 +44,26 @@ export const PLATFORMS: PlatformData[] = [
           },
         ],
       },
-      { id: 'v3', label: 'V3', flows: [] },
-      { id: 'v4', label: 'V4', flows: [] },
       {
-        id: 'v4-pro',
-        label: 'V4 Pro',
-        figmaSectionNodeId: '943:101414',
-        flows: flowsFromNames(MOBILE_V4_PRO_FLOW_NAMES),
+        id: 'v1',
+        label: 'V1',
+        flows: [],
+        regions: [
+          {
+            id: 'nigeria',
+            label: 'Nigerian Experience',
+            figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
+            figmaSectionNodeId: '0:1',
+            flows: MOBILE_V1_NIGERIA_FLOWS,
+          },
+          {
+            id: 'non-nigeria',
+            label: 'Non-Nigerian Experience',
+            figmaFileKey: 'CD4aDiaI1KPZf1W97Rmg8u',
+            figmaSectionNodeId: '29294:51646',
+            flows: MOBILE_V1_NON_NIGERIA_FLOWS,
+          },
+        ],
       },
     ],
   },
@@ -72,10 +72,10 @@ export const PLATFORMS: PlatformData[] = [
     label: 'Business SaaS',
     description: 'The Kredete business / SaaS portal, from V1 through the current V4.',
     versions: [
-      { id: 'v1', label: 'V1', flows: [] },
-      { id: 'v2', label: 'V2', flows: [] },
-      { id: 'v3', label: 'V3', flows: [] },
       { id: 'v4', label: 'V4', flows: [] },
+      { id: 'v3', label: 'V3', flows: [] },
+      { id: 'v2', label: 'V2', flows: [] },
+      { id: 'v1', label: 'V1', flows: [] },
     ],
   },
 ]
@@ -112,5 +112,5 @@ export function getFlow(
 }
 
 export function getLatestVersionId(platform: PlatformData): string {
-  return platform.versions[platform.versions.length - 1].id
+  return platform.versions[0].id
 }
