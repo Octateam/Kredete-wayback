@@ -12,7 +12,7 @@ export function ScreenCard({ screen }: { screen: Screen }) {
           <img
             src={screen.imageUrl}
             alt={screen.name}
-            className="h-full w-full object-cover"
+            className="h-full w-full object-cover object-top"
             loading="lazy"
             onError={() => setFailed(true)}
           />
