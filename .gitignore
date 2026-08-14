@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 .claude/settings.local.json
 .vercel
+
+# figma_archive.py working directory (manifest/state checkpoints, not site assets)
+figma-archive/
