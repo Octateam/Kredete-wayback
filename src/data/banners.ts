@@ -49,6 +49,22 @@ const BANNERS: Record<string, BannerConfig> = {
     bgColor: '#2C2636',
     accentText: 'text-violet-400',
   },
+  'mobile/v3/global': {
+    accent: 'Mobile App · V3 · Global Experience',
+    subheadline:
+      "A detailed look at the flows and screens built for Kredete's global mobile experience in V3 — USD/Euro accounts, virtual cards, credit building and remittances.",
+    bgColor: '#332527',
+    accentText: 'text-rose-400',
+    previewFlowIds: ['onboarding', 'build-credit', 'virtual-card'],
+  },
+  'mobile/v3/africa': {
+    accent: 'Mobile App · V3 · Africa Experience',
+    subheadline:
+      "A detailed look at the flows and screens built for Kredete's Africa mobile experience in V3 — local cards, remittances, credit building and USD accounts.",
+    bgColor: '#2A2E1F',
+    accentText: 'text-lime-400',
+    previewFlowIds: ['onboarding', 'build-credit', 'cards'],
+  },
   'mobile/v3': {
     accent: 'Mobile App · V3',
     subheadline: 'An overview of the flows and screens shipped in V3 of the Kredete Mobile App.',

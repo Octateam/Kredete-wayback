@@ -1,0 +1,4793 @@
+[
+  {
+    "flow": "Onboarding",
+    "screens": [
+      {
+        "id": "47:45532",
+        "name": "Onboarding 1"
+      },
+      {
+        "id": "47:45555",
+        "name": "Onboarding 2"
+      },
+      {
+        "id": "47:45599",
+        "name": "Onboarding 3"
+      },
+      {
+        "id": "47:45577",
+        "name": "Onboarding 4"
+      },
+      {
+        "id": "47:45620",
+        "name": "Onboarding 5"
+      }
+    ]
+  },
+  {
+    "flow": "Create Account",
+    "screens": [
+      {
+        "id": "47:45725",
+        "name": "Create Account - typed-referal code entered"
+      },
+      {
+        "id": "47:45745",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "47:45765",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "47:45785",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "47:45805",
+        "name": "Tell us about yourself- empty"
+      },
+      {
+        "id": "47:45822",
+        "name": "Tell us about yourself- typing"
+      },
+      {
+        "id": "47:45839",
+        "name": "Tell us about yourself- typing"
+      },
+      {
+        "id": "47:45856",
+        "name": "Tell us about yourself- typed"
+      },
+      {
+        "id": "47:45874",
+        "name": "Tell us about yourself- error-DOB"
+      },
+      {
+        "id": "47:45960",
+        "name": "Create Account-create pin"
+      },
+      {
+        "id": "47:45973",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "47:45986",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "47:45999",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "47:46012",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "47:46025",
+        "name": "Welcome to kredete"
+      },
+      {
+        "id": "47:45642",
+        "name": "Create Account - empty"
+      },
+      {
+        "id": "47:45665",
+        "name": "Create Account - typing"
+      },
+      {
+        "id": "47:45685",
+        "name": "Create Account - typed"
+      },
+      {
+        "id": "47:45705",
+        "name": "Create Account - typed"
+      },
+      {
+        "id": "47:46039",
+        "name": "Slide out menu"
+      }
+    ]
+  },
+  {
+    "flow": "Log In",
+    "screens": [
+      {
+        "id": "47:53492",
+        "name": "Login-empty"
+      },
+      {
+        "id": "47:53512",
+        "name": "Login-filled"
+      },
+      {
+        "id": "47:53532",
+        "name": "Login-error"
+      },
+      {
+        "id": "47:53555",
+        "name": "Login-2fa-empty"
+      },
+      {
+        "id": "47:53574",
+        "name": "Login-2fa-resend code"
+      },
+      {
+        "id": "47:53595",
+        "name": "Login-2fa-entered"
+      },
+      {
+        "id": "47:53616",
+        "name": "Login-2fa-error"
+      },
+      {
+        "id": "47:53638",
+        "name": "Welcome back-enter pin-empty"
+      },
+      {
+        "id": "47:53656",
+        "name": "Welcome back-enter pin-entering"
+      },
+      {
+        "id": "47:53674",
+        "name": "Welcome back-enter pin-entered"
+      },
+      {
+        "id": "47:53692",
+        "name": "Welcome back-enter pin-error"
+      }
+    ]
+  },
+  {
+    "flow": "Security Lock activated",
+    "screens": [
+      {
+        "id": "47:54401",
+        "name": "Login-empty"
+      },
+      {
+        "id": "47:54419",
+        "name": "Login-filled"
+      },
+      {
+        "id": "47:54437",
+        "name": "Login-error"
+      },
+      {
+        "id": "47:54455",
+        "name": "Login-2fa-empty"
+      },
+      {
+        "id": "47:54474",
+        "name": "Login-2fa-resend code"
+      },
+      {
+        "id": "47:54495",
+        "name": "Login-2fa-entered"
+      },
+      {
+        "id": "47:54516",
+        "name": "Login-2fa-error"
+      },
+      {
+        "id": "47:54537",
+        "name": "Welcome back-enter pin-empty"
+      },
+      {
+        "id": "47:54555",
+        "name": "Welcome back-enter pin-entering"
+      },
+      {
+        "id": "47:54573",
+        "name": "Welcome back-enter pin-entered"
+      },
+      {
+        "id": "47:54591",
+        "name": "Welcome back-enter pin-error"
+      },
+      {
+        "id": "47:54609",
+        "name": "Security lock activated"
+      }
+    ]
+  },
+  {
+    "flow": "Sign In",
+    "screens": [
+      {
+        "id": "47:54634",
+        "name": "Welcome back-enter pin-empty"
+      },
+      {
+        "id": "47:54682",
+        "name": "Welcome back-enter pin-entering"
+      },
+      {
+        "id": "47:54700",
+        "name": "Welcome back-enter pin-entered"
+      },
+      {
+        "id": "47:54718",
+        "name": "Welcome back-enter pin-error"
+      },
+      {
+        "id": "47:54738",
+        "name": "Slide out menu"
+      }
+    ]
+  },
+  {
+    "flow": "Reset password",
+    "screens": [
+      {
+        "id": "49:7696",
+        "name": "Forgot-password-empty"
+      },
+      {
+        "id": "49:7711",
+        "name": "Forgot-password-filled"
+      },
+      {
+        "id": "49:7726",
+        "name": "Forgot-password-error"
+      },
+      {
+        "id": "49:7742",
+        "name": "verify-mail-empty"
+      },
+      {
+        "id": "49:7761",
+        "name": "verify-mail-resend code"
+      },
+      {
+        "id": "49:7782",
+        "name": "verify-mail-entered"
+      },
+      {
+        "id": "49:7803",
+        "name": "Login-2fa-error"
+      },
+      {
+        "id": "49:7825",
+        "name": "Reset-password-empty"
+      },
+      {
+        "id": "49:7842",
+        "name": "Reset-password-filled"
+      },
+      {
+        "id": "49:7859",
+        "name": "Password-changed"
+      }
+    ]
+  },
+  {
+    "flow": "Reset Pin",
+    "screens": [
+      {
+        "id": "47:54952",
+        "name": "Reset-pin-empty"
+      },
+      {
+        "id": "47:54963",
+        "name": "Reset-pin-filled"
+      },
+      {
+        "id": "47:54985",
+        "name": "confirm-pin-empty"
+      },
+      {
+        "id": "47:54974",
+        "name": "confirm-pin-filled"
+      },
+      {
+        "id": "47:54941",
+        "name": "Pin-changed"
+      },
+      {
+        "id": "47:55066",
+        "name": "Answer-your-security-question-empty"
+      },
+      {
+        "id": "47:55080",
+        "name": "Answer-your-security-question-filled"
+      },
+      {
+        "id": "47:55094",
+        "name": "Answer-your-security-question-error"
+      }
+    ]
+  },
+  {
+    "flow": "New User",
+    "screens": [
+      {
+        "id": "51:9040",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "51:9031",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "51:9002",
+        "name": "Manage- New user"
+      },
+      {
+        "id": "52:10495",
+        "name": "Homepage -Africans"
+      }
+    ]
+  },
+  {
+    "flow": "Home Page",
+    "screens": [
+      {
+        "id": "147:118401",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "147:115456",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "147:115495",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "147:115633",
+        "name": "Add account"
+      },
+      {
+        "id": "147:115666",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "147:115709",
+        "name": "Homepage -Africans"
+      }
+    ]
+  },
+  {
+    "flow": "Account setup",
+    "screens": [
+      {
+        "id": "53:11384",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "53:11440",
+        "name": "Account SetUp/phone number/Empty"
+      },
+      {
+        "id": "53:11460",
+        "name": "Account SetUp/phone number/Filled"
+      },
+      {
+        "id": "53:11482",
+        "name": "Account SetUp/phone number/Empty/Resend countdown done"
+      },
+      {
+        "id": "53:11504",
+        "name": "Account Setup/Phone Numper/Error"
+      },
+      {
+        "id": "53:11526",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "53:11542",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "53:11673",
+        "name": "Account SetUp/Source of funds"
+      },
+      {
+        "id": "53:11704",
+        "name": "Account SetUp/Source of funds"
+      },
+      {
+        "id": "53:11736",
+        "name": "Account SetUp/Source of funds"
+      },
+      {
+        "id": "53:11412",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "53:11768",
+        "name": "Account setup-address verification- empty"
+      },
+      {
+        "id": "53:11787",
+        "name": "Account setup-address verification- empty"
+      },
+      {
+        "id": "53:11806",
+        "name": "Account setup-address verification- empty"
+      },
+      {
+        "id": "53:11849",
+        "name": "Account setup-address verification- error"
+      },
+      {
+        "id": "53:11828",
+        "name": "Account setup-address verification- error"
+      },
+      {
+        "id": "56:15585",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "53:11884",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "53:11911",
+        "name": "Account SetUp//identity verification"
+      },
+      {
+        "id": "53:11925",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "53:11954",
+        "name": "Account setup complete"
+      },
+      {
+        "id": "53:11970",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "53:11997",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "53:12030",
+        "name": "Account SetUp - Pending"
+      },
+      {
+        "id": "53:12044",
+        "name": "Account SetUp - Failed"
+      }
+    ]
+  },
+  {
+    "flow": "Security Questions",
+    "screens": [
+      {
+        "id": "64:22796",
+        "name": "Homepage- us based"
+      },
+      {
+        "id": "64:22782",
+        "name": "Setup security question - empty"
+      },
+      {
+        "id": "64:22839",
+        "name": "Setup security question - empty"
+      },
+      {
+        "id": "64:22853",
+        "name": "Security pin set successfully"
+      }
+    ]
+  },
+  {
+    "flow": "Permission Request",
+    "screens": [
+      {
+        "id": "66:61834",
+        "name": "Notification"
+      },
+      {
+        "id": "66:61847",
+        "name": "Location"
+      },
+      {
+        "id": "66:61860",
+        "name": "Contact"
+      }
+    ]
+  },
+  {
+    "flow": "Referrals",
+    "screens": []
+  },
+  {
+    "flow": "Updates",
+    "screens": [
+      {
+        "id": "113:113781",
+        "name": "Maintenance screen"
+      },
+      {
+        "id": "113:113792",
+        "name": "App Update"
+      },
+      {
+        "id": "113:113802",
+        "name": "App Update"
+      },
+      {
+        "id": "113:113817",
+        "name": "Homepage -Africans"
+      }
+    ]
+  },
+  {
+    "flow": "Accoun Statement",
+    "screens": [
+      {
+        "id": "68:63196",
+        "name": "Account statement"
+      },
+      {
+        "id": "68:63213",
+        "name": "Account statement"
+      },
+      {
+        "id": "70:64105",
+        "name": "Account statement"
+      },
+      {
+        "id": "70:64203",
+        "name": "Export successful"
+      },
+      {
+        "id": "70:64214",
+        "name": "Export failed"
+      }
+    ]
+  },
+  {
+    "flow": "Google playstore ratings modal",
+    "screens": [
+      {
+        "id": "148:133648",
+        "name": "App Update"
+      }
+    ]
+  },
+  {
+    "flow": "Creator's experience",
+    "screens": [
+      {
+        "id": "148:119045",
+        "name": "Welcome video"
+      },
+      {
+        "id": "148:119055",
+        "name": "Homepage - creator"
+      }
+    ]
+  },
+  {
+    "flow": "Physical Card - Discount Experience",
+    "screens": [
+      {
+        "id": "150:142725",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "150:142922",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "150:142881",
+        "name": "Authorize card creation"
+      }
+    ]
+  },
+  {
+    "flow": "Physical Card",
+    "screens": [
+      {
+        "id": "103:50699",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "103:50722",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "103:50756",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "103:52697",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "103:52509",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "103:52593",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "103:51331",
+        "name": "Card creation Successful"
+      },
+      {
+        "id": "103:52619",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "103:52645",
+        "name": "Modal content"
+      },
+      {
+        "id": "2831:155578",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "2831:155695",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "103:50941",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "103:51070",
+        "name": "Card creation screen"
+      },
+      {
+        "id": "103:51109",
+        "name": "Card creation pending"
+      },
+      {
+        "id": "103:51085",
+        "name": "Card creation requires additional verification"
+      },
+      {
+        "id": "103:52472",
+        "name": "Card creation failed"
+      },
+      {
+        "id": "103:52496",
+        "name": "Card creation Failed"
+      },
+      {
+        "id": "103:52794",
+        "name": "Card creation failed"
+      },
+      {
+        "id": "103:52818",
+        "name": "Card creation Failed"
+      },
+      {
+        "id": "110:83159",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82719",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:83111",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "110:82741",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82868",
+        "name": "Final Confirmation"
+      },
+      {
+        "id": "110:82889",
+        "name": "Final Confirmation"
+      },
+      {
+        "id": "110:82910",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "110:82945",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "110:82980",
+        "name": "Card creation failed"
+      },
+      {
+        "id": "110:83099",
+        "name": "Card creation Successful"
+      },
+      {
+        "id": "110:82453",
+        "name": "Referrals"
+      },
+      {
+        "id": "110:82184",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82167",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82348",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82398",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82201",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82252",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82302",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:82469",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "110:82485",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "110:82503",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "110:82521",
+        "name": "Account SetUp/Email Address/Error"
+      },
+      {
+        "id": "110:82539",
+        "name": "Card creation Successful"
+      },
+      {
+        "id": "110:80914",
+        "name": "Cards"
+      },
+      {
+        "id": "110:80933",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:80991",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:81179",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "110:81219",
+        "name": "How Deposits Work"
+      },
+      {
+        "id": "110:81233",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "110:81049",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:81103",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:81201",
+        "name": "How Deposits Work"
+      },
+      {
+        "id": "110:81336",
+        "name": "Cards - USD/ Fund card/empty"
+      },
+      {
+        "id": "110:81360",
+        "name": "Card Funding"
+      },
+      {
+        "id": "110:81384",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:81408",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:81432",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:81261",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "110:81293",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "110:81325",
+        "name": "Card - withdrawal USD /Successful"
+      },
+      {
+        "id": "110:81461",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:81517",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:81574",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:81635",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:81696",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:81758",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:81819",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:81910",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "110:81928",
+        "name": "Account SetUp/Email Address/Error"
+      },
+      {
+        "id": "110:81946",
+        "name": "Pin-changed"
+      },
+      {
+        "id": "110:81987",
+        "name": "Dolar card-freezing"
+      },
+      {
+        "id": "110:82073",
+        "name": "Cards - Terms"
+      },
+      {
+        "id": "110:83584",
+        "name": "Cards"
+      },
+      {
+        "id": "110:83644",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:83710",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:83811",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:83862",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:83937",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:83745",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:83780",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:81876",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "110:81892",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "475:247069",
+        "name": "Cards- New user"
+      }
+    ]
+  },
+  {
+    "flow": "USD Account- Add money / Local Ramp Integration",
+    "screens": [
+      {
+        "id": "219:294304",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "219:294501",
+        "name": "Kenya"
+      },
+      {
+        "id": "219:295093",
+        "name": "USD Bank Transfer"
+      },
+      {
+        "id": "219:295152",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:295210",
+        "name": "Notifications"
+      },
+      {
+        "id": "219:294469",
+        "name": "Recipient details - Mobile money"
+      },
+      {
+        "id": "219:294527",
+        "name": "Transfer successful!"
+      },
+      {
+        "id": "219:294538",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "219:294577",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:294645",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:294795",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "219:294713",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:294833",
+        "name": "Transfer successful!"
+      },
+      {
+        "id": "219:294843",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:294870",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:294897",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "219:294936",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:295004",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:295263",
+        "name": "USDC Wallet Address"
+      },
+      {
+        "id": "219:295308",
+        "name": "Notifications"
+      },
+      {
+        "id": "219:295361",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:295424",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:295494",
+        "name": "Request funds"
+      },
+      {
+        "id": "219:295610",
+        "name": "Request funds - filled"
+      },
+      {
+        "id": "219:295650",
+        "name": "Request funds others"
+      },
+      {
+        "id": "219:296061",
+        "name": "Request from"
+      },
+      {
+        "id": "219:296104",
+        "name": "Request summary"
+      },
+      {
+        "id": "219:296162",
+        "name": "Request successful"
+      },
+      {
+        "id": "219:295584",
+        "name": "Request history"
+      },
+      {
+        "id": "219:295736",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "219:295911",
+        "name": "Request history - sent / details"
+      },
+      {
+        "id": "219:295981",
+        "name": "Request invitations sent"
+      },
+      {
+        "id": "219:295599",
+        "name": "Amount - empty"
+      },
+      {
+        "id": "219:295946",
+        "name": "Request details- Sent/disabled"
+      },
+      {
+        "id": "219:295693",
+        "name": "Amount - filled"
+      },
+      {
+        "id": "219:295848",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "219:296029",
+        "name": "Slide out menu"
+      },
+      {
+        "id": "219:295777",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "219:296047",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "219:295535",
+        "name": "Amount - empty"
+      },
+      {
+        "id": "219:295573",
+        "name": "Amount - empty"
+      },
+      {
+        "id": "219:295708",
+        "name": "Amount - filled"
+      },
+      {
+        "id": "219:295882",
+        "name": "Transaction detail -local transfer"
+      }
+    ]
+  },
+  {
+    "flow": "Transactions",
+    "screens": [
+      {
+        "id": "71:67454",
+        "name": "Transactions"
+      },
+      {
+        "id": "75:68930",
+        "name": "Transactions"
+      },
+      {
+        "id": "75:68968",
+        "name": "Transactions"
+      },
+      {
+        "id": "75:69003",
+        "name": "Transactions"
+      },
+      {
+        "id": "75:69023",
+        "name": "Transactions"
+      },
+      {
+        "id": "75:69039",
+        "name": "Transactions"
+      },
+      {
+        "id": "75:69719",
+        "name": "Transactions-searching"
+      },
+      {
+        "id": "75:69754",
+        "name": "Transactions-searching"
+      },
+      {
+        "id": "64:25445",
+        "name": "Transaction detail - USD transfer"
+      },
+      {
+        "id": "64:25508",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "64:25571",
+        "name": "Transaction detail -local transfer-pending"
+      },
+      {
+        "id": "64:25634",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "64:25697",
+        "name": "Transaction detail - USD transfer"
+      },
+      {
+        "id": "64:25760",
+        "name": "Transaction detail -local transfer-pending"
+      },
+      {
+        "id": "64:25823",
+        "name": "Transaction detail -Airtime"
+      },
+      {
+        "id": "64:25877",
+        "name": "Transaction detail -Airtime"
+      },
+      {
+        "id": "64:25931",
+        "name": "Transaction detail - Premium payment"
+      },
+      {
+        "id": "64:25982",
+        "name": "Transaction detail - Premium payment"
+      },
+      {
+        "id": "64:26033",
+        "name": "Transaction detail - card payment"
+      },
+      {
+        "id": "64:26077",
+        "name": "Transaction detail - card payment"
+      },
+      {
+        "id": "64:26119",
+        "name": "Transaction detail - USD transfer"
+      },
+      {
+        "id": "64:26161",
+        "name": "Transaction detail - USD transfer"
+      }
+    ]
+  },
+  {
+    "flow": "Manage",
+    "screens": [
+      {
+        "id": "82:46378",
+        "name": "Manage"
+      },
+      {
+        "id": "82:46409",
+        "name": "Manage"
+      },
+      {
+        "id": "82:46449",
+        "name": "Personal details"
+      },
+      {
+        "id": "82:46478",
+        "name": "Personal details"
+      },
+      {
+        "id": "82:46507",
+        "name": "Personal details"
+      },
+      {
+        "id": "82:47334",
+        "name": "Profile updated"
+      },
+      {
+        "id": "82:47390",
+        "name": "Addresses"
+      },
+      {
+        "id": "82:47409",
+        "name": "Addresses"
+      },
+      {
+        "id": "82:47431",
+        "name": "Addresses"
+      },
+      {
+        "id": "82:47451",
+        "name": "Address updated"
+      },
+      {
+        "id": "82:48153",
+        "name": "Other information"
+      },
+      {
+        "id": "82:48176",
+        "name": "Other information"
+      },
+      {
+        "id": "82:48197",
+        "name": "Other information"
+      },
+      {
+        "id": "82:48217",
+        "name": "Other information"
+      },
+      {
+        "id": "82:48237",
+        "name": "Other information"
+      },
+      {
+        "id": "82:48258",
+        "name": "Profil updated"
+      },
+      {
+        "id": "82:49910",
+        "name": "Recepients-searching"
+      },
+      {
+        "id": "82:49919",
+        "name": "Recepients-searching"
+      },
+      {
+        "id": "82:49929",
+        "name": "Recepients-search not found"
+      },
+      {
+        "id": "82:49938",
+        "name": "Recepients"
+      },
+      {
+        "id": "82:49947",
+        "name": "Recepients"
+      },
+      {
+        "id": "82:49964",
+        "name": "Recepients-searching"
+      },
+      {
+        "id": "82:49980",
+        "name": "Recipient details/bank account"
+      },
+      {
+        "id": "103:29199",
+        "name": "Add recipientnew-empty"
+      },
+      {
+        "id": "103:29216",
+        "name": "Add recipient-new-filled"
+      },
+      {
+        "id": "103:29233",
+        "name": "Add recipient-new-errror"
+      },
+      {
+        "id": "103:29253",
+        "name": "Recipient Added"
+      },
+      {
+        "id": "64:23716",
+        "name": "Transfers"
+      },
+      {
+        "id": "64:23880",
+        "name": "Cards"
+      },
+      {
+        "id": "64:23752",
+        "name": "Deposits"
+      },
+      {
+        "id": "64:23816",
+        "name": "Deposits"
+      },
+      {
+        "id": "64:23912",
+        "name": "Bills"
+      },
+      {
+        "id": "64:23931",
+        "name": "Transfer- Tier Two"
+      },
+      {
+        "id": "64:23967",
+        "name": "Account Limits / Withdrawals / Tier 3"
+      },
+      {
+        "id": "64:24001",
+        "name": "Upgrade to Tier2"
+      },
+      {
+        "id": "64:24012",
+        "name": "Upgrade to Tier2/ Verify NIN/ Empty"
+      },
+      {
+        "id": "64:24030",
+        "name": "Upgrade to Tier2/ Verify NIN/ Filled"
+      },
+      {
+        "id": "64:24048",
+        "name": "Upgrade to Tier2/ Verify NIN/ Error"
+      },
+      {
+        "id": "64:24066",
+        "name": "Upgrade to Tier2"
+      },
+      {
+        "id": "64:24077",
+        "name": "Upgrade to Tier2/ ID Verification"
+      },
+      {
+        "id": "64:24092",
+        "name": "Upgrade to Tier2/ ID Verification / Empty"
+      },
+      {
+        "id": "64:24108",
+        "name": "Upgrade to Tier2/ ID Verification / Filled"
+      },
+      {
+        "id": "64:24131",
+        "name": "Upgrade to Tier2/ ID Verification / driver's license uploaded"
+      },
+      {
+        "id": "64:24153",
+        "name": "Upgrade to Tier2/ ID Verification / driver's license uploaded"
+      },
+      {
+        "id": "64:24177",
+        "name": "Withdrawals / Pending Tier 2 upgrade"
+      },
+      {
+        "id": "64:24215",
+        "name": "Upgrade to Tier2/ ID Verification / driver's license uploaded"
+      },
+      {
+        "id": "64:24229",
+        "name": "ID verification complete"
+      },
+      {
+        "id": "64:24242",
+        "name": "Transfers"
+      },
+      {
+        "id": "64:24276",
+        "name": "Personal Information- Empty"
+      },
+      {
+        "id": "64:24291",
+        "name": "Personal Information- filled"
+      },
+      {
+        "id": "64:24307",
+        "name": "Upgrade to Tier 3/ Confirm Address/ empty"
+      },
+      {
+        "id": "64:24329",
+        "name": "Upgrade to Tier 3/ Upload proof Address/ empty"
+      },
+      {
+        "id": "64:24359",
+        "name": "Upgrade to Tier 3/ Upload proof Address/ Filled"
+      },
+      {
+        "id": "64:24388",
+        "name": "Upgrade to Tier 3/ Upload proof Address/ empty"
+      },
+      {
+        "id": "64:24432",
+        "name": "Withdrawals / Pending Tier 3 upgrade"
+      },
+      {
+        "id": "64:24466",
+        "name": "Withdrawals / Pending Tier 3 upgrade"
+      },
+      {
+        "id": "64:24500",
+        "name": "Upgrade to Tier 3"
+      },
+      {
+        "id": "64:24511",
+        "name": "Homepage- NGN"
+      },
+      {
+        "id": "64:24861",
+        "name": "Manage Subscriptions"
+      },
+      {
+        "id": "64:24879",
+        "name": "Subscription/Premium"
+      },
+      {
+        "id": "64:24970",
+        "name": "Welcome to premium"
+      },
+      {
+        "id": "64:24992",
+        "name": "Subscription Cancelled"
+      },
+      {
+        "id": "64:25003",
+        "name": "Homepage- us based"
+      },
+      {
+        "id": "64:24924",
+        "name": "Subscription/Cancelled"
+      },
+      {
+        "id": "64:24981",
+        "name": "Upgrade to premium/ Successful"
+      },
+      {
+        "id": "64:25043",
+        "name": "Transactions"
+      },
+      {
+        "id": "64:24559",
+        "name": "Settings"
+      },
+      {
+        "id": "64:24584",
+        "name": "Notifications"
+      },
+      {
+        "id": "64:24601",
+        "name": "Notifications"
+      },
+      {
+        "id": "64:24622",
+        "name": "Password-changed"
+      },
+      {
+        "id": "64:24635",
+        "name": "Reset-password-empty"
+      },
+      {
+        "id": "64:24653",
+        "name": "Reset-password-filled"
+      },
+      {
+        "id": "64:24671",
+        "name": "Reset-password-entered"
+      },
+      {
+        "id": "64:24714",
+        "name": "Enter passcode"
+      },
+      {
+        "id": "64:24725",
+        "name": "Enter passcode"
+      },
+      {
+        "id": "64:24736",
+        "name": "Enter passcode"
+      },
+      {
+        "id": "64:24701",
+        "name": "Reset-pin-empty"
+      },
+      {
+        "id": "64:24747",
+        "name": "Reset-pin-filled"
+      },
+      {
+        "id": "64:24773",
+        "name": "confirm-pin-empty"
+      },
+      {
+        "id": "64:24760",
+        "name": "confirm-pin-filled"
+      },
+      {
+        "id": "64:24690",
+        "name": "Pin-changed"
+      },
+      {
+        "id": "64:24787",
+        "name": "Delete account"
+      },
+      {
+        "id": "64:24800",
+        "name": "Delete account"
+      },
+      {
+        "id": "64:24817",
+        "name": "Delete account"
+      },
+      {
+        "id": "64:24837",
+        "name": "Account deleted"
+      },
+      {
+        "id": "64:24848",
+        "name": "Delete account"
+      },
+      {
+        "id": "64:25073",
+        "name": "Support"
+      },
+      {
+        "id": "64:25094",
+        "name": "Our rates"
+      },
+      {
+        "id": "64:25107",
+        "name": "Fees & Rates"
+      },
+      {
+        "id": "103:30421",
+        "name": "Language"
+      }
+    ]
+  },
+  {
+    "flow": "Cards",
+    "screens": [
+      {
+        "id": "110:102818",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:102827",
+        "name": "Cards- New user / Loading screen"
+      },
+      {
+        "id": "110:102837",
+        "name": "Cards - NGN Card"
+      },
+      {
+        "id": "110:102859",
+        "name": "Cards - USD Card"
+      },
+      {
+        "id": "110:102889",
+        "name": "Card creation / Selfie"
+      },
+      {
+        "id": "110:102916",
+        "name": "Card creation Failed"
+      },
+      {
+        "id": "110:102929",
+        "name": "Card creation screen"
+      },
+      {
+        "id": "110:102939",
+        "name": "Card creation Successful"
+      },
+      {
+        "id": "110:132600",
+        "name": "Cards - USD/ Fund card/empty"
+      },
+      {
+        "id": "110:132624",
+        "name": "Cards - USD/ Fund card/filled"
+      },
+      {
+        "id": "110:132648",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:132672",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:132696",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:132720",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "110:132752",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "110:132784",
+        "name": "Card - withdrawal USD /Successful"
+      },
+      {
+        "id": "110:134595",
+        "name": "Dolar card-freezing"
+      },
+      {
+        "id": "110:133722",
+        "name": "Dolar card-freezing"
+      },
+      {
+        "id": "110:103536",
+        "name": "Cards - USD/ Fund Withdrawal /Summary"
+      },
+      {
+        "id": "110:103569",
+        "name": "Cards - USD/ Fund Withdrawal /Summary"
+      },
+      {
+        "id": "110:103602",
+        "name": "Card - withdrawal USD /Successful"
+      },
+      {
+        "id": "110:103613",
+        "name": "Cards - USD/ Fund Withdrawal /empty"
+      },
+      {
+        "id": "110:103643",
+        "name": "Cards - USD/ Fund Withdrawal /filled"
+      },
+      {
+        "id": "110:103673",
+        "name": "Cards - USD/ Fund Withdrawal /error"
+      },
+      {
+        "id": "110:103704",
+        "name": "Cards - Delete card"
+      },
+      {
+        "id": "110:103716",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:103737",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:103758",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:103780",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:135224",
+        "name": "Cards - Terms"
+      },
+      {
+        "id": "110:135377",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:135429",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:135495",
+        "name": "Cards"
+      },
+      {
+        "id": "110:136880",
+        "name": "Cards - NGN/ Fund Withdrawal /Summary"
+      },
+      {
+        "id": "110:136913",
+        "name": "Cards - NGN/ Fund Withdrawal /Summary"
+      },
+      {
+        "id": "110:136946",
+        "name": "Card - withdrawal NGN /Successful"
+      },
+      {
+        "id": "110:136957",
+        "name": "Cards - NGN/ Fund Withdrawal /empty"
+      },
+      {
+        "id": "110:136987",
+        "name": "Cards - NGN/ Fund Withdrawal /filled"
+      },
+      {
+        "id": "110:137017",
+        "name": "Cards - NGN/ Fund Withdrawal /error"
+      },
+      {
+        "id": "110:104406",
+        "name": "Cards - NGN/ Fund card via NGN account /Summary"
+      },
+      {
+        "id": "110:104439",
+        "name": "Cards - NGN/ Fund card via NGN account /Summary"
+      },
+      {
+        "id": "110:104472",
+        "name": "Card - withdrawal USD /Successful"
+      },
+      {
+        "id": "110:104483",
+        "name": "Cards - NGN/ Fund card/empty"
+      },
+      {
+        "id": "110:104510",
+        "name": "Cards - NGN/ Fund card/filled"
+      },
+      {
+        "id": "110:104537",
+        "name": "Cards - NGN/ Fund card/error"
+      },
+      {
+        "id": "110:104564",
+        "name": "Cards - NGN/ Fund card/error"
+      },
+      {
+        "id": "110:104591",
+        "name": "Cards - NGN/ Fund card/error"
+      },
+      {
+        "id": "110:104072",
+        "name": "Naira card"
+      },
+      {
+        "id": "110:104126",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:104182",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:137538",
+        "name": "Cards"
+      },
+      {
+        "id": "110:137598",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:137657",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:137692",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:137743",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:137818",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:137886",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:137921",
+        "name": "Transactions"
+      }
+    ]
+  },
+  {
+    "flow": "Build Credit",
+    "screens": [
+      {
+        "id": "148:119163",
+        "name": "Build Credit Onboardin 1"
+      },
+      {
+        "id": "148:119176",
+        "name": "Build Credit Onboardin 2"
+      },
+      {
+        "id": "148:119188",
+        "name": "Build Credit Onboardin 3"
+      },
+      {
+        "id": "148:119282",
+        "name": "Setup"
+      },
+      {
+        "id": "148:119199",
+        "name": "Financial Information- filled"
+      },
+      {
+        "id": "148:119219",
+        "name": "Financial Information- filled"
+      },
+      {
+        "id": "148:119238",
+        "name": "Financial Information- filled"
+      },
+      {
+        "id": "148:119209",
+        "name": "Financial Information- filled"
+      },
+      {
+        "id": "148:119257",
+        "name": "Financial Information- filled"
+      },
+      {
+        "id": "148:119308",
+        "name": "Financial Information- filled"
+      },
+      {
+        "id": "148:119333",
+        "name": "Extra cost- empty"
+      },
+      {
+        "id": "148:119343",
+        "name": "Extra cost- filled"
+      },
+      {
+        "id": "148:119362",
+        "name": "Extra cost- filled"
+      },
+      {
+        "id": "148:119379",
+        "name": "Financial insights"
+      },
+      {
+        "id": "148:119295",
+        "name": "Setup"
+      },
+      {
+        "id": "148:119402",
+        "name": "Get deeper insights"
+      },
+      {
+        "id": "148:119413",
+        "name": "Account linking successful"
+      },
+      {
+        "id": "148:119425",
+        "name": "Account linking failed"
+      },
+      {
+        "id": "148:119436",
+        "name": "Account linking failed"
+      },
+      {
+        "id": "148:119447",
+        "name": "Account linking failed"
+      },
+      {
+        "id": "148:119458",
+        "name": "Account linking failed"
+      },
+      {
+        "id": "148:119469",
+        "name": "Account linking failed"
+      },
+      {
+        "id": "148:119480",
+        "name": "Account linking failed"
+      },
+      {
+        "id": "148:119491",
+        "name": "Account linking failed"
+      },
+      {
+        "id": "148:119502",
+        "name": "Setup"
+      },
+      {
+        "id": "148:119518",
+        "name": "Credit assessment loading"
+      },
+      {
+        "id": "148:119533",
+        "name": "Credit Score"
+      },
+      {
+        "id": "148:119557",
+        "name": "Credit Score"
+      },
+      {
+        "id": "148:119583",
+        "name": "Credit Score"
+      },
+      {
+        "id": "148:119593",
+        "name": "Credit history"
+      },
+      {
+        "id": "148:119695",
+        "name": "Build credit"
+      },
+      {
+        "id": "148:119750",
+        "name": "Assessment"
+      },
+      {
+        "id": "148:119776",
+        "name": "Credit assessment"
+      },
+      {
+        "id": "148:119801",
+        "name": "Credit assessment"
+      },
+      {
+        "id": "148:119826",
+        "name": " Linked Accounts"
+      },
+      {
+        "id": "148:119845",
+        "name": "Credit Score"
+      },
+      {
+        "id": "148:119903",
+        "name": "Assesment home"
+      },
+      {
+        "id": "148:119995",
+        "name": "Analysis history"
+      },
+      {
+        "id": "148:120097",
+        "name": "Assessment payment"
+      },
+      {
+        "id": "148:119872",
+        "name": "Download"
+      },
+      {
+        "id": "148:119945",
+        "name": "Download"
+      },
+      {
+        "id": "148:120108",
+        "name": "Export successful"
+      },
+      {
+        "id": "148:120119",
+        "name": "Export failed"
+      },
+      {
+        "id": "148:120155",
+        "name": "Credit report"
+      },
+      {
+        "id": "148:120186",
+        "name": "Credit report"
+      },
+      {
+        "id": "148:120133",
+        "name": "Export successful"
+      },
+      {
+        "id": "148:120144",
+        "name": "Export failed"
+      },
+      {
+        "id": "148:145874",
+        "name": "Factors affecting your score"
+      },
+      {
+        "id": "148:145892",
+        "name": "Payment history"
+      },
+      {
+        "id": "148:145924",
+        "name": "Credit card use"
+      },
+      {
+        "id": "148:145968",
+        "name": "Derogatory marks"
+      },
+      {
+        "id": "148:146011",
+        "name": "credit age"
+      },
+      {
+        "id": "148:146043",
+        "name": "Total accounts"
+      },
+      {
+        "id": "148:146074",
+        "name": "Hard inquiries"
+      },
+      {
+        "id": "148:120448",
+        "name": "Build Credit / Accounts"
+      },
+      {
+        "id": "148:120497",
+        "name": "Build Credit / Accounts / Account details"
+      }
+    ]
+  },
+  {
+    "flow": "USD card (Mastercard)",
+    "screens": [
+      {
+        "id": "110:153610",
+        "name": "Card creation Failed"
+      },
+      {
+        "id": "110:153623",
+        "name": "Card creation screen"
+      },
+      {
+        "id": "110:153633",
+        "name": "Card creation Successful"
+      },
+      {
+        "id": "110:153649",
+        "name": "Card unwrapping"
+      },
+      {
+        "id": "110:153654",
+        "name": "Card unwrapping"
+      },
+      {
+        "id": "110:153708",
+        "name": "Card unwrapping"
+      },
+      {
+        "id": "110:153962",
+        "name": "Dolar card-freezing"
+      },
+      {
+        "id": "110:154016",
+        "name": "Dolar card-freezing"
+      },
+      {
+        "id": "110:154099",
+        "name": "Cards - USD/ Fund Withdrawal /Summary"
+      },
+      {
+        "id": "110:154132",
+        "name": "Cards - USD/ Fund Withdrawal /Summary"
+      },
+      {
+        "id": "110:154165",
+        "name": "Card - withdrawal USD /Successful"
+      },
+      {
+        "id": "110:154176",
+        "name": "Cards - USD/ Fund Withdrawal /empty"
+      },
+      {
+        "id": "110:154206",
+        "name": "Cards - USD/ Fund Withdrawal /filled"
+      },
+      {
+        "id": "110:154236",
+        "name": "Cards - USD/ Fund Withdrawal /error"
+      },
+      {
+        "id": "110:154266",
+        "name": "Cards - Delete card"
+      },
+      {
+        "id": "110:154278",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:154299",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:154320",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:154342",
+        "name": "Delete card"
+      },
+      {
+        "id": "110:154366",
+        "name": "Cards - Terms"
+      },
+      {
+        "id": "110:140677",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "110:140686",
+        "name": "Cards- New user / Loading screen"
+      },
+      {
+        "id": "110:140695",
+        "name": "Cards - USD Card"
+      },
+      {
+        "id": "110:140717",
+        "name": "Create Card pin"
+      },
+      {
+        "id": "110:140728",
+        "name": "Create Card pin-typing"
+      },
+      {
+        "id": "110:140738",
+        "name": "Create Card pin-typing"
+      },
+      {
+        "id": "110:140748",
+        "name": "Confirm Card Pin"
+      },
+      {
+        "id": "110:140758",
+        "name": "Confirm Card Pin-typed"
+      },
+      {
+        "id": "110:165777",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "110:141005",
+        "name": "Enter new Card pin-empty"
+      },
+      {
+        "id": "110:141016",
+        "name": "Enter new Card pin-typing"
+      },
+      {
+        "id": "110:141067",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:141122",
+        "name": "Change Card pin-2fa-empty"
+      },
+      {
+        "id": "110:141138",
+        "name": "Change Card pin-2fa-resend code"
+      },
+      {
+        "id": "110:141156",
+        "name": "Change Card pin-2fa-entered"
+      },
+      {
+        "id": "110:141174",
+        "name": "Change Card pin-2fa-entered-error"
+      },
+      {
+        "id": "110:141026",
+        "name": "Enter new Card pin-typed"
+      },
+      {
+        "id": "110:141036",
+        "name": "Confirm new Card Pin-empty"
+      },
+      {
+        "id": "110:141046",
+        "name": "Confirm new Card Pin-typed"
+      },
+      {
+        "id": "110:141056",
+        "name": "Card creation Successful"
+      },
+      {
+        "id": "110:141315",
+        "name": "Cards"
+      },
+      {
+        "id": "110:141193",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:141247",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:166953",
+        "name": "Cards - USD/ Fund card/empty"
+      },
+      {
+        "id": "110:166977",
+        "name": "Cards - USD/ Fund card/filled"
+      },
+      {
+        "id": "110:167001",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:167025",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:167049",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "110:167073",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "110:167105",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "110:167137",
+        "name": "Card - withdrawal USD /Successful"
+      },
+      {
+        "id": "110:142055",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:142109",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:142173",
+        "name": "Dolar card"
+      },
+      {
+        "id": "110:142250",
+        "name": "Cards"
+      },
+      {
+        "id": "110:142311",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:142377",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:142412",
+        "name": "Transactions"
+      },
+      {
+        "id": "110:142447",
+        "name": "Transactions"
+      }
+    ]
+  },
+  {
+    "flow": "USD card (Visa Card)",
+    "screens": [
+      {
+        "id": "111:98309",
+        "name": "Dolar card-freezing"
+      },
+      {
+        "id": "111:98713",
+        "name": "Cards - Terms"
+      },
+      {
+        "id": "111:99295",
+        "name": "Cards - USD/ Fund card/empty"
+      },
+      {
+        "id": "111:99319",
+        "name": "Cards - USD/ Fund card/filled"
+      },
+      {
+        "id": "111:99343",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "111:99367",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "111:99391",
+        "name": "Cards - USD/ Fund card/error"
+      },
+      {
+        "id": "111:99415",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "111:99447",
+        "name": "Cards - USD-summary"
+      },
+      {
+        "id": "111:99479",
+        "name": "Card - withdrawal USD /Successful"
+      },
+      {
+        "id": "111:110833",
+        "name": "Cards - USD Card"
+      },
+      {
+        "id": "111:110879",
+        "name": "Cards - USD Card"
+      },
+      {
+        "id": "111:110924",
+        "name": "Homepage - Nigerian"
+      },
+      {
+        "id": "111:110968",
+        "name": "Cards- New user"
+      },
+      {
+        "id": "111:110977",
+        "name": "Cards- New user / Loading screen"
+      },
+      {
+        "id": "111:110996",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "111:111063",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "111:111036",
+        "name": "Card creation screen"
+      },
+      {
+        "id": "111:111047",
+        "name": "Cards - USD Card"
+      },
+      {
+        "id": "111:82025",
+        "name": "Card creation pending"
+      },
+      {
+        "id": "111:81546",
+        "name": "Card pending"
+      },
+      {
+        "id": "111:81692",
+        "name": "Card creation requires additional verification"
+      },
+      {
+        "id": "111:81716",
+        "name": "Final Confirmation"
+      },
+      {
+        "id": "111:81737",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "111:81869",
+        "name": "Final Confirmation"
+      },
+      {
+        "id": "111:82055",
+        "name": "Card creation requires additonal information"
+      },
+      {
+        "id": "111:81610",
+        "name": "Card creation screen"
+      },
+      {
+        "id": "111:81621",
+        "name": "Card creation Successful"
+      },
+      {
+        "id": "111:81635",
+        "name": "Card creation Failed"
+      },
+      {
+        "id": "111:81666",
+        "name": "Card creation failed"
+      },
+      {
+        "id": "111:81758",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "111:81779",
+        "name": "Card succesful"
+      },
+      {
+        "id": "111:81824",
+        "name": "Card in progress"
+      },
+      {
+        "id": "111:81890",
+        "name": "Card creation Failed"
+      },
+      {
+        "id": "111:81903",
+        "name": "Homepage"
+      },
+      {
+        "id": "111:83050",
+        "name": "Authorize card creation - Nigerians"
+      },
+      {
+        "id": "111:83070",
+        "name": "Cards - USD Card"
+      },
+      {
+        "id": "111:83116",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "111:83132",
+        "name": "Authorize card creation"
+      },
+      {
+        "id": "111:82316",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "111:82135",
+        "name": "Card unwrapping"
+      },
+      {
+        "id": "111:82140",
+        "name": "Card unwrapping"
+      },
+      {
+        "id": "111:82194",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "111:82250",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "111:82388",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "111:84077",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "111:84023",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "111:84050",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "111:84110",
+        "name": "Homepage- New user -ID verification unsuccessful"
+      },
+      {
+        "id": "111:81139",
+        "name": "Cards"
+      },
+      {
+        "id": "111:81159",
+        "name": "Homepage"
+      },
+      {
+        "id": "111:81203",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "111:81255",
+        "name": "Card With Fund and Transactions"
+      },
+      {
+        "id": "111:83161",
+        "name": "Dolar card"
+      },
+      {
+        "id": "111:83236",
+        "name": "Dolar card"
+      },
+      {
+        "id": "111:83321",
+        "name": "Dolar card"
+      },
+      {
+        "id": "111:83396",
+        "name": "Cards"
+      },
+      {
+        "id": "111:83498",
+        "name": "Transactions"
+      },
+      {
+        "id": "111:83665",
+        "name": "Transactions"
+      },
+      {
+        "id": "111:83844",
+        "name": "Transaction detail - card payment"
+      },
+      {
+        "id": "111:83887",
+        "name": "Transaction detail - card payment"
+      }
+    ]
+  },
+  {
+    "flow": "Send Money - Euro Account",
+    "screens": [
+      {
+        "id": "167:174771",
+        "name": "Slide out menu"
+      },
+      {
+        "id": "167:174808",
+        "name": "Send-empty"
+      },
+      {
+        "id": "167:174823",
+        "name": "Send-filled"
+      },
+      {
+        "id": "167:174839",
+        "name": "Send-error"
+      },
+      {
+        "id": "167:174856",
+        "name": "Africans"
+      },
+      {
+        "id": "167:174867",
+        "name": "Send-error"
+      },
+      {
+        "id": "167:174884",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:174900",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:174923",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:174962",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:174997",
+        "name": "Search"
+      },
+      {
+        "id": "167:175006",
+        "name": "Search/general"
+      },
+      {
+        "id": "167:175017",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "167:175026",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:175048",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:175094",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:175138",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:175182",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "167:175248",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "167:175260",
+        "name": "Choose recipient-new-filled"
+      },
+      {
+        "id": "167:175278",
+        "name": "Choose recipient-new-errror"
+      },
+      {
+        "id": "167:175302",
+        "name": "Send-empty"
+      },
+      {
+        "id": "167:175319",
+        "name": "Send-filled"
+      },
+      {
+        "id": "167:175336",
+        "name": "Send-filled"
+      },
+      {
+        "id": "167:175353",
+        "name": "Africans"
+      },
+      {
+        "id": "167:175374",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:175390",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:175413",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:175452",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:175487",
+        "name": "Search"
+      },
+      {
+        "id": "167:175496",
+        "name": "Search/general"
+      },
+      {
+        "id": "167:175511",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "167:175528",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:175546",
+        "name": "Add recipient-new-empty"
+      },
+      {
+        "id": "167:175567",
+        "name": "Add recipient-new-empty"
+      },
+      {
+        "id": "167:175585",
+        "name": "Add recipient-new-filled"
+      },
+      {
+        "id": "167:175603",
+        "name": "Add recipient-new-filled"
+      },
+      {
+        "id": "167:175622",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:175666",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "167:175710",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:175756",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:175800",
+        "name": "Select payment method"
+      },
+      {
+        "id": "167:175815",
+        "name": "Select payment method"
+      },
+      {
+        "id": "167:175832",
+        "name": "Select payment method"
+      },
+      {
+        "id": "167:175849",
+        "name": "Select payment method"
+      },
+      {
+        "id": "167:175872",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "167:175884",
+        "name": "Send-choose recepient"
+      },
+      {
+        "id": "167:175894",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "167:175915",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "167:175952",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "167:175972",
+        "name": "Search"
+      },
+      {
+        "id": "167:175988",
+        "name": "Search"
+      },
+      {
+        "id": "167:176012",
+        "name": "Search"
+      },
+      {
+        "id": "167:176035",
+        "name": "Search"
+      },
+      {
+        "id": "167:176058",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "167:176074",
+        "name": "Amount - empty"
+      },
+      {
+        "id": "167:176109",
+        "name": "Amount - filled"
+      },
+      {
+        "id": "167:176124",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:176167",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:176208",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:176249",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "167:176292",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "167:176305",
+        "name": "Send-empty"
+      },
+      {
+        "id": "167:176319",
+        "name": "Send-filled"
+      },
+      {
+        "id": "167:176332",
+        "name": "Send-filled"
+      },
+      {
+        "id": "167:176345",
+        "name": "Send-error"
+      },
+      {
+        "id": "167:176358",
+        "name": "Send-error"
+      },
+      {
+        "id": "167:176371",
+        "name": "Africans"
+      },
+      {
+        "id": "167:176382",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:176398",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:176421",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:176460",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "167:176495",
+        "name": "Search"
+      },
+      {
+        "id": "167:176504",
+        "name": "Search/general"
+      },
+      {
+        "id": "167:176515",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "167:176524",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:176546",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:176580",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:176606",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:176632",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:176658",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "167:176688",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "167:176732",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "167:176782",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "167:176794",
+        "name": "Transaction-summary"
+      }
+    ]
+  },
+  {
+    "flow": "Send Money - USD Account (Africans and Nigerians)",
+    "screens": [
+      {
+        "id": "164:142720",
+        "name": "Send-empty"
+      },
+      {
+        "id": "164:142734",
+        "name": "Africans"
+      },
+      {
+        "id": "164:142761",
+        "name": "Nigerians"
+      },
+      {
+        "id": "164:142789",
+        "name": "Send-empty"
+      },
+      {
+        "id": "164:143370",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:143383",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:143396",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:143409",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:143422",
+        "name": "Send-empty"
+      },
+      {
+        "id": "164:142802",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:142818",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:142841",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:142880",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:142915",
+        "name": "Search"
+      },
+      {
+        "id": "164:142924",
+        "name": "Search/general"
+      },
+      {
+        "id": "164:142935",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "164:143439",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:143465",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:143503",
+        "name": "Choose recipient-new-filled"
+      },
+      {
+        "id": "164:143570",
+        "name": "Choose recipient-new-filled"
+      },
+      {
+        "id": "164:143538",
+        "name": "Choose recipient-new-filled"
+      },
+      {
+        "id": "164:143603",
+        "name": "Choose recipient-new-errror"
+      },
+      {
+        "id": "164:143635",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:143663",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:143702",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:143733",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:143765",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:142948",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:143000",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:143050",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:143100",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:143155",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:143205",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:143255",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:143305",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:143358",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "164:143800",
+        "name": "Slide out menu"
+      },
+      {
+        "id": "164:143837",
+        "name": "Send-empty"
+      },
+      {
+        "id": "164:143852",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:144304",
+        "name": "Nigerians"
+      },
+      {
+        "id": "164:144332",
+        "name": "Africans"
+      },
+      {
+        "id": "164:143868",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:143885",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:143902",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:143918",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:143941",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:143980",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:144015",
+        "name": "Search"
+      },
+      {
+        "id": "164:144024",
+        "name": "Search/general"
+      },
+      {
+        "id": "164:144035",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "164:144046",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:144068",
+        "name": "Choose recipient-new-filled"
+      },
+      {
+        "id": "164:144086",
+        "name": "Choose recipient-new-errror"
+      },
+      {
+        "id": "164:144104",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:144150",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:144194",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:144238",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:144292",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "164:144774",
+        "name": "Send-empty"
+      },
+      {
+        "id": "164:144791",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:145339",
+        "name": "Nigerians"
+      },
+      {
+        "id": "164:145367",
+        "name": "Africans"
+      },
+      {
+        "id": "164:144808",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:144827",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:144843",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:144866",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:144905",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:144940",
+        "name": "Search"
+      },
+      {
+        "id": "164:144949",
+        "name": "Search/general"
+      },
+      {
+        "id": "164:144964",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "164:144981",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:144999",
+        "name": "Add recipient-new-empty"
+      },
+      {
+        "id": "164:145020",
+        "name": "Add recipient-new-empty"
+      },
+      {
+        "id": "164:145038",
+        "name": "Add recipient-new-filled"
+      },
+      {
+        "id": "164:145056",
+        "name": "Add recipient-new-filled"
+      },
+      {
+        "id": "164:145094",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:145138",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:145182",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:145245",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:145306",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:145077",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:145227",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:145289",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:145326",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "164:145651",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:145691",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:145779",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:145819",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:145859",
+        "name": "Nigerians"
+      },
+      {
+        "id": "164:145887",
+        "name": "Africans"
+      },
+      {
+        "id": "164:145735",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:146097",
+        "name": "How withdrawal works"
+      },
+      {
+        "id": "164:145395",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:145436",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:145476",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:145518",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "164:145537",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "164:145591",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "164:144361",
+        "name": "Send-choose recepient"
+      },
+      {
+        "id": "164:144371",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "164:144392",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "164:144429",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "164:144449",
+        "name": "Search"
+      },
+      {
+        "id": "164:144465",
+        "name": "Search"
+      },
+      {
+        "id": "164:144489",
+        "name": "Search"
+      },
+      {
+        "id": "164:144512",
+        "name": "Search"
+      },
+      {
+        "id": "164:144535",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "164:144551",
+        "name": "Amount - empty"
+      },
+      {
+        "id": "164:144566",
+        "name": "Amount - filled"
+      },
+      {
+        "id": "164:144583",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:144626",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:144667",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:144708",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:144751",
+        "name": "Transaction processing"
+      }
+    ]
+  },
+  {
+    "flow": "Send Money - USD Wallet (Africans and Nigerians)",
+    "screens": [
+      {
+        "id": "164:146117",
+        "name": "Slide out menu"
+      },
+      {
+        "id": "164:146154",
+        "name": "Send-empty"
+      },
+      {
+        "id": "164:146169",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:146622",
+        "name": "Nigerians"
+      },
+      {
+        "id": "164:146649",
+        "name": "Africans"
+      },
+      {
+        "id": "164:146185",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:146202",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:146219",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:146235",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:146258",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:146297",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:146332",
+        "name": "Search"
+      },
+      {
+        "id": "164:146341",
+        "name": "Search/general"
+      },
+      {
+        "id": "164:146352",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "164:146363",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:146385",
+        "name": "Choose recipient-new-filled"
+      },
+      {
+        "id": "164:146403",
+        "name": "Choose recipient-new-errror"
+      },
+      {
+        "id": "164:146421",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:146467",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:146511",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:146555",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:146609",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "164:147089",
+        "name": "Send-empty"
+      },
+      {
+        "id": "164:147106",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:147654",
+        "name": "Nigerians"
+      },
+      {
+        "id": "164:147681",
+        "name": "Africans"
+      },
+      {
+        "id": "164:147123",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:147142",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:147158",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:147181",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:147220",
+        "name": "Choose recipient"
+      },
+      {
+        "id": "164:147255",
+        "name": "Search"
+      },
+      {
+        "id": "164:147264",
+        "name": "Search/general"
+      },
+      {
+        "id": "164:147279",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "164:147296",
+        "name": "Choose recipient-new-empty"
+      },
+      {
+        "id": "164:147314",
+        "name": "Add recipient-new-empty"
+      },
+      {
+        "id": "164:147335",
+        "name": "Add recipient-new-empty"
+      },
+      {
+        "id": "164:147353",
+        "name": "Add recipient-new-filled"
+      },
+      {
+        "id": "164:147371",
+        "name": "Add recipient-new-filled"
+      },
+      {
+        "id": "164:147409",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:147453",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:147497",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:147560",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:147621",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:147392",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:147542",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:147604",
+        "name": "Select payment method"
+      },
+      {
+        "id": "164:147641",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "164:148130",
+        "name": "Nigerians"
+      },
+      {
+        "id": "164:148157",
+        "name": "Africans"
+      },
+      {
+        "id": "164:148183",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:148223",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:148267",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:148308",
+        "name": "Send-filled"
+      },
+      {
+        "id": "164:148370",
+        "name": "Send-error"
+      },
+      {
+        "id": "164:148353",
+        "name": "How withdrawal works"
+      },
+      {
+        "id": "164:148414",
+        "name": "scan"
+      },
+      {
+        "id": "164:147708",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:147743",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:147778",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:147990",
+        "name": "Transaction processing"
+      },
+      {
+        "id": "164:148009",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "164:148069",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "164:146676",
+        "name": "Send-choose recepient"
+      },
+      {
+        "id": "164:146686",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "164:146707",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "164:146744",
+        "name": "Send-choose recipient"
+      },
+      {
+        "id": "164:146764",
+        "name": "Search"
+      },
+      {
+        "id": "164:146780",
+        "name": "Search"
+      },
+      {
+        "id": "164:146804",
+        "name": "Search"
+      },
+      {
+        "id": "164:146827",
+        "name": "Search"
+      },
+      {
+        "id": "164:146850",
+        "name": "Search/genera-not foundl"
+      },
+      {
+        "id": "164:146866",
+        "name": "Amount - empty"
+      },
+      {
+        "id": "164:146881",
+        "name": "Amount - filled"
+      },
+      {
+        "id": "164:146898",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:146941",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:146982",
+        "name": "Transaction-summary"
+      },
+      {
+        "id": "164:147023",
+        "name": "Transaction-summary-add note"
+      },
+      {
+        "id": "164:147066",
+        "name": "Transaction processing"
+      }
+    ]
+  },
+  {
+    "flow": "USD account creation for Africans",
+    "screens": [
+      {
+        "id": "154:219800",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "154:219786",
+        "name": "Reason for Request"
+      },
+      {
+        "id": "154:219886",
+        "name": "Before You Proceed"
+      },
+      {
+        "id": "154:219757",
+        "name": "Supporting information"
+      },
+      {
+        "id": "154:219818",
+        "name": "Modal content"
+      },
+      {
+        "id": "154:219835",
+        "name": "Modal content"
+      },
+      {
+        "id": "154:219852",
+        "name": "Modal content"
+      },
+      {
+        "id": "127:116357",
+        "name": "Language"
+      },
+      {
+        "id": "127:115946",
+        "name": "Create Account - empty"
+      },
+      {
+        "id": "127:115987",
+        "name": "Create Account - empty"
+      },
+      {
+        "id": "127:116010",
+        "name": "Create Account - typing"
+      },
+      {
+        "id": "127:116030",
+        "name": "Create Account - typed"
+      },
+      {
+        "id": "127:116050",
+        "name": "Create Account - typed"
+      },
+      {
+        "id": "127:116070",
+        "name": "Create Account - typed-referal code entered"
+      },
+      {
+        "id": "127:116090",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "127:116110",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "127:116130",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "127:116150",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "127:116207",
+        "name": "Tell us about yourself- typing"
+      },
+      {
+        "id": "127:116170",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "127:116190",
+        "name": "Tell us about yourself- empty"
+      },
+      {
+        "id": "127:116337",
+        "name": "Create Account - error"
+      },
+      {
+        "id": "127:116224",
+        "name": "Tell us about yourself- typed"
+      },
+      {
+        "id": "127:116390",
+        "name": "Tell us about yourself- typing"
+      },
+      {
+        "id": "127:116241",
+        "name": "Tell us about yourself- error-DOB"
+      },
+      {
+        "id": "127:116260",
+        "name": "Create Account-create pin"
+      },
+      {
+        "id": "127:116273",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "127:116286",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "127:116301",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "127:116314",
+        "name": "Create Account-create-typing"
+      },
+      {
+        "id": "127:116327",
+        "name": "Welcome to kredete"
+      },
+      {
+        "id": "127:115416",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "127:115443",
+        "name": "Allow location access"
+      },
+      {
+        "id": "127:115430",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "127:115456",
+        "name": "Account SetUp/phone number/Empty"
+      },
+      {
+        "id": "127:115476",
+        "name": "Account SetUp/phone number/Filled"
+      },
+      {
+        "id": "127:115498",
+        "name": "Account SetUp/phone number/Empty/Resend countdown done"
+      },
+      {
+        "id": "127:115521",
+        "name": "Account Setup/Phone Numper/Error"
+      },
+      {
+        "id": "127:115543",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "127:115556",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "127:115859",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "127:115879",
+        "name": "Account SetUp/Email Address/Empty"
+      },
+      {
+        "id": "127:115901",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "127:115923",
+        "name": "Account SetUp/Email Address/Error"
+      },
+      {
+        "id": "127:115833",
+        "name": "Account SetUp/Email Address/empty"
+      },
+      {
+        "id": "127:115846",
+        "name": "Account SetUp/Email Address/Filled"
+      },
+      {
+        "id": "127:115737",
+        "name": "Account SetUp/Source of funds"
+      },
+      {
+        "id": "127:115768",
+        "name": "Account SetUp/Source of funds"
+      },
+      {
+        "id": "127:115800",
+        "name": "Account SetUp/Source of funds"
+      },
+      {
+        "id": "129:156733",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "129:156718",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "129:156636",
+        "name": "Account setup-address verification- empty"
+      },
+      {
+        "id": "129:156655",
+        "name": "Account setup-address verification- empty"
+      },
+      {
+        "id": "129:156676",
+        "name": "Account setup-address verification- error"
+      },
+      {
+        "id": "129:156697",
+        "name": "Account setup-address verification- error"
+      },
+      {
+        "id": "127:115610",
+        "name": "Account setup-address verification- error"
+      },
+      {
+        "id": "127:116552",
+        "name": "Account SetUp"
+      },
+      {
+        "id": "127:116462",
+        "name": "Account SetUp//identity verification"
+      },
+      {
+        "id": "127:116474",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:116408",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:116535",
+        "name": "Account setup complete"
+      },
+      {
+        "id": "127:116435",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:116501",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:116566",
+        "name": "Account SetUp - Pending"
+      },
+      {
+        "id": "127:116580",
+        "name": "Account SetUp - Failed"
+      },
+      {
+        "id": "127:116760",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:116615",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:116654",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:116595",
+        "name": "Upgrade to Tier2"
+      },
+      {
+        "id": "127:116815",
+        "name": "Account SetUp//identity verification"
+      },
+      {
+        "id": "127:116787",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:116733",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:116827",
+        "name": "Homepage- New user -ID verification unsuccessful"
+      },
+      {
+        "id": "127:116930",
+        "name": "Manage"
+      },
+      {
+        "id": "127:116959",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:116998",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:117069",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:117546",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "127:117637",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "127:117679",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "127:117580",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "127:117697",
+        "name": "Reason for Request"
+      },
+      {
+        "id": "127:117713",
+        "name": "Reason for Request"
+      },
+      {
+        "id": "127:117408",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "127:117428",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:117455",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:117482",
+        "name": "Account SetUp//identity verification/international passport"
+      },
+      {
+        "id": "127:117510",
+        "name": "Account SetUp//identity verification"
+      },
+      {
+        "id": "127:117522",
+        "name": "Homepage- New user -ID verification unsuccessful"
+      },
+      {
+        "id": "127:118486",
+        "name": "USD account unlocked"
+      },
+      {
+        "id": "127:118279",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:118319",
+        "name": "USD Bank Transfer"
+      },
+      {
+        "id": "127:119880",
+        "name": "USD Bank Transfer"
+      },
+      {
+        "id": "127:117959",
+        "name": "Error"
+      },
+      {
+        "id": "127:118027",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:118067",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:118107",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:118147",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:118215",
+        "name": "USD account unlocked"
+      },
+      {
+        "id": "127:118226",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "127:118379",
+        "name": "USD account unlocked"
+      },
+      {
+        "id": "1308:179829",
+        "name": "USD account unlocked"
+      },
+      {
+        "id": "127:118390",
+        "name": "Homepage- New user -ID verification unsuccessful"
+      },
+      {
+        "id": "127:118413",
+        "name": "Homepage- New user -ID verification unsuccessful"
+      },
+      {
+        "id": "127:118440",
+        "name": "Homepage- New user - Account creation in progress"
+      },
+      {
+        "id": "127:118463",
+        "name": "Homepage- New user - Account creation in progress"
+      },
+      {
+        "id": "127:117744",
+        "name": "Transaction Alert - Multiple Transaction Review"
+      },
+      {
+        "id": "127:117830",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "127:117755",
+        "name": "Transaction Alert - Provide Inflow Proof - Empty"
+      },
+      {
+        "id": "127:117777",
+        "name": "Transaction Alert - Provide Inflow Proof - Filled"
+      },
+      {
+        "id": "127:117799",
+        "name": "Transaction Alert - Why this is important"
+      },
+      {
+        "id": "127:117819",
+        "name": "Submission Screen"
+      },
+      {
+        "id": "127:117891",
+        "name": "OVERALL APP SETUP AND INFORMATION (ASIDES NIGERIANS)"
+      },
+      {
+        "id": "127:117919",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:118934",
+        "name": "Homepage - Nigerians"
+      },
+      {
+        "id": "127:119011",
+        "name": "OVERALL APP SETUP AND INFORMATION (ASIDES NIGERIANS)"
+      },
+      {
+        "id": "127:119043",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "127:117359",
+        "name": "Manage"
+      },
+      {
+        "id": "127:117389",
+        "name": "Direct deposit"
+      },
+      {
+        "id": "127:117160",
+        "name": "Company details - empty"
+      },
+      {
+        "id": "127:117177",
+        "name": "Company details -filled"
+      },
+      {
+        "id": "127:117194",
+        "name": "Customize deposit - full paycheck "
+      },
+      {
+        "id": "127:117211",
+        "name": "Customize deposit - set percentage"
+      },
+      {
+        "id": "127:117229",
+        "name": "Customize deposit - set percentage - filled"
+      },
+      {
+        "id": "127:117247",
+        "name": "Signature - empty"
+      },
+      {
+        "id": "127:117262",
+        "name": "Signature - signed"
+      },
+      {
+        "id": "127:117277",
+        "name": "Preview form"
+      },
+      {
+        "id": "127:117305",
+        "name": "Customize deposit - set percentage - error"
+      },
+      {
+        "id": "127:117323",
+        "name": "Customize deposit - fixed amount"
+      },
+      {
+        "id": "127:117341",
+        "name": "Customize deposit - fixed amount- typed"
+      },
+      {
+        "id": "127:117086",
+        "name": "Direct deposit"
+      },
+      {
+        "id": "127:117139",
+        "name": "Direct deposit"
+      },
+      {
+        "id": "127:117290",
+        "name": "Preview form"
+      },
+      {
+        "id": "154:219868",
+        "name": "How direct deposit works on Kredete"
+      },
+      {
+        "id": "154:121844",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "154:121861",
+        "name": "Reason for Request"
+      },
+      {
+        "id": "154:121875",
+        "name": "Before You Proceed"
+      },
+      {
+        "id": "154:121774",
+        "name": "Supporting information"
+      },
+      {
+        "id": "154:121800",
+        "name": "Slide out menu"
+      },
+      {
+        "id": "154:121904",
+        "name": "Modal content"
+      },
+      {
+        "id": "154:218465",
+        "name": "Recieve Payment"
+      },
+      {
+        "id": "154:218451",
+        "name": "Reason for Request"
+      },
+      {
+        "id": "154:218549",
+        "name": "Before You Proceed"
+      },
+      {
+        "id": "154:218425",
+        "name": "Supporting information"
+      },
+      {
+        "id": "154:218482",
+        "name": "Slide out menu"
+      },
+      {
+        "id": "154:218500",
+        "name": "Slide out menu"
+      },
+      {
+        "id": "154:218533",
+        "name": "Modal content"
+      },
+      {
+        "id": "385:153748",
+        "name": "Successful"
+      }
+    ]
+  },
+  {
+    "flow": "Notifications",
+    "screens": [
+      {
+        "id": "66:59859",
+        "name": "Notifications"
+      },
+      {
+        "id": "66:59884",
+        "name": "Notifications"
+      },
+      {
+        "id": "66:59910",
+        "name": "Notifications-empty"
+      },
+      {
+        "id": "66:59803",
+        "name": "Notifications"
+      }
+    ]
+  },
+  {
+    "flow": "REFUND DISPUTE AND REVERSAL AUTHORIZATION",
+    "screens": [
+      {
+        "id": "148:146935",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "148:146962",
+        "name": "Upload proof"
+      },
+      {
+        "id": "148:146972",
+        "name": "Upload proof"
+      }
+    ]
+  },
+  {
+    "flow": "USD Yield V1",
+    "screens": [
+      {
+        "id": "150:122966",
+        "name": "Onboarding 7"
+      },
+      {
+        "id": "150:123009",
+        "name": "Onboarding 8"
+      },
+      {
+        "id": "150:123069",
+        "name": "Onboarding 9"
+      },
+      {
+        "id": "150:123109",
+        "name": "Onboarding 10"
+      },
+      {
+        "id": "150:123139",
+        "name": "Yield Terms"
+      },
+      {
+        "id": "150:123163",
+        "name": "User questionaire form"
+      },
+      {
+        "id": "150:123198",
+        "name": "User questionaire form"
+      },
+      {
+        "id": "150:123235",
+        "name": "User questionaire form"
+      },
+      {
+        "id": "150:123258",
+        "name": "User questionaire form"
+      },
+      {
+        "id": "150:123281",
+        "name": "User questionaire form"
+      },
+      {
+        "id": "150:123306",
+        "name": "Account Creation Successful"
+      },
+      {
+        "id": "150:123319",
+        "name": "Deposit Calculator"
+      },
+      {
+        "id": "150:123378",
+        "name": "Deposit Calculator"
+      },
+      {
+        "id": "150:123438",
+        "name": "Deposit Calculator"
+      },
+      {
+        "id": "150:123498",
+        "name": "SAVINGS ACCOUNT PAGE - With quicksave"
+      },
+      {
+        "id": "150:123910",
+        "name": "Deposit to Savings"
+      },
+      {
+        "id": "150:123937",
+        "name": "Deposit to Savings"
+      },
+      {
+        "id": "150:123967",
+        "name": "Deposit to Savings"
+      },
+      {
+        "id": "150:124132",
+        "name": "How Deposits Work"
+      },
+      {
+        "id": "150:124160",
+        "name": "Deposit successful"
+      },
+      {
+        "id": "150:124172",
+        "name": "Deposit failed"
+      },
+      {
+        "id": "150:124185",
+        "name": "Deposit to Savings"
+      },
+      {
+        "id": "150:124212",
+        "name": "SAVINGS ACCOUNT PAGE - Without quicksave"
+      },
+      {
+        "id": "150:124357",
+        "name": "SAVINGS ACCOUNT PAGE - Without quicksave"
+      },
+      {
+        "id": "150:124516",
+        "name": "Deposit to Savings"
+      },
+      {
+        "id": "150:124546",
+        "name": "Deposit successful"
+      },
+      {
+        "id": "150:124558",
+        "name": "SAVINGS ACCOUNT PAGE - Without quicksave"
+      },
+      {
+        "id": "150:124693",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "150:124750",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "150:124810",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "150:124900",
+        "name": "Notifications"
+      },
+      {
+        "id": "150:124919",
+        "name": "SAVINGS ACCOUNT PAGE - Without quicksave"
+      },
+      {
+        "id": "150:125054",
+        "name": "Withdrawal successful"
+      },
+      {
+        "id": "150:125066",
+        "name": "Withdrawal failed"
+      },
+      {
+        "id": "150:125079",
+        "name": "Redeem Savings"
+      },
+      {
+        "id": "150:125113",
+        "name": "Redeem Savings"
+      },
+      {
+        "id": "150:125147",
+        "name": "Redeem Savings"
+      },
+      {
+        "id": "150:125181",
+        "name": "SAVINGS ACCOUNT PAGE - Without quicksave"
+      },
+      {
+        "id": "150:125317",
+        "name": "How withdrawal works"
+      },
+      {
+        "id": "150:125335",
+        "name": "SAVINGS ACCOUNT PAGE - Without quicksave"
+      },
+      {
+        "id": "150:125470",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "150:125525",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "150:125578",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "150:125631",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "150:125687",
+        "name": "How withdrawal works"
+      },
+      {
+        "id": "150:125705",
+        "name": "How Deposits Work"
+      },
+      {
+        "id": "150:125721",
+        "name": "Notifications"
+      },
+      {
+        "id": "150:125867",
+        "name": "Notifications"
+      },
+      {
+        "id": "150:125887",
+        "name": "Notifications"
+      },
+      {
+        "id": "150:125906",
+        "name": "Manage"
+      },
+      {
+        "id": "150:125942",
+        "name": "Quick save default"
+      },
+      {
+        "id": "150:125954",
+        "name": "Quick save active"
+      },
+      {
+        "id": "150:125989",
+        "name": "Active State"
+      },
+      {
+        "id": "150:126024",
+        "name": "Daily"
+      },
+      {
+        "id": "150:126050",
+        "name": "Daily"
+      },
+      {
+        "id": "150:126070",
+        "name": "Weekly"
+      },
+      {
+        "id": "150:126097",
+        "name": "Monthly"
+      },
+      {
+        "id": "150:126125",
+        "name": "Default"
+      },
+      {
+        "id": "150:126227",
+        "name": "Default"
+      },
+      {
+        "id": "150:126272",
+        "name": "Savings model"
+      },
+      {
+        "id": "150:126320",
+        "name": "Yield details"
+      },
+      {
+        "id": "150:126369",
+        "name": "Yield details"
+      },
+      {
+        "id": "150:126419",
+        "name": "Yield details"
+      },
+      {
+        "id": "159:256416",
+        "name": "Default"
+      },
+      {
+        "id": "310:296935",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "315:298096",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "315:298136",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "315:298433",
+        "name": "Homepage -Africans"
+      }
+    ]
+  },
+  {
+    "flow": "USD Yield V2",
+    "screens": [
+      {
+        "id": "150:126475",
+        "name": "Default"
+      },
+      {
+        "id": "150:126897",
+        "name": "Goals"
+      },
+      {
+        "id": "150:126937",
+        "name": "Goals"
+      },
+      {
+        "id": "150:126965",
+        "name": "Goals"
+      },
+      {
+        "id": "150:126978",
+        "name": "Goals"
+      },
+      {
+        "id": "150:126999",
+        "name": "Goals"
+      },
+      {
+        "id": "150:127016",
+        "name": "Goals"
+      },
+      {
+        "id": "150:127052",
+        "name": "SAVINGS ACCOUNT PAGE - When they meet target"
+      },
+      {
+        "id": "305:295935",
+        "name": "SAVINGS ACCOUNT PAGE - Without quicksave"
+      },
+      {
+        "id": "305:296086",
+        "name": "SAVINGS ACCOUNT PAGE - With quicksave"
+      }
+    ]
+  },
+  {
+    "flow": "Euro Account",
+    "screens": [
+      {
+        "id": "222:327589",
+        "name": "Add account"
+      },
+      {
+        "id": "222:327598",
+        "name": "Card creation screen"
+      },
+      {
+        "id": "222:327682",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "222:327705",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "222:327746",
+        "name": "Add account"
+      },
+      {
+        "id": "222:327780",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "222:327820",
+        "name": "Homepage- New user - Account creation in progress"
+      },
+      {
+        "id": "222:327843",
+        "name": "Homepage- New user -ID verification unsuccessful"
+      },
+      {
+        "id": "222:327867",
+        "name": "Card creation screen"
+      },
+      {
+        "id": "222:327928",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "222:327961",
+        "name": "Homepage- us based-general remittance"
+      },
+      {
+        "id": "301:295761",
+        "name": "Add money Euro account"
+      }
+    ]
+  },
+  {
+    "flow": "Add Money - USD Wallet (Widget Implementation)",
+    "screens": [
+      {
+        "id": "226:151161",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "226:151393",
+        "name": "USDC Wallet Address"
+      },
+      {
+        "id": "226:151227",
+        "name": "Notifications"
+      },
+      {
+        "id": "226:151281",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "226:151338",
+        "name": "Transaction detail -local transfer"
+      }
+    ]
+  },
+  {
+    "flow": "USDC Activation Flow",
+    "screens": [
+      {
+        "id": "228:158021",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "228:158083",
+        "name": "USDC Wallet Address"
+      }
+    ]
+  },
+  {
+    "flow": "Local Funding - Widget Integration",
+    "screens": [
+      {
+        "id": "228:158137",
+        "name": "Add Money"
+      },
+      {
+        "id": "228:158215",
+        "name": "Add Money"
+      },
+      {
+        "id": "228:158176",
+        "name": "Add Money"
+      },
+      {
+        "id": "228:158254",
+        "name": "Convert Successful"
+      },
+      {
+        "id": "228:158265",
+        "name": "Notifications"
+      },
+      {
+        "id": "228:158318",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "228:158372",
+        "name": "Transaction detail -local transfer"
+      }
+    ]
+  },
+  {
+    "flow": "Add Money - USD Account (Widget Implementation)",
+    "screens": [
+      {
+        "id": "226:151439",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "861:158632",
+        "name": "USD Bank Transfer"
+      },
+      {
+        "id": "226:151564",
+        "name": "Transfer successful!"
+      },
+      {
+        "id": "226:151574",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "226:151801",
+        "name": "USDC Wallet Address"
+      }
+    ]
+  },
+  {
+    "flow": "USD Wallet - Add Money (African)",
+    "screens": [
+      {
+        "id": "861:158343",
+        "name": "Homepage -Africans"
+      },
+      {
+        "id": "861:156774",
+        "name": "USDC Wallet Address"
+      },
+      {
+        "id": "861:156821",
+        "name": "Notifications"
+      },
+      {
+        "id": "861:156874",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "861:156934",
+        "name": "Transaction detail -local transfer"
+      },
+      {
+        "id": "861:156995",
+        "name": "USDC Wallet Address"
+      },
+      {
+        "id": "861:157097",
+        "name": "USDC Wallet Address"
+      }
+    ]
+  }
+]

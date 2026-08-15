@@ -1,5 +1,6 @@
 import type { PlatformData } from '../types'
 import { MOBILE_V4_PRO_FLOWS } from './mobileV4ProFlows'
+import { MOBILE_V3_GLOBAL_FLOWS, MOBILE_V3_AFRICA_FLOWS } from './mobileV3Flows'
 import { MOBILE_V1_NIGERIA_FLOWS, MOBILE_V1_NON_NIGERIA_FLOWS } from './mobileV1Flows'
 import { MOBILE_V2_NIGERIA_FLOWS, MOBILE_V2_NON_NIGERIA_FLOWS } from './mobileV2Flows'
 import { getRegions } from '../lib/regions'
@@ -17,7 +18,27 @@ export const PLATFORMS: PlatformData[] = [
         flows: MOBILE_V4_PRO_FLOWS,
       },
       { id: 'v4', label: 'V4', flows: [] },
-      { id: 'v3', label: 'V3', flows: [] },
+      {
+        id: 'v3',
+        label: 'V3',
+        flows: [],
+        regions: [
+          {
+            id: 'global',
+            label: 'Global',
+            figmaFileKey: '96uOrWCQaSFmLULzkZzgi7',
+            figmaSectionNodeId: '1:4',
+            flows: MOBILE_V3_GLOBAL_FLOWS,
+          },
+          {
+            id: 'africa',
+            label: 'Africa',
+            figmaFileKey: 'vndwgpIDjFFFQGWx3oMjYu',
+            figmaSectionNodeId: '1:4',
+            flows: MOBILE_V3_AFRICA_FLOWS,
+          },
+        ],
+      },
       {
         id: 'v2',
         label: 'V2',
