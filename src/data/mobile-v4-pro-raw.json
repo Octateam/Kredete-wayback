@@ -1,5 +1,661 @@
 [
   {
+    "flow": "Primary onboarding - new users",
+    "screens": [
+      {
+        "id": "10947:143671",
+        "name": "Create account-empty"
+      },
+      {
+        "id": "10947:144060",
+        "name": "Create account-empty"
+      },
+      {
+        "id": "10947:144457",
+        "name": "Account verification"
+      },
+      {
+        "id": "10947:144466",
+        "name": "Account verification"
+      },
+      {
+        "id": "10947:144473",
+        "name": "Account verification"
+      },
+      {
+        "id": "10947:144498",
+        "name": "Setup your account - email - empty"
+      },
+      {
+        "id": "10947:144512",
+        "name": "Setup your account - email - empty"
+      },
+      {
+        "id": "10947:144526",
+        "name": "Setup your account - email - empty"
+      },
+      {
+        "id": "10947:144540",
+        "name": "Setup your account - email - empty"
+      },
+      {
+        "id": "10947:144554",
+        "name": "Setup your account - email - empty"
+      },
+      {
+        "id": "10947:144571",
+        "name": "Create account"
+      },
+      {
+        "id": "10947:144595",
+        "name": "Create account"
+      },
+      {
+        "id": "10947:144618",
+        "name": "Create account"
+      },
+      {
+        "id": "10947:144640",
+        "name": "Create account"
+      },
+      {
+        "id": "10947:144663",
+        "name": "Create account"
+      },
+      {
+        "id": "10947:144685",
+        "name": "Create account"
+      },
+      {
+        "id": "10947:144716",
+        "name": "Verify phone number"
+      },
+      {
+        "id": "10947:144730",
+        "name": "Verify phone number"
+      },
+      {
+        "id": "10947:144744",
+        "name": "Verify phone number"
+      },
+      {
+        "id": "10947:144758",
+        "name": "Verify phone number"
+      },
+      {
+        "id": "10947:144773",
+        "name": "Verify phone number"
+      },
+      {
+        "id": "10947:144787",
+        "name": "Welcome to kredete"
+      },
+      {
+        "id": "10947:144821",
+        "name": "Home"
+      }
+    ]
+  },
+  {
+    "flow": "Primary onboarding - social login",
+    "screens": [
+      {
+        "id": "10947:145069",
+        "name": "Create account-empty"
+      },
+      {
+        "id": "10947:145458",
+        "name": "Create account-empty"
+      },
+      {
+        "id": "10947:145855",
+        "name": "Create Account / typing"
+      },
+      {
+        "id": "10947:145877",
+        "name": "Create Account / typing"
+      },
+      {
+        "id": "10947:145908",
+        "name": "Create Account / typing"
+      },
+      {
+        "id": "10947:145974",
+        "name": "Create Account / typing"
+      },
+      {
+        "id": "10947:145997",
+        "name": "Create account"
+      },
+      {
+        "id": "10947:146019",
+        "name": "Verify your phone number"
+      },
+      {
+        "id": "10947:146033",
+        "name": "Verify your phone number"
+      },
+      {
+        "id": "10947:146047",
+        "name": "Verify your phone number"
+      },
+      {
+        "id": "10947:146061",
+        "name": "Verify your phone number"
+      },
+      {
+        "id": "10947:146075",
+        "name": "Verify your phone number"
+      },
+      {
+        "id": "10947:146099",
+        "name": "Home"
+      },
+      {
+        "id": "10947:146355",
+        "name": "Create Account / typing"
+      },
+      {
+        "id": "10947:146419",
+        "name": "Welcome to kredete"
+      }
+    ]
+  },
+  {
+    "flow": "PIN creation",
+    "screens": [
+      {
+        "id": "10947:146445",
+        "name": "Money sent"
+      },
+      {
+        "id": "10947:146470",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146479",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146488",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146497",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146512",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146527",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146542",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146557",
+        "name": "Create PIN"
+      },
+      {
+        "id": "10947:146581",
+        "name": "Confirm new PIN"
+      },
+      {
+        "id": "10947:146590",
+        "name": "Confirm new PIN"
+      },
+      {
+        "id": "10947:146599",
+        "name": "transaction summary"
+      },
+      {
+        "id": "10947:146628",
+        "name": "transaction summary"
+      },
+      {
+        "id": "10947:146659",
+        "name": "transaction summary"
+      },
+      {
+        "id": "10947:146708",
+        "name": "Login-empty"
+      },
+      {
+        "id": "10947:146724",
+        "name": "Login-empty"
+      },
+      {
+        "id": "10947:146740",
+        "name": "Login-empty"
+      },
+      {
+        "id": "10947:146759",
+        "name": "Login-empty"
+      }
+    ]
+  },
+  {
+    "flow": "BVN & NIN verification - new users",
+    "screens": [
+      {
+        "id": "10947:146779",
+        "name": "In progress"
+      },
+      {
+        "id": "10947:146791",
+        "name": "In progress"
+      },
+      {
+        "id": "10947:146821",
+        "name": "Home - new user - empty"
+      },
+      {
+        "id": "10947:147045",
+        "name": "Home - new user - empty"
+      },
+      {
+        "id": "10947:147271",
+        "name": "Home - new user - empty"
+      },
+      {
+        "id": "10947:147501",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147524",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147547",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147570",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147593",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147616",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147639",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147662",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:147685",
+        "name": "Personal Information- Empty"
+      },
+      {
+        "id": "10947:147692",
+        "name": "Personal Information- Empty"
+      },
+      {
+        "id": "10947:147699",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:147804",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:147919",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:148034",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:148149",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:148264",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:148379",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:148494",
+        "name": "Accounts"
+      },
+      {
+        "id": "10947:148609",
+        "name": "Accounts"
+      }
+    ]
+  },
+  {
+    "flow": "NIN verification - existing users",
+    "screens": [
+      {
+        "id": "10947:148717",
+        "name": "In progress"
+      },
+      {
+        "id": "10947:148747",
+        "name": "Home - one account"
+      },
+      {
+        "id": "10947:149007",
+        "name": "Home - one account"
+      },
+      {
+        "id": "10947:149269",
+        "name": "Home - one account"
+      },
+      {
+        "id": "10947:149533",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:149556",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:149579",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:149602",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:149625",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:149648",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:149671",
+        "name": "NIN verification"
+      },
+      {
+        "id": "10947:149694",
+        "name": "NIN verification"
+      },
+      {
+        "id": "11642:123791",
+        "name": "Accounts"
+      }
+    ]
+  },
+  {
+    "flow": "ID Verification for African, Global & Immigrant Users",
+    "screens": [
+      {
+        "id": "10947:149896",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "10947:150143",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "11676:140469",
+        "name": "Employment information"
+      },
+      {
+        "id": "11676:140489",
+        "name": "Employment information"
+      },
+      {
+        "id": "11676:140534",
+        "name": "Employment information"
+      },
+      {
+        "id": "11676:140579",
+        "name": "Employment information"
+      },
+      {
+        "id": "11676:140634",
+        "name": "Employment information"
+      },
+      {
+        "id": "11676:140654",
+        "name": "Employment information"
+      },
+      {
+        "id": "10947:150392",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "10947:150649",
+        "name": "Home - new user - emoty"
+      },
+      {
+        "id": "10947:150906",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:150927",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:150952",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:150976",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151000",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151030",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151060",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151111",
+        "name": "In progress"
+      }
+    ]
+  },
+  {
+    "flow": "Source of funds",
+    "screens": [
+      {
+        "id": "10947:151124",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151149",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151174",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151200",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151226",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151256",
+        "name": "Send"
+      },
+      {
+        "id": "10947:151332",
+        "name": "Send"
+      },
+      {
+        "id": "10947:151408",
+        "name": "Send"
+      },
+      {
+        "id": "10947:151491",
+        "name": "Send"
+      },
+      {
+        "id": "10947:151512",
+        "name": "transaction summary"
+      },
+      {
+        "id": "10947:151547",
+        "name": "transaction summary"
+      },
+      {
+        "id": "10947:151571",
+        "name": "All done"
+      }
+    ]
+  },
+  {
+    "flow": "Employment and address information",
+    "screens": [
+      {
+        "id": "10947:151586",
+        "name": "Transfers"
+      },
+      {
+        "id": "10947:151626",
+        "name": "Transfers"
+      },
+      {
+        "id": "10947:151690",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151716",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151742",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151756",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151773",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151790",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151825",
+        "name": "ID verification"
+      },
+      {
+        "id": "10947:151858",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151886",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151914",
+        "name": "Source of funds"
+      },
+      {
+        "id": "10947:151942",
+        "name": "Address"
+      },
+      {
+        "id": "10947:151964",
+        "name": "Address"
+      },
+      {
+        "id": "10947:151994",
+        "name": "Address"
+      },
+      {
+        "id": "10947:152018",
+        "name": "Address"
+      },
+      {
+        "id": "10947:152040",
+        "name": "Address"
+      },
+      {
+        "id": "10947:152062",
+        "name": "Address"
+      },
+      {
+        "id": "10947:152093",
+        "name": "Address"
+      },
+      {
+        "id": "10947:152127",
+        "name": "Employment information"
+      },
+      {
+        "id": "10947:152147",
+        "name": "Employment information"
+      },
+      {
+        "id": "10947:152192",
+        "name": "Employment information"
+      },
+      {
+        "id": "10947:152237",
+        "name": "Employment information"
+      },
+      {
+        "id": "10947:152292",
+        "name": "Employment information"
+      },
+      {
+        "id": "10947:152312",
+        "name": "Employment information"
+      },
+      {
+        "id": "10947:152367",
+        "name": "Expected activity"
+      },
+      {
+        "id": "10947:152381",
+        "name": "Expected activity"
+      },
+      {
+        "id": "10947:152406",
+        "name": "Expected activity"
+      },
+      {
+        "id": "10947:152431",
+        "name": "Expected activity"
+      },
+      {
+        "id": "10947:152469",
+        "name": "Expected activity"
+      },
+      {
+        "id": "10947:152492",
+        "name": "All done"
+      }
+    ]
+  },
+  {
     "flow": "Black Americans/ US",
     "screens": [
       {
