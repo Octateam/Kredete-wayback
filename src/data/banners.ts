@@ -67,6 +67,7 @@ const BANNERS: Record<string, BannerConfig> = {
       "The current, most complete set of flows and screens across the Kredete Mobile App — onboarding through credit, cards and creators.",
     bgColor: '#211E26',
     accentText: 'text-fuchsia-400',
+    previewFlowIds: ['primary-onboarding-new-users', 'stocks', 'crypto'],
   },
   'web/v1': {
     accent: 'Business SaaS · V1',
